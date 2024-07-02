@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
+    <title>Kreativität trifft Technik e.V. - Fahrrad</title>
+    <subtitle>Website des Kreativität trifft Technik e.V.</subtitle>
+    <link rel="self" type="application/atom+xml" href="/gruppe/fahrrad/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-24T23:42:00+00:00</updated>
+    <id>/gruppe/fahrrad/atom.xml</id>
+    <entry xml:lang="de">
+        <title>Forumslader</title>
+        <published>2011-12-01T10:00:00+00:00</published>
+        <updated>2024-03-24T23:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2011/forumslader/"/>
+        <id>/blog/2011/forumslader/</id>
+        
+        <content type="html" xml:base="/blog/2011/forumslader/">&lt;p&gt;&lt;img src=&quot;&#x2F;media&#x2F;blog&#x2F;2011&#x2F;inventarsystem&#x2F;forumslader.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Der &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.forumslader.de&#x2F;&quot;&gt;Forumslader&lt;&#x2F;a&gt; ist ein Ladegerät fürs Fahrrad, dessen Nachbau für private Nutzung
+erlaubt ist. Er ist dazu gedacht, Mobiltelefone oder Navigationsgeräte während des Radfahrens zu betreiben bzw.
+aufzuladen.&lt;&#x2F;p&gt;
+&lt;p&gt;Wir haben uns für den Nachbau die 12V Variante mit USB ausgesucht, und ein paar Anpassungen vorgenommen. So haben wir
+z.B. den 5V-Teil der Schaltung, die für die Spannungsregulierung für USB zuständig ist, durch einen fertigen Chip
+ersetzt.&lt;br &#x2F;&gt;
+Gehäuse und Formfaktoren unterscheiden sich bei unseren Geräten danach, wie derjenige sein Gerät am Fahrrad montieren
+oder benutzen möchte. Auf dem Bild z.B. wurde der USB Ladeanschluss in den Lenker integriert. Einige Geräte wurden auch
+um eine 12V Anschlussmöglichkeit oder einen schönen Rundstecker für die Stromabnahme des Nabendynamos erweitert.&lt;&#x2F;p&gt;
+&lt;p&gt;Eine komplette Übersicht von Schaltplänen, Prototypen und vorgenommenen Anpassungen, gibt
+es &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;wiki.kreativitaet-trifft-technik.de&#x2F;public&#x2F;Projekte&#x2F;Fahrradelektronik&#x2F;Forumslader&quot;&gt;im Wiki&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
