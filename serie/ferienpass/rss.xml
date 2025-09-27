@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Ferienpass</title>
-      <link>https://ktt-ol.github.io</link>
+      <link>&apos;https://mainframe.io/&apos;</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://ktt-ol.github.io/serie/ferienpass/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="'https://mainframe.io/'/serie/ferienpass/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Fri, 22 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>Ferienpassaktion &quot;Multifunktionssensor bauen&quot;</title>
           <pubDate>Sat, 24 Jun 2017 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2017/ferienpass-2017/</link>
-          <guid>https://ktt-ol.github.io/blog/2017/ferienpass-2017/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2017/ferienpass-2017/">&lt;p&gt;Die Ferienpassaktion “Multifunktionssensor bauen” ist auch in diesem Jahr erfolgreich zu Ende gegangen.&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2017/ferienpass-2017/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2017/ferienpass-2017/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2017/ferienpass-2017/">&lt;p&gt;Die Ferienpassaktion “Multifunktionssensor bauen” ist auch in diesem Jahr erfolgreich zu Ende gegangen.&lt;&#x2F;p&gt;
 &lt;p&gt;Da wir diesmal im Vergleich zum Vorjahr ein komplexeres Projekt gewählt haben und dies der erste Versuch war, hat es
 diesmal etwas länger gedauert, um alles fertig zu bauen. Nach Ausbesserung einiger üblicher Lötfehler konnten aber
 schließlich alle Teilnehmer einen blinkend funktionierenden Sensor mit nach Hause nehmen.&lt;&#x2F;p&gt;
@@ -29,9 +29,9 @@ finden: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&q
           <title>Ferienpass 2016 - Binäruhren bauen</title>
           <pubDate>Sat, 09 Jul 2016 19:36:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2016/ferienpass-2016-1/</link>
-          <guid>https://ktt-ol.github.io/blog/2016/ferienpass-2016-1/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2016/ferienpass-2016-1/">&lt;p&gt;Am 02. und 03. Juli haben Jugendliche im Rahmen der Ferienpassaktion eine Binäruhr gelötet.&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2016/ferienpass-2016-1/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2016/ferienpass-2016-1/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2016/ferienpass-2016-1/">&lt;p&gt;Am 02. und 03. Juli haben Jugendliche im Rahmen der Ferienpassaktion eine Binäruhr gelötet.&lt;&#x2F;p&gt;
 &lt;p&gt;Nach einem Rundgang durch den Space erläuterten Jan und Peter das Binärsystem, grundlegendes Elektrotechnik-Wissen über
 die Bauteile der Binäruhr sowie einige Grundregeln des Lötens.&lt;&#x2F;p&gt;
 &lt;p&gt;Anschließend ging es an die Lötkolben. Nach einigen Zentimetern Lötzinn, abgeschnittenen Drähten und etwas Korrekturen
@@ -44,9 +44,9 @@ alle Helfer!“&lt;&#x2F;p&gt;
           <title>Ferienpass 2015 - Binäruhren</title>
           <pubDate>Sun, 02 Aug 2015 20:36:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2015/ferienpass/</link>
-          <guid>https://ktt-ol.github.io/blog/2015/ferienpass/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2015/ferienpass/">&lt;p&gt;Am Wochenende des 01. und 02. August haben Schüler im Rahmen der Ferienpassaktion eine Binäruhr gelötet.&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2015/ferienpass/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2015/ferienpass/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2015/ferienpass/">&lt;p&gt;Am Wochenende des 01. und 02. August haben Schüler im Rahmen der Ferienpassaktion eine Binäruhr gelötet.&lt;&#x2F;p&gt;
 &lt;p&gt;Nach einem Rundgang durch den Space erläuterten Jan und Peter das Binärsystem, grundlegendes Wissen über die Bauteile
 der Binäruhr sowie einige Grundregeln des Lötens.&lt;&#x2F;p&gt;
 &lt;p&gt;Anschließend ging es an die Lötkolben. Nach einigen Zentimetern Lötzinn, abgeschnittenen Drähten und etwas Korrekturen
@@ -59,9 +59,9 @@ Vielen Dank an alle Helfer!&lt;&#x2F;p&gt;
           <title>Ferienpass 2014 - Binäruhren</title>
           <pubDate>Tue, 26 Aug 2014 20:36:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2014/ferienpass/</link>
-          <guid>https://ktt-ol.github.io/blog/2014/ferienpass/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2014/ferienpass/">&lt;p&gt;Am Wochenende vom 9.8.2014 hatten wir wie im Vorjahr 7 Technik interessierte Jugendliche bei uns zu Gast, die bei uns
+          <link>&apos;https://mainframe.io/&apos;/blog/2014/ferienpass/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2014/ferienpass/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2014/ferienpass/">&lt;p&gt;Am Wochenende vom 9.8.2014 hatten wir wie im Vorjahr 7 Technik interessierte Jugendliche bei uns zu Gast, die bei uns
 eine Binäruhr bauen wollten. Den Teilnehmern dieser Aktion wurde nach einer kurzen Einweisung je ein Set für eine
 Binäruhr, die von unserem Mitglied Sebastian Setz entwickelt wurde, ausgehändigt. Danach haben die Jugendlichen unter
 Anleitung begonnen ihre Binäruhren zu bauen nach einigen kleinen Startschwierigkeiten mit den Widerständen konnten am
@@ -72,9 +72,9 @@ Sonntag alle 7 Teilnehmer mit einer funktionierenden Binäruhr nach Hause gehen.
           <title>Ferienpass 2013 - Klackerlaken</title>
           <pubDate>Sun, 21 Jul 2013 21:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2013/ferienpass-2013-2/</link>
-          <guid>https://ktt-ol.github.io/blog/2013/ferienpass-2013-2/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2013/ferienpass-2013-2/">&lt;p&gt;Klackerlaken sind kleine elektronische Plagegeister, die einfach gebaut und dekoriert werden können und sich dann durch
+          <link>&apos;https://mainframe.io/&apos;/blog/2013/ferienpass-2013-2/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2013/ferienpass-2013-2/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2013/ferienpass-2013-2/">&lt;p&gt;Klackerlaken sind kleine elektronische Plagegeister, die einfach gebaut und dekoriert werden können und sich dann durch
 Summen oder Scheppern fortbewegen. Die selbstgebastelten Gesellen lassen wir dann im Klackerlakenrennen gegeneinander
 antreten.&lt;&#x2F;p&gt;
 &lt;p&gt;14:00 - 17:00 Uhr ab 16:00 Uhr dürfen die Eltern gerne dem Klackerlakenrennen zuschauen.&lt;&#x2F;p&gt;
@@ -85,9 +85,9 @@ antreten.&lt;&#x2F;p&gt;
           <title>Ferienpass 2013 - Binär Uhr</title>
           <pubDate>Sun, 14 Jul 2013 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2013/ferienpass-2013-1/</link>
-          <guid>https://ktt-ol.github.io/blog/2013/ferienpass-2013-1/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2013/ferienpass-2013-1/">&lt;p&gt;Hier soll eine Wanduhr gebaut und gelötet werden. Aber keine normale! Die Uhrzeit wird mit LEDs als Binärzahl angezeigt.
+          <link>&apos;https://mainframe.io/&apos;/blog/2013/ferienpass-2013-1/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2013/ferienpass-2013-1/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2013/ferienpass-2013-1/">&lt;p&gt;Hier soll eine Wanduhr gebaut und gelötet werden. Aber keine normale! Die Uhrzeit wird mit LEDs als Binärzahl angezeigt.
 Vorab wird erklärt, was Binärzahlen sind und wie man mit dem Lötkolben umgeht, Vorkenntnisse sind also nicht
 erforderlich.&lt;&#x2F;p&gt;
 &lt;p&gt;Zweitägiger Kurs jeweils 13:00-18:00 Uhr am 13. und 14. Juli. 8 Teilnehmerinnen und Teilnehmer, 14 - 16 Jahre&lt;&#x2F;p&gt;
@@ -97,9 +97,9 @@ erforderlich.&lt;&#x2F;p&gt;
           <title>Ferienpass 2012 - Klackerlaken-Bauen II</title>
           <pubDate>Sun, 26 Aug 2012 19:30:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2012/ferienpass-2012-3/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/ferienpass-2012-3/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/ferienpass-2012-3/">&lt;p&gt;Alle haben ihre Klackerlaken fertig bekommen und sich bei den Rennen und anderen Wettbewerben bewährt.&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/ferienpass-2012-3/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/ferienpass-2012-3/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/ferienpass-2012-3/">&lt;p&gt;Alle haben ihre Klackerlaken fertig bekommen und sich bei den Rennen und anderen Wettbewerben bewährt.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;ferienpass-2012-3&#x2F;0000.jpg&quot; alt=&quot;Danke Firma Endrich&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Vielen Dank nochmal an die Firma &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.endrich.com&#x2F;de&#x2F;&quot;&gt;Endrich&lt;&#x2F;a&gt;,
 die uns freundlicherweise die Motoren für die Ferienpass-Aktionen und die Beteiligung
@@ -117,9 +117,9 @@ unter einer freien CC-Lizenz der Allgemeinheit zur Verfügung gestellt hat!&lt;&
           <title>Ferienpass 2012 - LED-Cubes</title>
           <pubDate>Fri, 17 Aug 2012 20:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2012/ferienpass-2012-2/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/ferienpass-2012-2/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/ferienpass-2012-2/">&lt;p&gt;Trotz filigraner Würfel-Konstruktion und anspruchsvoller Platinen ohne Stopplack konnten sechs Teilnehmer glücklich mit
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/ferienpass-2012-2/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/ferienpass-2012-2/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/ferienpass-2012-2/">&lt;p&gt;Trotz filigraner Würfel-Konstruktion und anspruchsvoller Platinen ohne Stopplack konnten sechs Teilnehmer glücklich mit
 ihren fertigen Cubes heim gehen und die anderen mussten nur aus Zeitgründen unterbrechen – nach den Ferien stellen
 sicher auch die beiden ihre Werke fertig!&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;ferienpass-2012-2&#x2F;0000.jpg&quot; alt=&quot;Gruppenfoto&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -161,9 +161,9 @@ reinschaut und eigene Ideen mit oder ohne LEDs und in Würfelform oder nicht ums
           <title>Ferienpass 2012 - Klackerlaken-Bauen I</title>
           <pubDate>Sat, 28 Jul 2012 21:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2012/ferienpass-2012-1/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/ferienpass-2012-1/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/ferienpass-2012-1/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;ferienpass-2012-1&#x2F;0000.jpg&quot; alt=&quot;Klackerlaken-Schlachtfeld ;)&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/ferienpass-2012-1/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/ferienpass-2012-1/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/ferienpass-2012-1/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;ferienpass-2012-1&#x2F;0000.jpg&quot; alt=&quot;Klackerlaken-Schlachtfeld ;)&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Nach einer Menge Spaß beim Herumprobieren und Dekorieren gab es noch kleine Wettbewerbe: Wer fährt schneller durch die
 selbstgebaute Rennstrecke, wer dreht schneller oder besonders laut oder leise. Außerdem wurden Räume und Maschinen
 besichtigt, Fahrstuhl gefahren und Verstecken gespielt ;)&lt;&#x2F;p&gt;

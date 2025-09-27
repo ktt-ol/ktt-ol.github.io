@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Eingeloggt!</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://ktt-ol.github.io/serie/eingeloggt/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://ktt-ol.github.io"/>
+    <link rel="self" type="application/atom+xml" href="'https://mainframe.io/'/serie/eingeloggt/atom.xml"/>
+    <link rel="alternate" type="text/html" href="&apos;https://mainframe.io/&apos;"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-03-22T19:42:00+00:00</updated>
-    <id>https://ktt-ol.github.io/serie/eingeloggt/atom.xml</id>
+    <id>'https://mainframe.io/'/serie/eingeloggt/atom.xml</id>
     <entry xml:lang="de">
         <title>Eingeloggt! Oldenburg</title>
         <published>2025-03-22T19:42:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2025/eingeloggt/"/>
-        <id>https://ktt-ol.github.io/blog/2025/eingeloggt/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2025/eingeloggt/"/>
+        <id>'https://mainframe.io/'/blog/2025/eingeloggt/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2025/eingeloggt/">&lt;p&gt;In Oldenburg findet bereits zum dritten Mal die Eingeloggt!-Woche statt. Vom 23.03. bis 30.03.2025 laden wieder
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2025/eingeloggt/">&lt;p&gt;In Oldenburg findet bereits zum dritten Mal die Eingeloggt!-Woche statt. Vom 23.03. bis 30.03.2025 laden wieder
 zahlreiche
 Organisationen in Oldenburg generationenübergreifend zu Workshops, Besichtigungen und Vorträgen rund um das Thema
 Digitalisierung ein.
@@ -70,7 +70,7 @@ Textilien, Holz und Metall&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;Unser Hackspace Mainframe ist auch weiterhin immer für Besucher geöffnet, wenn
-auf &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;status.ktt-ol.de&#x2F;&quot;&gt;https:&#x2F;&#x2F;status.ktt-ol.de&#x2F;&lt;&#x2F;a&gt; als Status “AUF” oder “AUF+” steht. Dies ist meistens montags
+auf &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;status.mainframe.io&quot;&gt;status.mainframe.io&lt;&#x2F;a&gt; als Status “AUF” oder “AUF+” steht. Dies ist meistens montags
 bis sonntags ab 19 Uhr bis Mitternacht der Fall, häufig auch früher und länger. Wir freuen uns auf Euren Besuch im
 Postgebäude direkt am Oldenburger Hauptbahnhof, Eingang gegenüber Europcar.&lt;&#x2F;p&gt;
 </content>

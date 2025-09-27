@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Software</title>
-      <link>https://ktt-ol.github.io</link>
+      <link>&apos;https://mainframe.io/&apos;</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://ktt-ol.github.io/serie/software/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="'https://mainframe.io/'/serie/software/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sun, 24 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>Lederschuhe</title>
           <pubDate>Thu, 18 Jul 2013 10:00:00 +0000</pubDate>
           <author>Fermate</author>
-          <link>https://ktt-ol.github.io/blog/2013/lederschuhe/</link>
-          <guid>https://ktt-ol.github.io/blog/2013/lederschuhe/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2013/lederschuhe/">&lt;p&gt;Der Laser schneidet nicht nur Holz oder Polypropylen, sondern auch Leder. Mein
+          <link>&apos;https://mainframe.io/&apos;/blog/2013/lederschuhe/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2013/lederschuhe/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2013/lederschuhe/">&lt;p&gt;Der Laser schneidet nicht nur Holz oder Polypropylen, sondern auch Leder. Mein
 erstes Projekt waren Bundschuhe - oft als Mittelalterschuhe tituliert, aber
 eigentlich viel älter. In der einfachen Landbevölkerung hielten sie sich jedoch
 bis ins späte Mittelalter &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Bundschuh&quot;&gt;[1]&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
@@ -66,9 +66,9 @@ mit den Löschen L1-L6&#x2F;R1-R6) verdeckt.&lt;&#x2F;p&gt;
           <title>Arduino Comic</title>
           <pubDate>Tue, 22 May 2012 18:00:00 +0000</pubDate>
           <author>thorben</author>
-          <link>https://ktt-ol.github.io/blog/2012/arduino-comic/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/arduino-comic/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/arduino-comic/">&lt;p&gt;Ein echter Dauerbrenner bei uns ist das kreative Arbeiten mit Mikrocontrollerschaltungen. Auch gerade auf neue Gäste im
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/arduino-comic/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/arduino-comic/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/arduino-comic/">&lt;p&gt;Ein echter Dauerbrenner bei uns ist das kreative Arbeiten mit Mikrocontrollerschaltungen. Auch gerade auf neue Gäste im
 Beta-Space übt dieser Bereich der Elektronik große Anziehungskraft aus. Um hier den Einstieg möglichst leicht zu machen
 und unsere Aufbauten möglichst untereinander kompatibel zu halten, hat sich die quelloffene
 Mikrocontrollerprogrammierung mit Arduino quasi als „Standard“ etabliert. Auch mit überschaubaren Hardware- und
@@ -97,9 +97,9 @@ Natürlich helfen wir Einsteigern immer gerne, die ersten Schritte in die Welt d
           <title>Inventarsystem</title>
           <pubDate>Thu, 01 Dec 2011 10:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2011/inventarsystem/</link>
-          <guid>https://ktt-ol.github.io/blog/2011/inventarsystem/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2011/inventarsystem/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;inventarsystem&#x2F;inventarsystem.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2011/inventarsystem/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2011/inventarsystem/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2011/inventarsystem/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;inventarsystem&#x2F;inventarsystem.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;TODO :)&lt;&#x2F;p&gt;
 </description>
       </item>
@@ -107,9 +107,9 @@ Natürlich helfen wir Einsteigern immer gerne, die ersten Schritte in die Welt d
           <title>Shopsystem</title>
           <pubDate>Thu, 01 Dec 2011 10:00:00 +0000</pubDate>
           <author>sre</author>
-          <link>https://ktt-ol.github.io/blog/2011/shopsystem/</link>
-          <guid>https://ktt-ol.github.io/blog/2011/shopsystem/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2011/shopsystem/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;shopsystem&#x2F;shopsystem.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2011/shopsystem/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2011/shopsystem/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2011/shopsystem/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;shopsystem&#x2F;shopsystem.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Mit steigender Mitgliederzahl und mehr als 5 verschiedenen Produkten im “Kiosk“des Hackspaces wurde das führen und
 auswerten von Strichlisten immer aufwändiger. Aus diesem Grund wurde von uns Software entwickelt, welche die Daten von
 Beginn an digital vorhält.&lt;&#x2F;p&gt;

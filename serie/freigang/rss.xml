@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - freiGang</title>
-      <link>https://ktt-ol.github.io</link>
+      <link>&apos;https://mainframe.io/&apos;</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://ktt-ol.github.io/serie/freigang/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="'https://mainframe.io/'/serie/freigang/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Fri, 22 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>freiGang 2014</title>
           <pubDate>Fri, 08 Aug 2014 20:45:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2014/freigang/</link>
-          <guid>https://ktt-ol.github.io/blog/2014/freigang/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2014/freigang/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2014&#x2F;freigang&#x2F;img01.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2014/freigang/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2014/freigang/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2014/freigang/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2014&#x2F;freigang&#x2F;img01.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Auch dieses Jahr waren wir als Verein wieder beim&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.kultursommer-oldenburg.de&#x2F;?id=1--x-613&quot;&gt;freiGang&lt;&#x2F;a&gt; dabei.
 Der freiGang, als “Ort für Anderes”, war auch diesmal wieder die gemütlichere Ecke des Kultursommers.
 Stattgefunden hat er diesmal vom 16. bis zum 20. Juli.&lt;&#x2F;p&gt;
@@ -43,9 +43,9 @@ unterstützen und mit den Gästen rumnerden.&lt;&#x2F;p&gt;
           <title>freiGang 2013</title>
           <pubDate>Fri, 12 Jul 2013 23:53:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2013/freigang2013/</link>
-          <guid>https://ktt-ol.github.io/blog/2013/freigang2013/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2013/freigang2013/">&lt;p&gt;Wir als Verein waren auf dem &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;freigang.oldenburg&quot;&gt;freiGang&lt;&#x2F;a&gt; vertreten. Der fand vom 3. Juli bis
+          <link>&apos;https://mainframe.io/&apos;/blog/2013/freigang2013/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2013/freigang2013/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2013/freigang2013/">&lt;p&gt;Wir als Verein waren auf dem &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;freigang.oldenburg&quot;&gt;freiGang&lt;&#x2F;a&gt; vertreten. Der fand vom 3. Juli bis
 6. Juli 2013 im Rahmen des &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.kultursommer-oldenburg.de&#x2F;&quot;&gt;Oldenburger Kultursommers&lt;&#x2F;a&gt; statt. Wir haben täglich
 zwei Workshops angeboten, u.a. das Löten eines LED-Cubes, und haben am Stand jeden Tag von 16.00 Uhr bis zum Ende den
 Verein, das Fablab und den Hackspace präsentiert.&lt;&#x2F;p&gt;

@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - USD</title>
-      <link>https://ktt-ol.github.io</link>
+      <link>&apos;https://mainframe.io/&apos;</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://ktt-ol.github.io/serie/usd/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="'https://mainframe.io/'/serie/usd/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sun, 24 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>Der arabische Frühling… und was bei uns angekommen ist</title>
           <pubDate>Wed, 29 Feb 2012 19:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2012/usd2/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/usd2/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/usd2/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;USD2&#x2F;urbach.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/usd2/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/usd2/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/usd2/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;USD2&#x2F;urbach.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Den zweiten Vortrag bestreitet für uns der Telecomix Aktivist Stephan Urbach.&lt;&#x2F;p&gt;
 &lt;p&gt;Stephan Urbach, geboren 1980 in Lauterbach, geschieden, lebt und arbeitet in Berlin. Nach einem abgebrochenen
 Lehramtsstudium und einer erfolgreichen Bankkaufmannslehre arbeitete Urbach bei AOL. Seit 2011 tut er das nicht mehr,
@@ -43,9 +43,9 @@ Mittwoch den 29. Februar, 2012 - 19:00 bis 22:00&lt;&#x2F;p&gt;
           <title>Vortrag: Der Arabische Frühling … und was bei uns angekommen ist</title>
           <pubDate>Thu, 16 Feb 2012 19:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2012/2012-01/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/2012-01/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/2012-01/">&lt;h1 id=&quot;vortrag-der-arabische-fruhling-und-was-bei-uns-angekommen-ist&quot;&gt;Vortrag: Der Arabische Frühling … und was bei uns angekommen ist&lt;&#x2F;h1&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/2012-01/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/2012-01/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/2012-01/">&lt;h1 id=&quot;vortrag-der-arabische-fruhling-und-was-bei-uns-angekommen-ist&quot;&gt;Vortrag: Der Arabische Frühling … und was bei uns angekommen ist&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Oldenburger Verein organisiert Veranstaltungsreihe zum Leben in der vernetzten Gesellschaft&lt;&#x2F;p&gt;
@@ -89,9 +89,9 @@ getragen werden.&lt;&#x2F;p&gt;
           <title>Ankündigung „Der Arabische Frühling … und was bei uns angekommen ist”</title>
           <pubDate>Wed, 08 Feb 2012 12:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2012/2012-02/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/2012-02/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/2012-02/">&lt;p&gt;&lt;strong&gt;„Vortrag: Der Arabische Frühling … und was bei uns angekommen ist“&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/2012-02/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/2012-02/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/2012-02/">&lt;p&gt;&lt;strong&gt;„Vortrag: Der Arabische Frühling … und was bei uns angekommen ist“&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Oldenburger Verein organisiert Veranstaltungsreihe zum
@@ -168,9 +168,9 @@ zeit.de v.01.02.2011&lt;&#x2F;p&gt;
           <title>Wenn der Staat das Internet hackt...</title>
           <pubDate>Mon, 21 Nov 2011 20:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2011/usd1/</link>
-          <guid>https://ktt-ol.github.io/blog/2011/usd1/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2011/usd1/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;USD1&#x2F;freude.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2011/usd1/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2011/usd1/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2011/usd1/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;USD1&#x2F;freude.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Für die Auftaktveranstaltung konnten wir Herrn Alvar C.H. Freude gewinnen. Alvar Freude engagiert sich seit rund 15
 Jahren für ein freies und offenes Internet und ist einer der Gründer des Arbeitskreises gegen Internet-Sperren und
 Zensur (AK Zensur), der erfolgreich gegen das Zugangserschwerungsgesetz opponiert hat. Seit Mai 2010 ist Alvar Freude
@@ -195,9 +195,9 @@ Montag, 21 November, 2011 - 20:00 bis 22:00&lt;&#x2F;p&gt;
           <title>Vortrag: Wenn der Staat das Internet hackt</title>
           <pubDate>Wed, 16 Nov 2011 12:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2011/2011-02/</link>
-          <guid>https://ktt-ol.github.io/blog/2011/2011-02/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2011/2011-02/">&lt;p&gt;Vortrag: Wenn der Staat das Internet hackt&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2011/2011-02/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2011/2011-02/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2011/2011-02/">&lt;p&gt;Vortrag: Wenn der Staat das Internet hackt&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Netzpolitischer Vortrag von Alvar C.H. Freude, Mitglied der Enquête-Kommission „Internet und digitale Gesellschaft“
 des Bundestages, am kommenden Montag um 20:00 Uhr im Oldenburger Schloss.&lt;&#x2F;li&gt;
@@ -235,9 +235,9 @@ technische und soziale Themen aktiv in die breite Öffentlichkeit getragen werde
           <title>Ankündigung: Universal. Sozial. Digital!</title>
           <pubDate>Mon, 07 Nov 2011 12:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2011/2011-01/</link>
-          <guid>https://ktt-ol.github.io/blog/2011/2011-01/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2011/2011-01/">&lt;p&gt;Universal. Sozial. Digital!&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2011/2011-01/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2011/2011-01/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2011/2011-01/">&lt;p&gt;Universal. Sozial. Digital!&lt;&#x2F;p&gt;
 &lt;p&gt;Veranstaltungsreihe zum Leben in der vernetzten
 Gesellschaft&lt;&#x2F;p&gt;
 &lt;ul&gt;

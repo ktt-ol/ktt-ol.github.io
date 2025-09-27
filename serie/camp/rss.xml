@@ -2,21 +2,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Camp</title>
-      <link>https://ktt-ol.github.io</link>
+      <link>&apos;https://mainframe.io/&apos;</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://ktt-ol.github.io/serie/camp/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="'https://mainframe.io/'/serie/camp/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Fri, 22 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>MCH 2022</title>
           <pubDate>Sun, 07 Aug 2022 17:36:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2022/mch2022/</link>
-          <guid>https://ktt-ol.github.io/blog/2022/mch2022/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2022/mch2022/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2022&#x2F;mch2022&#x2F;MCH2022_Logo.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2022/mch2022/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2022/mch2022/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2022/mch2022/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2022&#x2F;mch2022&#x2F;MCH2022_Logo.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Die Mainframe-Crew war wieder campen. Mit sieben Teilnehmern fuhren wir in die Niederlande zur May Contain Hackers,
-kurz &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mch2022.org&#x2F;#&#x2F;&quot;&gt;MCH2022&lt;&#x2F;a&gt;, dem Nachfolger der &lt;a href=&quot;https:&#x2F;&#x2F;ktt-ol.github.io&#x2F;blog&#x2F;2017&#x2F;sha2017&#x2F;&quot;&gt;SHA2017&lt;&#x2F;a&gt;. Im Gepäck hatten wir neben
+kurz &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mch2022.org&#x2F;#&#x2F;&quot;&gt;MCH2022&lt;&#x2F;a&gt;, dem Nachfolger der &lt;a href=&quot;&amp;#x27;https:&#x2F;&#x2F;mainframe.io&#x2F;&amp;#x27;&#x2F;blog&#x2F;2017&#x2F;sha2017&#x2F;&quot;&gt;SHA2017&lt;&#x2F;a&gt;. Im Gepäck hatten wir neben
 drei der obligatorischen 3D-Drucker natürlich auch unseren &lt;a href=&quot;#&quot;&gt;Kippenautomaten&lt;&#x2F;a&gt;. Dazu etwas Neues:
 Einen &lt;a href=&quot;#&quot;&gt;Geschirrspüler&lt;&#x2F;a&gt; - auf den wollen wir in Zukunft nie mehr verzichten.&lt;&#x2F;p&gt;
 &lt;p&gt;Der Kippomat stellte sich abermals als eye-catcher heraus, fast rund um die Uhr blieben immer wieder Besucher davor
@@ -32,9 +32,9 @@ bekannt geben.&lt;&#x2F;p&gt;
           <title>Chaos Communication Camp 2019</title>
           <pubDate>Fri, 13 Sep 2019 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2019/cccamp2019/</link>
-          <guid>https://ktt-ol.github.io/blog/2019/cccamp2019/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2019/cccamp2019/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2019&#x2F;cccamp2019&#x2F;DSC_0705.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2019/cccamp2019/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2019/cccamp2019/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2019/cccamp2019/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2019&#x2F;cccamp2019&#x2F;DSC_0705.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Nach dem CCCamp 2015 und der &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.sha2017.org&quot;&gt;SHA2017&lt;&#x2F;a&gt; sind wieder zum Camping gefahren. Dieses Jahr stand
 das &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;events.ccc.de&#x2F;camp&#x2F;2019&#x2F;&quot;&gt;Chaos Communication Camp 2019&lt;&#x2F;a&gt; an und wir sind mit 15 Personen dort
 gewesen. Sehr schön ist es gewesen, jetzt heißt es wieder 2 Jahre warten auf das nächste Camp.&lt;&#x2F;p&gt;
@@ -44,9 +44,9 @@ gewesen. Sehr schön ist es gewesen, jetzt heißt es wieder 2 Jahre warten auf d
           <title>SHA2017</title>
           <pubDate>Sat, 26 Aug 2017 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2017/sha2017/</link>
-          <guid>https://ktt-ol.github.io/blog/2017/sha2017/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2017/sha2017/">&lt;p&gt;Nachdem unsere Delegation vom &lt;a href=&quot;https:&#x2F;&#x2F;ktt-ol.github.io&#x2F;blog&#x2F;2015&#x2F;cccamp2015&#x2F;&quot;&gt;CCCamp 2015&lt;&#x2F;a&gt; quasi nur Gutes zu berichten hatte,
+          <link>&apos;https://mainframe.io/&apos;/blog/2017/sha2017/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2017/sha2017/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2017/sha2017/">&lt;p&gt;Nachdem unsere Delegation vom &lt;a href=&quot;&amp;#x27;https:&#x2F;&#x2F;mainframe.io&#x2F;&amp;#x27;&#x2F;blog&#x2F;2015&#x2F;cccamp2015&#x2F;&quot;&gt;CCCamp 2015&lt;&#x2F;a&gt; quasi nur Gutes zu berichten hatte,
 sind dieses Mal mit ganzen 12 Personen zur &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.sha2017.org&quot;&gt;SHA2017&lt;&#x2F;a&gt; aufgebrochen.&lt;&#x2F;p&gt;
 &lt;p&gt;Nach den Erfahrungen vom letzten Camp sind wir dieses Mal bereits an Tag -1 angereist, um unser Village aufzubauen (und
 generell beim Aufbau zu helfen). Vor Ort wurde schonmal klar, warum unser Village kurz vor dem Event noch einmal
@@ -72,9 +72,9 @@ dem Gedanken nächstes Jahr zur EMF nach England zu reisen).&lt;&#x2F;p&gt;
           <title>Chaos Communication Camp 2015</title>
           <pubDate>Fri, 21 Aug 2015 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2015/cccamp2015/</link>
-          <guid>https://ktt-ol.github.io/blog/2015/cccamp2015/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2015/cccamp2015/">&lt;p&gt;Auch auf dem 4-jährigen Camp des CCCs ist der Mainframe selbstverständlich
+          <link>&apos;https://mainframe.io/&apos;/blog/2015/cccamp2015/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2015/cccamp2015/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2015/cccamp2015/">&lt;p&gt;Auch auf dem 4-jährigen Camp des CCCs ist der Mainframe selbstverständlich
 anzutreffen. Für den Aufbau des Villages und um dem großen Ansturm nach Tickets
 zu entgehen, sind wir bereits einen Tag früher angereist. Vor Ort angekommen
 wurde festgestellt, dass die meisten Zeltplätze bereits belegt waren. Nachdem

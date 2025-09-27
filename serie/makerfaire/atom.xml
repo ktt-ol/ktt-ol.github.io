@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - MakerFaire</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://ktt-ol.github.io/serie/makerfaire/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://ktt-ol.github.io"/>
+    <link rel="self" type="application/atom+xml" href="'https://mainframe.io/'/serie/makerfaire/atom.xml"/>
+    <link rel="alternate" type="text/html" href="&apos;https://mainframe.io/&apos;"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-03-22T23:42:00+00:00</updated>
-    <id>https://ktt-ol.github.io/serie/makerfaire/atom.xml</id>
+    <id>'https://mainframe.io/'/serie/makerfaire/atom.xml</id>
     <entry xml:lang="de">
         <title>Makertreffen Hamburg</title>
         <published>2012-10-20T20:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/makertreffen-hamburg/"/>
-        <id>https://ktt-ol.github.io/blog/2012/makertreffen-hamburg/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2012/makertreffen-hamburg/"/>
+        <id>'https://mainframe.io/'/blog/2012/makertreffen-hamburg/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/makertreffen-hamburg/">&lt;p&gt;Wir sind mit einer kleinen Delegation zum &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20130601204414&#x2F;http:&#x2F;&#x2F;hamburger-makertreffen.de&#x2F;&quot;&gt;Hamburger Makertreffen&lt;&#x2F;a&gt;
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2012/makertreffen-hamburg/">&lt;p&gt;Wir sind mit einer kleinen Delegation zum &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20130601204414&#x2F;http:&#x2F;&#x2F;hamburger-makertreffen.de&#x2F;&quot;&gt;Hamburger Makertreffen&lt;&#x2F;a&gt;
 im &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;blog.attraktor.org&#x2F;&quot;&gt;Attraktor&lt;&#x2F;a&gt; gefahren. Da von den Fahrenden keiner momentan an sehenswerten Projekten
 arbeitet, sind wir nicht als Aussteller, sondern als Gäste dorthin gefahren.&lt;&#x2F;p&gt;
 &lt;p&gt;Pünktlich um 11:00 angekommen, wurden wir direkt mit Gäste-Ausweisen aus dem 3D-Drucker empfangen, und konnten uns

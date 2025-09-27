@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Talk</title>
-      <link>https://ktt-ol.github.io</link>
+      <link>&apos;https://mainframe.io/&apos;</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://ktt-ol.github.io/typ/talk/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="'https://mainframe.io/'/typ/talk/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sun, 24 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>Einführung in GCode und LinuxCNC</title>
           <pubDate>Fri, 19 Oct 2012 20:00:00 +0000</pubDate>
           <author>0xFF</author>
-          <link>https://ktt-ol.github.io/blog/2012/gcode-und-linuxcnc/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/gcode-und-linuxcnc/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/gcode-und-linuxcnc/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=go-i1ZhocUQ&quot;&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0002&#x2F;cover.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/gcode-und-linuxcnc/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/gcode-und-linuxcnc/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/gcode-und-linuxcnc/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=go-i1ZhocUQ&quot;&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0002&#x2F;cover.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0002&#x2F;GCode.pdf&quot;&gt;Slides&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
 &lt;p&gt;GCode ist die Sprache mit der viele CNC-Maschinen angesteuert werden. Auch wenn
 es als Programmiersprache den Charme der 70er versprüht und darauf optimiert
@@ -41,9 +41,9 @@ anzupassen.&lt;&#x2F;p&gt;
           <title>Fourier-Analyse bis Arduino</title>
           <pubDate>Fri, 05 Oct 2012 20:00:00 +0000</pubDate>
           <author>Stoffi</author>
-          <link>https://ktt-ol.github.io/blog/2012/fourier-analyse-bis-arduino/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/fourier-analyse-bis-arduino/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/fourier-analyse-bis-arduino/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=bS7OyGMewHU&quot;&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0001&#x2F;cover.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/fourier-analyse-bis-arduino/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/fourier-analyse-bis-arduino/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/fourier-analyse-bis-arduino/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=bS7OyGMewHU&quot;&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0001&#x2F;cover.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;&quot;&gt;[Slides](&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0001&#x2F;Fourier-Analyse bis Arduino Slides.pdf)&lt;&#x2F;h1&gt;
 &lt;p&gt;Dieser Vortrag soll zunächst eine kurze Erinnerung an die komplexen Zahlen
 liefern. Dann soll die (mathematische) Theorie anhand der Fourierreihe und

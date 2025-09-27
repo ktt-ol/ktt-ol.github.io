@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Hackathon</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://ktt-ol.github.io/serie/hackathon/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://ktt-ol.github.io"/>
+    <link rel="self" type="application/atom+xml" href="'https://mainframe.io/'/serie/hackathon/atom.xml"/>
+    <link rel="alternate" type="text/html" href="&apos;https://mainframe.io/&apos;"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-03-22T23:42:00+00:00</updated>
-    <id>https://ktt-ol.github.io/serie/hackathon/atom.xml</id>
+    <id>'https://mainframe.io/'/serie/hackathon/atom.xml</id>
     <entry xml:lang="de">
         <title>Hackathon OL2030</title>
         <published>2021-07-15T23:42:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2021/hackathon-ol2030/"/>
-        <id>https://ktt-ol.github.io/blog/2021/hackathon-ol2030/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2021/hackathon-ol2030/"/>
+        <id>'https://mainframe.io/'/blog/2021/hackathon-ol2030/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2021/hackathon-ol2030/">&lt;p&gt;Wir machen zusammen mit der Stadt Oldenburg den zweiten Hackathon aus demProjekt Civic Data Lab. Unter dem Motto “Wie
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2021/hackathon-ol2030/">&lt;p&gt;Wir machen zusammen mit der Stadt Oldenburg den zweiten Hackathon aus demProjekt Civic Data Lab. Unter dem Motto “Wie
 wollen wir 2030 zusammenleben?” sollen zunächst beim Vorbereitungstreffen am 31. Juli 2021 Themen gefunden werden,
 anschließend gibt es im Laufe des August Online-Workshops zu den technischen Möglichkeiten im Hackspace und vom 3. bis 5.
 September darf ein Wochenende lang intensiv an Projekten gearbeitet werden, die sich mit dem Leben 2030 auseinandersetzen.&lt;&#x2F;p&gt;
@@ -50,10 +50,10 @@ einfach bei einem Besuch im Hackspace direkt Patrick, muzy oder Lars (larsh404) 
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2013/hackathon/"/>
-        <id>https://ktt-ol.github.io/blog/2013/hackathon/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2013/hackathon/"/>
+        <id>'https://mainframe.io/'/blog/2013/hackathon/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2013/hackathon/">&lt;h1 id=&quot;was-ist-ein-hackathon&quot;&gt;Was ist ein Hackathon?&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2013/hackathon/">&lt;h1 id=&quot;was-ist-ein-hackathon&quot;&gt;Was ist ein Hackathon?&lt;&#x2F;h1&gt;
 &lt;p&gt;A hackathon (also known as a hack day, hackfest or codefest) is an event in
 which computer programmers and others in the field of software development […]
 collaborate intensively on software projects. Occasionally, there is a hardware

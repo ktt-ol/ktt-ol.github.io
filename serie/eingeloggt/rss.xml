@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Eingeloggt!</title>
-      <link>https://ktt-ol.github.io</link>
+      <link>&apos;https://mainframe.io/&apos;</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://ktt-ol.github.io/serie/eingeloggt/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="'https://mainframe.io/'/serie/eingeloggt/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sat, 22 Mar 2025 19:42:00 +0000</lastBuildDate>
       <item>
           <title>Eingeloggt! Oldenburg</title>
           <pubDate>Sat, 22 Mar 2025 19:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2025/eingeloggt/</link>
-          <guid>https://ktt-ol.github.io/blog/2025/eingeloggt/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2025/eingeloggt/">&lt;p&gt;In Oldenburg findet bereits zum dritten Mal die Eingeloggt!-Woche statt. Vom 23.03. bis 30.03.2025 laden wieder
+          <link>&apos;https://mainframe.io/&apos;/blog/2025/eingeloggt/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2025/eingeloggt/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2025/eingeloggt/">&lt;p&gt;In Oldenburg findet bereits zum dritten Mal die Eingeloggt!-Woche statt. Vom 23.03. bis 30.03.2025 laden wieder
 zahlreiche
 Organisationen in Oldenburg generationenübergreifend zu Workshops, Besichtigungen und Vorträgen rund um das Thema
 Digitalisierung ein.
@@ -61,7 +61,7 @@ Textilien, Holz und Metall&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;Unser Hackspace Mainframe ist auch weiterhin immer für Besucher geöffnet, wenn
-auf &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;status.ktt-ol.de&#x2F;&quot;&gt;https:&#x2F;&#x2F;status.ktt-ol.de&#x2F;&lt;&#x2F;a&gt; als Status “AUF” oder “AUF+” steht. Dies ist meistens montags
+auf &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;status.mainframe.io&quot;&gt;status.mainframe.io&lt;&#x2F;a&gt; als Status “AUF” oder “AUF+” steht. Dies ist meistens montags
 bis sonntags ab 19 Uhr bis Mitternacht der Fall, häufig auch früher und länger. Wir freuen uns auf Euren Besuch im
 Postgebäude direkt am Oldenburger Hauptbahnhof, Eingang gegenüber Europcar.&lt;&#x2F;p&gt;
 </description>

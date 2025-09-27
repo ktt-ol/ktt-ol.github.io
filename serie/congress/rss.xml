@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Congress</title>
-      <link>https://ktt-ol.github.io</link>
+      <link>&apos;https://mainframe.io/&apos;</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://ktt-ol.github.io/serie/congress/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="'https://mainframe.io/'/serie/congress/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sun, 19 Mar 2023 23:42:00 +0000</lastBuildDate>
       <item>
           <title>33C3</title>
           <pubDate>Sat, 31 Dec 2016 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2016/33c3/</link>
-          <guid>https://ktt-ol.github.io/blog/2016/33c3/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2016/33c3/">&lt;p&gt;Natürlich ist der Mainframe auch in diesem Jahr auf dem Chaos Communication
+          <link>&apos;https://mainframe.io/&apos;/blog/2016/33c3/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2016/33c3/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2016/33c3/">&lt;p&gt;Natürlich ist der Mainframe auch in diesem Jahr auf dem Chaos Communication
 Congress vertreten. Informationen zu unserer &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;events.ccc.de&#x2F;congress&#x2F;2016&#x2F;wiki&#x2F;Assembly:Mainframe&quot;&gt;Assembly lassen sich direkt im 33C3 Wiki finden&lt;&#x2F;a&gt;.
 Dieses Jahr sind wir voraussichtlich mit über 20 Personen vor Ort, von denen rund die Hälfte bereits am zweiten
 Weihnachtstag anreist. Geplant ist unter anderem einen Workshop für MQTT
@@ -28,9 +28,9 @@ reduzierten Öffnungszeiten des Mainframes zu rechnen.&lt;&#x2F;p&gt;
           <title>32C3</title>
           <pubDate>Thu, 31 Dec 2015 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2015/32c3/</link>
-          <guid>https://ktt-ol.github.io/blog/2015/32c3/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2015/32c3/">&lt;p&gt;Nach etwas Stress bei der Frage, wie unser Equipment zum nach Hamburg kommt
+          <link>&apos;https://mainframe.io/&apos;/blog/2015/32c3/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2015/32c3/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2015/32c3/">&lt;p&gt;Nach etwas Stress bei der Frage, wie unser Equipment zum nach Hamburg kommt
 haben sich am Ende zwei Mitglieder gefunden, die per Auto zum Congress gefahren
 sind und unsere LED-Wand, ein Rollup, ein Banner, 3D-Drucker, sowie Switches,
 Steckdosenleisten, sowie Kleinkram wie Werkzeug und Lötkolben mitgenommen haben.&lt;&#x2F;p&gt;
@@ -67,9 +67,9 @@ Spaces angeschaut.&lt;&#x2F;p&gt;
           <title>31C3</title>
           <pubDate>Wed, 31 Dec 2014 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2014/31c3/</link>
-          <guid>https://ktt-ol.github.io/blog/2014/31c3/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2014/31c3/">&lt;p&gt;Wie nach dem 30C3 schon angekündigt waren wir auch dieses Jahr wieder auf dem
+          <link>&apos;https://mainframe.io/&apos;/blog/2014/31c3/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2014/31c3/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2014/31c3/">&lt;p&gt;Wie nach dem 30C3 schon angekündigt waren wir auch dieses Jahr wieder auf dem
 Chaos Communication Congress - diesesmal mit über zwanzig Personen. Im
 Gegensatz zum letzten Jahr waren wir dieses Jahr nicht im Hackcenter, sondern
 in der Quiet-Area (und damit etwas abgeschiedener) untergebracht. Dafür gab es
@@ -89,9 +89,9 @@ Spaces angeschaut.&lt;&#x2F;p&gt;
           <title>30C3</title>
           <pubDate>Tue, 31 Dec 2013 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2013/30c3/</link>
-          <guid>https://ktt-ol.github.io/blog/2013/30c3/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2013/30c3/">&lt;p&gt;Dieses Jahr ist eine ganze Delegation des Oldenburger Hackspaces offiziell beim 30C3 gewesen. Dort haben wir im Hackcenter unsere üblichen Ausstellungsstücke dabei gehabt (3D-Drucker, LED-Cube) und ein Banner aufgestellt.&lt;&#x2F;p&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2013/30c3/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2013/30c3/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2013/30c3/">&lt;p&gt;Dieses Jahr ist eine ganze Delegation des Oldenburger Hackspaces offiziell beim 30C3 gewesen. Dort haben wir im Hackcenter unsere üblichen Ausstellungsstücke dabei gehabt (3D-Drucker, LED-Cube) und ein Banner aufgestellt.&lt;&#x2F;p&gt;
 &lt;p&gt;Ansonsten haben wir einfach die Zeit zusammen mit den anderen Hackern genossen, das Bällebad besucht und uns die Vorträge angehört.&lt;&#x2F;p&gt;
 &lt;p&gt;Resume: 2014 werden wir wieder, dann vermutlich mit einer noch größeren Delegation in Hamburg ankommen.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;30C3&#x2F;building.jpg&quot; alt=&quot;CCH während des 30C3&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;

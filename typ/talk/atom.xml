@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Talk</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://ktt-ol.github.io/typ/talk/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://ktt-ol.github.io"/>
+    <link rel="self" type="application/atom+xml" href="'https://mainframe.io/'/typ/talk/atom.xml"/>
+    <link rel="alternate" type="text/html" href="&apos;https://mainframe.io/&apos;"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-03-24T23:42:00+00:00</updated>
-    <id>https://ktt-ol.github.io/typ/talk/atom.xml</id>
+    <id>'https://mainframe.io/'/typ/talk/atom.xml</id>
     <entry xml:lang="de">
         <title>Einführung in GCode und LinuxCNC</title>
         <published>2012-10-19T20:00:00+00:00</published>
@@ -18,10 +18,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/gcode-und-linuxcnc/"/>
-        <id>https://ktt-ol.github.io/blog/2012/gcode-und-linuxcnc/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2012/gcode-und-linuxcnc/"/>
+        <id>'https://mainframe.io/'/blog/2012/gcode-und-linuxcnc/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/gcode-und-linuxcnc/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=go-i1ZhocUQ&quot;&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0002&#x2F;cover.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2012/gcode-und-linuxcnc/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=go-i1ZhocUQ&quot;&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0002&#x2F;cover.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0002&#x2F;GCode.pdf&quot;&gt;Slides&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
 &lt;p&gt;GCode ist die Sprache mit der viele CNC-Maschinen angesteuert werden. Auch wenn
 es als Programmiersprache den Charme der 70er versprüht und darauf optimiert
@@ -56,10 +56,10 @@ anzupassen.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2012/fourier-analyse-bis-arduino/"/>
-        <id>https://ktt-ol.github.io/blog/2012/fourier-analyse-bis-arduino/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2012/fourier-analyse-bis-arduino/"/>
+        <id>'https://mainframe.io/'/blog/2012/fourier-analyse-bis-arduino/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2012/fourier-analyse-bis-arduino/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=bS7OyGMewHU&quot;&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0001&#x2F;cover.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2012/fourier-analyse-bis-arduino/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;watch?v=bS7OyGMewHU&quot;&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0001&#x2F;cover.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;&quot;&gt;[Slides](&#x2F;media&#x2F;blog&#x2F;2012&#x2F;talk-0001&#x2F;Fourier-Analyse bis Arduino Slides.pdf)&lt;&#x2F;h1&gt;
 &lt;p&gt;Dieser Vortrag soll zunächst eine kurze Erinnerung an die komplexen Zahlen
 liefern. Dann soll die (mathematische) Theorie anhand der Fourierreihe und

@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Fab4Teachers</title>
-      <link>https://ktt-ol.github.io</link>
+      <link>&apos;https://mainframe.io/&apos;</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://ktt-ol.github.io/serie/fab4teachers/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="'https://mainframe.io/'/serie/fab4teachers/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Wed, 22 Mar 2023 23:42:00 +0000</lastBuildDate>
       <item>
           <title>Fab4Teachers 2014</title>
           <pubDate>Wed, 24 Sep 2014 18:37:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2014/fab4teachers/</link>
-          <guid>https://ktt-ol.github.io/blog/2014/fab4teachers/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2014/fab4teachers/">&lt;p&gt;Nach den großartigen Erfahrungen im letzten Jahr konnten wir unsere Fortbildung für Lehrer “Fab4Teachers” in den
+          <link>&apos;https://mainframe.io/&apos;/blog/2014/fab4teachers/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2014/fab4teachers/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2014/fab4teachers/">&lt;p&gt;Nach den großartigen Erfahrungen im letzten Jahr konnten wir unsere Fortbildung für Lehrer “Fab4Teachers” in den
 Sommerferien 2014 erneut durchführen und so weitere 12 Lehrkräfte und Schulen mit einem 3D-Drucker ausstatten.&lt;&#x2F;p&gt;
 &lt;p&gt;Mit Unterstützung der Wirtschaftsförderung Oldenburg konnten wir die Metropolregion Nordwest (ehemals Bremen-Oldenburg)
 als Projekt-Förderer gewinnen und vom 5. bis zum 7. September die nächste Generation der von uns speziell für den
@@ -35,17 +35,16 @@ Oldenburg (Didaktik der Informatik) wissenschaftlich begleitet. Über Fragebogen
 Auswertungen und Materialien, um viele weitere Lehrkräfte beim Lehren an, mit und durch 3D-Drucker (auch über die
 Grenzen des Informatikunterrichts hinaus) zu unterstützen.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2014&#x2F;fab4teachers&#x2F;DSC_9030.JPG&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Mehr Fotos findet ihr &lt;a href=&quot;&#x2F;&#x2F;www.kreativitaet-trifft-technik.de&#x2F;album.html#&#x2F;a&#x2F;0&#x2F;2014-09_Fab4Teachers&quot;&gt;hier in
-unserem Album&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Mehr Fotos findet ihr hier in unserem Album.&lt;&#x2F;p&gt;
 </description>
       </item>
       <item>
           <title>Fab4Teachers</title>
           <pubDate>Mon, 24 Jun 2013 02:09:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2013/fab4teachers/</link>
-          <guid>https://ktt-ol.github.io/blog/2013/fab4teachers/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2013/fab4teachers/">&lt;p&gt;Mithilfe von Geldern aus dem Programm „Zukunft und Innovation Niedersachsen“ dem niedersächsischen Ministerium für
+          <link>&apos;https://mainframe.io/&apos;/blog/2013/fab4teachers/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2013/fab4teachers/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2013/fab4teachers/">&lt;p&gt;Mithilfe von Geldern aus dem Programm „Zukunft und Innovation Niedersachsen“ dem niedersächsischen Ministerium für
 Wirtschaft, Arbeit und Verkehr bieten wir vorbehaltlich der endgültigen Bewilligung der Fördermittel in der Zeit vom29.
 bis 31. Juli und in der Zeit vom 17. bis 18. Oktober in unseren Vereinsräumen, dem FabLab Oldenburg „Fab-O-Lab“, eine
 Fortbildung für Lehrer aus Niedersachsen an.&lt;&#x2F;p&gt;

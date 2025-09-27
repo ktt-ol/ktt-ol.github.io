@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Congress</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://ktt-ol.github.io/serie/congress/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://ktt-ol.github.io"/>
+    <link rel="self" type="application/atom+xml" href="'https://mainframe.io/'/serie/congress/atom.xml"/>
+    <link rel="alternate" type="text/html" href="&apos;https://mainframe.io/&apos;"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-03-19T23:42:00+00:00</updated>
-    <id>https://ktt-ol.github.io/serie/congress/atom.xml</id>
+    <id>'https://mainframe.io/'/serie/congress/atom.xml</id>
     <entry xml:lang="de">
         <title>33C3</title>
         <published>2016-12-31T23:42:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2016/33c3/"/>
-        <id>https://ktt-ol.github.io/blog/2016/33c3/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2016/33c3/"/>
+        <id>'https://mainframe.io/'/blog/2016/33c3/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2016/33c3/">&lt;p&gt;Natürlich ist der Mainframe auch in diesem Jahr auf dem Chaos Communication
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2016/33c3/">&lt;p&gt;Natürlich ist der Mainframe auch in diesem Jahr auf dem Chaos Communication
 Congress vertreten. Informationen zu unserer &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;events.ccc.de&#x2F;congress&#x2F;2016&#x2F;wiki&#x2F;Assembly:Mainframe&quot;&gt;Assembly lassen sich direkt im 33C3 Wiki finden&lt;&#x2F;a&gt;.
 Dieses Jahr sind wir voraussichtlich mit über 20 Personen vor Ort, von denen rund die Hälfte bereits am zweiten
 Weihnachtstag anreist. Geplant ist unter anderem einen Workshop für MQTT
@@ -47,10 +47,10 @@ reduzierten Öffnungszeiten des Mainframes zu rechnen.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2015/32c3/"/>
-        <id>https://ktt-ol.github.io/blog/2015/32c3/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2015/32c3/"/>
+        <id>'https://mainframe.io/'/blog/2015/32c3/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2015/32c3/">&lt;p&gt;Nach etwas Stress bei der Frage, wie unser Equipment zum nach Hamburg kommt
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2015/32c3/">&lt;p&gt;Nach etwas Stress bei der Frage, wie unser Equipment zum nach Hamburg kommt
 haben sich am Ende zwei Mitglieder gefunden, die per Auto zum Congress gefahren
 sind und unsere LED-Wand, ein Rollup, ein Banner, 3D-Drucker, sowie Switches,
 Steckdosenleisten, sowie Kleinkram wie Werkzeug und Lötkolben mitgenommen haben.&lt;&#x2F;p&gt;
@@ -97,10 +97,10 @@ Spaces angeschaut.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2014/31c3/"/>
-        <id>https://ktt-ol.github.io/blog/2014/31c3/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2014/31c3/"/>
+        <id>'https://mainframe.io/'/blog/2014/31c3/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2014/31c3/">&lt;p&gt;Wie nach dem 30C3 schon angekündigt waren wir auch dieses Jahr wieder auf dem
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2014/31c3/">&lt;p&gt;Wie nach dem 30C3 schon angekündigt waren wir auch dieses Jahr wieder auf dem
 Chaos Communication Congress - diesesmal mit über zwanzig Personen. Im
 Gegensatz zum letzten Jahr waren wir dieses Jahr nicht im Hackcenter, sondern
 in der Quiet-Area (und damit etwas abgeschiedener) untergebracht. Dafür gab es
@@ -130,10 +130,10 @@ Spaces angeschaut.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2013/30c3/"/>
-        <id>https://ktt-ol.github.io/blog/2013/30c3/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2013/30c3/"/>
+        <id>'https://mainframe.io/'/blog/2013/30c3/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2013/30c3/">&lt;p&gt;Dieses Jahr ist eine ganze Delegation des Oldenburger Hackspaces offiziell beim 30C3 gewesen. Dort haben wir im Hackcenter unsere üblichen Ausstellungsstücke dabei gehabt (3D-Drucker, LED-Cube) und ein Banner aufgestellt.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2013/30c3/">&lt;p&gt;Dieses Jahr ist eine ganze Delegation des Oldenburger Hackspaces offiziell beim 30C3 gewesen. Dort haben wir im Hackcenter unsere üblichen Ausstellungsstücke dabei gehabt (3D-Drucker, LED-Cube) und ein Banner aufgestellt.&lt;&#x2F;p&gt;
 &lt;p&gt;Ansonsten haben wir einfach die Zeit zusammen mit den anderen Hackern genossen, das Bällebad besucht und uns die Vorträge angehört.&lt;&#x2F;p&gt;
 &lt;p&gt;Resume: 2014 werden wir wieder, dann vermutlich mit einer noch größeren Delegation in Hamburg ankommen.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;30C3&#x2F;building.jpg&quot; alt=&quot;CCH während des 30C3&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;

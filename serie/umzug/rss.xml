@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Umzug</title>
-      <link>https://ktt-ol.github.io</link>
+      <link>&apos;https://mainframe.io/&apos;</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://ktt-ol.github.io/serie/umzug/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="'https://mainframe.io/'/serie/umzug/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Fri, 22 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>Umzug 3.0</title>
           <pubDate>Wed, 23 Apr 2014 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2014/umzug/</link>
-          <guid>https://ktt-ol.github.io/blog/2014/umzug/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2014/umzug/">&lt;h1 id=&quot;projekt-nerdpower&quot;&gt;Projekt “Nerdpower”&lt;&#x2F;h1&gt;
+          <link>&apos;https://mainframe.io/&apos;/blog/2014/umzug/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2014/umzug/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2014/umzug/">&lt;h1 id=&quot;projekt-nerdpower&quot;&gt;Projekt “Nerdpower”&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2014&#x2F;umzug&#x2F;nerdpower.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Es geht in die zweite Runde: der Transport von Inventar in den neuen Space.
 Planung: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;pad.kreativitaet-trifft-technik.de&#x2F;p&#x2F;Nerdpower&quot;&gt;http:&#x2F;&#x2F;pad.kreativitaet-trifft-technik.de&#x2F;p&#x2F;Nerdpower&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -28,9 +28,9 @@ Planung: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&
           <title>Umzug 2.0 Update</title>
           <pubDate>Fri, 13 Jul 2012 11:15:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2012/umzug2-2/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/umzug2-2/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/umzug2-2/">&lt;p&gt;Langsam nähern sich alle Räume und die Infrastruktur dem gewünschten Zustand,
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/umzug2-2/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/umzug2-2/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/umzug2-2/">&lt;p&gt;Langsam nähern sich alle Räume und die Infrastruktur dem gewünschten Zustand,
 die Umzugsstrapazen sind vergessen und wir leben uns in unserem tollen neuen
 Zuhause ein. Umfangreiche Arbeiten stehen nur noch in der Werkstatt an, in
 allen anderen Räumen fehlen nur noch Kleinigkeiten.&lt;&#x2F;p&gt;
@@ -72,9 +72,9 @@ vorbei und entscheidet selbst ;)&lt;&#x2F;p&gt;
           <title>Umzug 2.0</title>
           <pubDate>Tue, 26 Jun 2012 12:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2012/umzug2/</link>
-          <guid>https://ktt-ol.github.io/blog/2012/umzug2/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2012/umzug2/">&lt;p&gt;Am vergangenen Wochenende ist der Oldenburger Hackspace umgezogen. Von seiner ursprünglichen Heimat, dem „Beta-Space“ im
+          <link>&apos;https://mainframe.io/&apos;/blog/2012/umzug2/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2012/umzug2/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/umzug2/">&lt;p&gt;Am vergangenen Wochenende ist der Oldenburger Hackspace umgezogen. Von seiner ursprünglichen Heimat, dem „Beta-Space“ im
 quARTier, ging es gute 700 m weiter Richtung Nordwesten, in die Raiffeisenstraße 27. Im ehemaligen Stadtsteueramt – dem
 geografisch nahezu zentralsten Punkt Oldenburgs – haben wir Teile des Erdgeschosses bezogen. Damit stehen der
 Kreativität trifft Technik e.V. nun deutlich modernere und größere Räume zur Verfügung.&lt;&#x2F;p&gt;
@@ -132,9 +132,9 @@ gemeinsame Zeit.&lt;&#x2F;p&gt;
           <title>Eröffnung Beta-Space</title>
           <pubDate>Mon, 21 Nov 2011 12:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://ktt-ol.github.io/blog/2011/2011-03/</link>
-          <guid>https://ktt-ol.github.io/blog/2011/2011-03/</guid>
-          <description xml:base="https://ktt-ol.github.io/blog/2011/2011-03/">&lt;p&gt;Der Verein Kreativität trifft Technik e.V. eröffnet im Oldenburger Bahnhofs- viertel unter dem Namen „Beta-Space“ einen
+          <link>&apos;https://mainframe.io/&apos;/blog/2011/2011-03/</link>
+          <guid>&apos;https://mainframe.io/&apos;/blog/2011/2011-03/</guid>
+          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2011/2011-03/">&lt;p&gt;Der Verein Kreativität trifft Technik e.V. eröffnet im Oldenburger Bahnhofs- viertel unter dem Namen „Beta-Space“ einen
 Treffpunkt für kreative Bastler und Technikbegeisterte. Damit hat Oldenburg nun als erste Stadt im Nord- westen einen
 „Hackspace“. Die Einweihung findet am 28. November 2011 statt und wird von einem viertägigen Rahmenprogramm begleitet.
 Oldenburg. Am kommenden Montag, den 28. November 2011, um 19:00 Uhr lädt der Verein Kreativität trifft Technik e.V. zur

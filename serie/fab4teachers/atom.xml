@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Fab4Teachers</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://ktt-ol.github.io/serie/fab4teachers/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://ktt-ol.github.io"/>
+    <link rel="self" type="application/atom+xml" href="'https://mainframe.io/'/serie/fab4teachers/atom.xml"/>
+    <link rel="alternate" type="text/html" href="&apos;https://mainframe.io/&apos;"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-03-22T23:42:00+00:00</updated>
-    <id>https://ktt-ol.github.io/serie/fab4teachers/atom.xml</id>
+    <id>'https://mainframe.io/'/serie/fab4teachers/atom.xml</id>
     <entry xml:lang="de">
         <title>Fab4Teachers 2014</title>
         <published>2014-09-24T18:37:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2014/fab4teachers/"/>
-        <id>https://ktt-ol.github.io/blog/2014/fab4teachers/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2014/fab4teachers/"/>
+        <id>'https://mainframe.io/'/blog/2014/fab4teachers/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2014/fab4teachers/">&lt;p&gt;Nach den großartigen Erfahrungen im letzten Jahr konnten wir unsere Fortbildung für Lehrer “Fab4Teachers” in den
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2014/fab4teachers/">&lt;p&gt;Nach den großartigen Erfahrungen im letzten Jahr konnten wir unsere Fortbildung für Lehrer “Fab4Teachers” in den
 Sommerferien 2014 erneut durchführen und so weitere 12 Lehrkräfte und Schulen mit einem 3D-Drucker ausstatten.&lt;&#x2F;p&gt;
 &lt;p&gt;Mit Unterstützung der Wirtschaftsförderung Oldenburg konnten wir die Metropolregion Nordwest (ehemals Bremen-Oldenburg)
 als Projekt-Förderer gewinnen und vom 5. bis zum 7. September die nächste Generation der von uns speziell für den
@@ -44,8 +44,7 @@ Oldenburg (Didaktik der Informatik) wissenschaftlich begleitet. Über Fragebogen
 Auswertungen und Materialien, um viele weitere Lehrkräfte beim Lehren an, mit und durch 3D-Drucker (auch über die
 Grenzen des Informatikunterrichts hinaus) zu unterstützen.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2014&#x2F;fab4teachers&#x2F;DSC_9030.JPG&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Mehr Fotos findet ihr &lt;a href=&quot;&#x2F;&#x2F;www.kreativitaet-trifft-technik.de&#x2F;album.html#&#x2F;a&#x2F;0&#x2F;2014-09_Fab4Teachers&quot;&gt;hier in
-unserem Album&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Mehr Fotos findet ihr hier in unserem Album.&lt;&#x2F;p&gt;
 </content>
         
     </entry>
@@ -62,10 +61,10 @@ unserem Album&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ktt-ol.github.io/blog/2013/fab4teachers/"/>
-        <id>https://ktt-ol.github.io/blog/2013/fab4teachers/</id>
+        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2013/fab4teachers/"/>
+        <id>'https://mainframe.io/'/blog/2013/fab4teachers/</id>
         
-        <content type="html" xml:base="https://ktt-ol.github.io/blog/2013/fab4teachers/">&lt;p&gt;Mithilfe von Geldern aus dem Programm „Zukunft und Innovation Niedersachsen“ dem niedersächsischen Ministerium für
+        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2013/fab4teachers/">&lt;p&gt;Mithilfe von Geldern aus dem Programm „Zukunft und Innovation Niedersachsen“ dem niedersächsischen Ministerium für
 Wirtschaft, Arbeit und Verkehr bieten wir vorbehaltlich der endgültigen Bewilligung der Fördermittel in der Zeit vom29.
 bis 31. Juli und in der Zeit vom 17. bis 18. Oktober in unseren Vereinsräumen, dem FabLab Oldenburg „Fab-O-Lab“, eine
 Fortbildung für Lehrer aus Niedersachsen an.&lt;&#x2F;p&gt;
