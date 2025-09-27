@@ -2,22 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - co-op</title>
-      <link>https://mainframe.io/</link>
+      <link>https://www.mainframe.io/</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://mainframe.io/serie/co-op/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.mainframe.io/serie/co-op/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sun, 19 Mar 2023 23:42:00 +0000</lastBuildDate>
       <item>
           <title>co-op3: Dein Projekt für den Kongress</title>
           <pubDate>Thu, 08 Dec 2016 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2016/co-op3/</link>
-          <guid>https://mainframe.io/blog/2016/co-op3/</guid>
-          <description xml:base="https://mainframe.io/blog/2016/co-op3/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;co-op3&#x2F;co-op3-logo.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2016/co-op3/</link>
+          <guid>https://www.mainframe.io/blog/2016/co-op3/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2016/co-op3/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;co-op3&#x2F;co-op3-logo.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Der Hackathon co-op3 fand am Wochenende des 05. + 06. November 2016 in den Räumen des Mainframe statt. Das Motto lautete: Dein Projekt für den &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;events.ccc.de&#x2F;congress&#x2F;2016&#x2F;wiki&#x2F;Main_Page&quot;&gt;Kongress - 33C3&lt;&#x2F;a&gt;Es ging dabei um Projekte, die mit auf den 33C3 gebracht werden können.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;co-op3&#x2F;co-op3-hacking.jpg&quot; alt=&quot;Elektronik auf einem Tisch&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Nach dem Start um 16 Uhr am Samstag traten die Teilnehmer mit ihren Projektideen an. Wie auch bei dem vorherigen Hackathon &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op1&#x2F;&quot;&gt;co-op2&lt;&#x2F;a&gt;&#x2F;&lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op2&#x2F;&quot;&gt;coop2&lt;&#x2F;a&gt; wurde mit einem Soft-Opening begonnen. Die Aktivitäten erstreckten sich über die gesamten Räume des Spaces. Nach einer ersten Vorstellungsrunde wurde sich immer wieder in regelmäßigen Abständen in der Lounge getroffen um sich über den Fortschritt und auch die auftretenden Probleme auf dem Weg auszutauschen - sogenannte “Syncs”. Insgesamt nahmen 10 Leute teil und es gab auch spontane Teilnehmer, die das Event zum Anlass nahmen sich intensiv mit ihren sonstigen Projekten auseinander zu setzen.&lt;&#x2F;p&gt;
+&lt;p&gt;Nach dem Start um 16 Uhr am Samstag traten die Teilnehmer mit ihren Projektideen an. Wie auch bei dem vorherigen Hackathon &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op1&#x2F;&quot;&gt;co-op2&lt;&#x2F;a&gt;&#x2F;&lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op2&#x2F;&quot;&gt;coop2&lt;&#x2F;a&gt; wurde mit einem Soft-Opening begonnen. Die Aktivitäten erstreckten sich über die gesamten Räume des Spaces. Nach einer ersten Vorstellungsrunde wurde sich immer wieder in regelmäßigen Abständen in der Lounge getroffen um sich über den Fortschritt und auch die auftretenden Probleme auf dem Weg auszutauschen - sogenannte “Syncs”. Insgesamt nahmen 10 Leute teil und es gab auch spontane Teilnehmer, die das Event zum Anlass nahmen sich intensiv mit ihren sonstigen Projekten auseinander zu setzen.&lt;&#x2F;p&gt;
 &lt;p&gt;Bei soviel nachdenken und tüfteln durfte Essen natürlich auch nicht fehlen und so gab es am Samstagabend Hot-Dogs zu essen (auch vegetarische, Danke!).&lt;&#x2F;p&gt;
 &lt;p&gt;Gearbeitet wurde unter anderem an den folgenden Projekten:&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -42,9 +42,9 @@
           <title>co-op2: Spacebus mit MQTT</title>
           <pubDate>Wed, 18 May 2016 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2016/co-op2/</link>
-          <guid>https://mainframe.io/blog/2016/co-op2/</guid>
-          <description xml:base="https://mainframe.io/blog/2016/co-op2/">&lt;p&gt;Datum: 14.+15.05.2016
+          <link>https://www.mainframe.io/blog/2016/co-op2/</link>
+          <guid>https://www.mainframe.io/blog/2016/co-op2/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2016/co-op2/">&lt;p&gt;Datum: 14.+15.05.2016
 Beginn: Samstag um 16 Uhr
 Abschluss mit Preisvergabe: Sonntag um 20 Uhr&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;co-op2&#x2F;co-op2-logo-web.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -53,7 +53,7 @@ gedreht, der via &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot
 uns für das Sammeln von Temperatur- und Stromzählerwerten genutzt, jedoch gab es noch größeres Potenzial bei der Nutzung
 durch Sensoren und Aktoren. Ziel der Veranstaltung war es, gemeinsam den Umgang mit MQTT zu erlernen und coole Projekte
 daraus zu bauen, die im Idealfall auch dem Space auch eine Funktionserweiterung bieten.&lt;&#x2F;p&gt;
-&lt;p&gt;Von der &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op1&#x2F;&quot;&gt;co-op1&lt;&#x2F;a&gt; haben wir gelernt, dass die Teilnehmer samstags zu sehr
+&lt;p&gt;Von der &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op1&#x2F;&quot;&gt;co-op1&lt;&#x2F;a&gt; haben wir gelernt, dass die Teilnehmer samstags zu sehr
 unterschiedlichen Uhrzeiten erscheinen können, und haben deswegen mit einem Soft-Opening begonnen. Zwischen 10 und 20
 Personen waren über das Wochenende im Space zugange und haben an nützlichen und eindrucksvollen Projekten getüftelt.&lt;&#x2F;p&gt;
 &lt;p&gt;Die Projekte waren diesmal eher der Softwaresparte einzuordnen, jedoch wurde hier und dort auch ein ESP als Aktor oder
@@ -95,9 +95,9 @@ schon aufs nächste Mal!&lt;&#x2F;p&gt;
           <title>co-op1: Wartelisten-Projekte</title>
           <pubDate>Mon, 08 Feb 2016 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2016/co-op1/</link>
-          <guid>https://mainframe.io/blog/2016/co-op1/</guid>
-          <description xml:base="https://mainframe.io/blog/2016/co-op1/">&lt;p&gt;Datum: &lt;strong&gt;06.+07.02.2016&lt;&#x2F;strong&gt;
+          <link>https://www.mainframe.io/blog/2016/co-op1/</link>
+          <guid>https://www.mainframe.io/blog/2016/co-op1/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2016/co-op1/">&lt;p&gt;Datum: &lt;strong&gt;06.+07.02.2016&lt;&#x2F;strong&gt;
 Beginn: &lt;strong&gt;Samstag um 16 Uhr&lt;&#x2F;strong&gt;
 Abschluss mit Preisvergabe: &lt;strong&gt;Sonntag um 20 Uhr&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Am 6. und 7. Februar fand im KtT der erste Hackathon im Space 3.0, die sog. co-op, statt.&lt;&#x2F;p&gt;

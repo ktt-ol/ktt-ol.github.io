@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Event</title>
-      <link>https://mainframe.io/</link>
+      <link>https://www.mainframe.io/</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://mainframe.io/typ/event/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.mainframe.io/typ/event/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Wed, 02 Apr 2025 21:55:00 +0000</lastBuildDate>
       <item>
           <title>Video Game Night 2025</title>
           <pubDate>Tue, 25 Mar 2025 21:55:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2025/lan-party-2025-04/</link>
-          <guid>https://mainframe.io/blog/2025/lan-party-2025-04/</guid>
-          <description xml:base="https://mainframe.io/blog/2025/lan-party-2025-04/">&lt;p&gt;Moin,&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2025/lan-party-2025-04/</link>
+          <guid>https://www.mainframe.io/blog/2025/lan-party-2025-04/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2025/lan-party-2025-04/">&lt;p&gt;Moin,&lt;&#x2F;p&gt;
 &lt;p&gt;ein Weiteres Mal holen wir die alten Gaming Rigs aus der Mottenkiste und laden gemeinsam mit der Fachschaft Informatik
 der Uni Oldenburg zur “Video Game Night 2025” (aka ErstiLAN) ein.&lt;&#x2F;p&gt;
 &lt;p&gt;Völlig egal ob am Anfang des Studiums oder schon im Masterabschluss, jeder ist Willkommen und wir freuen uns gemeinsam
@@ -72,7 +72,7 @@ Richtung des Bahnhofs wird rund um die Uhr bewirtschaftet und ist nicht kostenlo
 unter bzw. innerhalb des Gebäudes. Die ersten 30min sind kostenlos, danach ist es 1 €&#x2F;h. Max ist 5 €&#x2F;d, jedoch wissen
 wir nicht, wann genau der neue Tage anfängt. Vielleicht 24h, vielleicht Mitternacht, wir wissen es nicht. In jedem Fall
 wird EC-Cash benötigt!&lt;&#x2F;p&gt;
-&lt;p&gt;Spezifische Details zur Anfahrt gibt es unter &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;contact&#x2F;&quot;&gt;Kontakt&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Spezifische Details zur Anfahrt gibt es unter &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;contact&#x2F;&quot;&gt;Kontakt&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;strong&gt;Schlafen:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Für kurzes Napping haben wir begrenzt Couches oder Sitzsäcke. Vollumfängliche Schlafplätze können wir nicht anbieten.&lt;&#x2F;p&gt;
@@ -83,9 +83,9 @@ wird EC-Cash benötigt!&lt;&#x2F;p&gt;
           <title>Eingeloggt! Oldenburg</title>
           <pubDate>Sat, 22 Mar 2025 19:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2025/eingeloggt/</link>
-          <guid>https://mainframe.io/blog/2025/eingeloggt/</guid>
-          <description xml:base="https://mainframe.io/blog/2025/eingeloggt/">&lt;p&gt;In Oldenburg findet bereits zum dritten Mal die Eingeloggt!-Woche statt. Vom 23.03. bis 30.03.2025 laden wieder
+          <link>https://www.mainframe.io/blog/2025/eingeloggt/</link>
+          <guid>https://www.mainframe.io/blog/2025/eingeloggt/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2025/eingeloggt/">&lt;p&gt;In Oldenburg findet bereits zum dritten Mal die Eingeloggt!-Woche statt. Vom 23.03. bis 30.03.2025 laden wieder
 zahlreiche
 Organisationen in Oldenburg generationenübergreifend zu Workshops, Besichtigungen und Vorträgen rund um das Thema
 Digitalisierung ein.
@@ -141,14 +141,14 @@ Postgebäude direkt am Oldenburger Hauptbahnhof, Eingang gegenüber Europcar.&lt
           <title>Video Game Night - Ersti-Lan-Party 2024</title>
           <pubDate>Wed, 02 Oct 2024 19:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2024/erstilan2024/</link>
-          <guid>https://mainframe.io/blog/2024/erstilan2024/</guid>
-          <description xml:base="https://mainframe.io/blog/2024/erstilan2024/">&lt;p&gt;Wir freuen uns, die nächste LAN-Party für die Studierenden der Informatik an der Universität Oldenburg anzukündigen!
+          <link>https://www.mainframe.io/blog/2024/erstilan2024/</link>
+          <guid>https://www.mainframe.io/blog/2024/erstilan2024/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2024/erstilan2024/">&lt;p&gt;Wir freuen uns, die nächste LAN-Party für die Studierenden der Informatik an der Universität Oldenburg anzukündigen!
 Diesmal dreht sich alles um spannende Couch-Crawler!&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Wann: 11. Oktober 2024, ab 18:00 Uhr&lt;&#x2F;li&gt;
 &lt;li&gt;Wo: Mainframe Oldenburg&lt;&#x2F;li&gt;
-&lt;li&gt;Anreise: Informationen zur Anreise unter &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;contact&#x2F;&quot;&gt;Kontakt&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Anreise: Informationen zur Anreise unter &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;contact&#x2F;&quot;&gt;Kontakt&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Eintritt: 0 €! Tickets über das &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;tickets.mainframe.io&quot;&gt;Ticketsystem&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h1 id=&quot;was-euch-erwartet&quot;&gt;Was euch erwartet:&lt;&#x2F;h1&gt;
@@ -183,9 +183,9 @@ bezahltes Ticket und informiert uns, wenn ihr doch nicht kommen könnt.&lt;&#x2F
           <title>LAN Party Summer Semester 2024</title>
           <pubDate>Fri, 23 Feb 2024 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2024/lan-party-2024-04/</link>
-          <guid>https://mainframe.io/blog/2024/lan-party-2024-04/</guid>
-          <description xml:base="https://mainframe.io/blog/2024/lan-party-2024-04/">&lt;p&gt;We continue our tradition and are happy to announce we will host the next installment of our famous LAN party for the
+          <link>https://www.mainframe.io/blog/2024/lan-party-2024-04/</link>
+          <guid>https://www.mainframe.io/blog/2024/lan-party-2024-04/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2024/lan-party-2024-04/">&lt;p&gt;We continue our tradition and are happy to announce we will host the next installment of our famous LAN party for the
 computer science students of the university of Oldenburg.&lt;&#x2F;p&gt;
 &lt;p&gt;By now you should be somehow familiar with the process of registration.&lt;&#x2F;p&gt;
 &lt;p&gt;For the greenhorns however are here the most important points.&lt;&#x2F;p&gt;
@@ -248,7 +248,7 @@ The parking spot towards the train station is operated around the clock and not 
 one. There is another parking spot under the building. This one is free the first 30min. After that it costs 1€&#x2F;h. Max is
 5€&#x2F;day. However, we don’t know what the trigger for the day is. Maybe 24 hours. Maybe midnight. We don’t know. You do
 need EC-Cash for that.
-Please have a look at &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;contact&#x2F;&quot;&gt;Contact&lt;&#x2F;a&gt; for
+Please have a look at &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;contact&#x2F;&quot;&gt;Contact&lt;&#x2F;a&gt; for
 further details.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;sleeping&quot;&gt;Sleeping&lt;&#x2F;h1&gt;
 &lt;p&gt;For short napping we offer some couches.
@@ -260,9 +260,9 @@ We do not offer full sleeping capabilities.&lt;&#x2F;p&gt;
           <title>Ersti LAN 2023</title>
           <pubDate>Sat, 09 Sep 2023 10:04:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2023/lan-party-2023-10/</link>
-          <guid>https://mainframe.io/blog/2023/lan-party-2023-10/</guid>
-          <description xml:base="https://mainframe.io/blog/2023/lan-party-2023-10/">&lt;p&gt;Sehr geehrte Damen und Herren, geschätzte Gamer,&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2023/lan-party-2023-10/</link>
+          <guid>https://www.mainframe.io/blog/2023/lan-party-2023-10/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2023/lan-party-2023-10/">&lt;p&gt;Sehr geehrte Damen und Herren, geschätzte Gamer,&lt;&#x2F;p&gt;
 &lt;p&gt;wir freuen uns außerordentlich, Ihnen heute von einer bevorstehenden digitalen Zusammenkunft berichten zu dürfen. Es ist
 mir eine Ehre, Ihnen das “Cyber Game On: Mega Deep Learning &amp;amp; AI Gaming-Wochenende im Mainframe Oldenburg” anzukündigen.
 Ein Event, das die Innovation und die Leidenschaft für Gaming in den Mittelpunkt stellt.&lt;&#x2F;p&gt;
@@ -286,7 +286,7 @@ Klima des digitalen Fortschritts und der Gemeinschaftlichkeit ein unvergessliche
 Oldenburg erleben. Vielen Dank und möge der Cyberspaß beginnen!&lt;&#x2F;p&gt;
 &lt;p&gt;tl;dr
 Wann: 13.10 - 18:00 Uhr
-Wo: Mainframe Oldenburg - &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;contact&#x2F;#Anreise&quot;&gt;Siehe Kontakt&lt;&#x2F;a&gt;
+Wo: Mainframe Oldenburg - &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;contact&#x2F;#Anreise&quot;&gt;Siehe Kontakt&lt;&#x2F;a&gt;
 Eintritt: 0€ Planungstickets unter &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;tickets.mainframe.io&quot;&gt;https:&#x2F;&#x2F;tickets.mainframe.io&lt;&#x2F;a&gt;
 Orga: Planungspad
 unter &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pad.mainframe.io&#x2F;p&#x2F;private_erstilan&quot;&gt;https:&#x2F;&#x2F;pad.mainframe.io&#x2F;p&#x2F;private_erstilan&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -297,11 +297,11 @@ unter &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quo
           <title>Praxisforum Digitalisierung</title>
           <pubDate>Wed, 10 May 2023 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2023/praxisforum-digitalisierung/</link>
-          <guid>https://mainframe.io/blog/2023/praxisforum-digitalisierung/</guid>
-          <description xml:base="https://mainframe.io/blog/2023/praxisforum-digitalisierung/">&lt;p&gt;Zugegeben, eine Veranstaltung mit 180+ Anmeldungen durchzuführen, das kommt auch bei uns nicht alltäglich vor. Zwar
-richten wir häufiger Veranstaltungen wie z.B. das &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;calendar&#x2F;&quot;&gt;CoderDojo&lt;&#x2F;a&gt; oder
-die &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2023&#x2F;lan-party-2023-04-review&#x2F;&quot;&gt;Ersti LAN Party&lt;&#x2F;a&gt; aus, aber diese bewegen sich i.d.R. bei unter
+          <link>https://www.mainframe.io/blog/2023/praxisforum-digitalisierung/</link>
+          <guid>https://www.mainframe.io/blog/2023/praxisforum-digitalisierung/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2023/praxisforum-digitalisierung/">&lt;p&gt;Zugegeben, eine Veranstaltung mit 180+ Anmeldungen durchzuführen, das kommt auch bei uns nicht alltäglich vor. Zwar
+richten wir häufiger Veranstaltungen wie z.B. das &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;calendar&#x2F;&quot;&gt;CoderDojo&lt;&#x2F;a&gt; oder
+die &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2023&#x2F;lan-party-2023-04-review&#x2F;&quot;&gt;Ersti LAN Party&lt;&#x2F;a&gt; aus, aber diese bewegen sich i.d.R. bei unter
 50 Personen. Die 3-4 fache Menge war auch für uns eine besondere Herausforderung und bedarf einer gewissen Vorbereitung
 sowie ordentlicher Planung.&lt;&#x2F;p&gt;
 &lt;p&gt;Wir möchten euch in diesem Blogpost etwas über unsere Ideen, Anstrengungen und Erfahrungen berichten. Fokussiert auf den
@@ -313,7 +313,7 @@ technischen Part der Infrastruktur.&lt;&#x2F;p&gt;
 &lt;li&gt;Ausreichende Kapazität im WAN, LAN, und WLAN.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;Aufmerksame Leser des Blogs werden den letzten Beitrag über
-die &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2023&#x2F;lan-party-2023-04-review&#x2F;&quot;&gt;Ersti LAN Party&lt;&#x2F;a&gt; gelesen haben. Das dort beschriebene Problem
+die &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2023&#x2F;lan-party-2023-04-review&#x2F;&quot;&gt;Ersti LAN Party&lt;&#x2F;a&gt; gelesen haben. Das dort beschriebene Problem
 mit unserem ISP bzw. dessen Modem konnte in der Zwischenzeit erfolgreich behoben werden, womit wir auf eine stabile
 Internetverbindung für das Praxisforum Digitalisierung zugreifen konnten.&lt;&#x2F;p&gt;
 &lt;p&gt;Das übergeordnete Netzdesign auf der physischen Schicht sieht dabei wie folgt aus.&lt;&#x2F;p&gt;
@@ -345,16 +345,16 @@ Point in der Lounge.&lt;&#x2F;p&gt;
 &lt;p&gt;Als Fazit lässt sich sagen, die Vorbereitungen haben sich ausgezahlt. Die Infrastruktur blieb stabil und hat trotz der
 hohen Menge an Clients auf engem Raum gut funktioniert.&lt;&#x2F;p&gt;
 &lt;p&gt;Wenn Ihr mehr davon wissen wollt, kommt gerne einfach vorbei - wir haben i.d.R von 19:00 - 24:00 geöffnet - oder meldet
-euch auf unserer Mailingliste an. Informationen dazu findet ihr jeweils unter: &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;contact&#x2F;&quot;&gt;Kontakt&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+euch auf unserer Mailingliste an. Informationen dazu findet ihr jeweils unter: &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;contact&#x2F;&quot;&gt;Kontakt&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
       </item>
       <item>
           <title>LAN Party - April 2023</title>
           <pubDate>Fri, 03 Mar 2023 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2023/lan-party-2023-04/</link>
-          <guid>https://mainframe.io/blog/2023/lan-party-2023-04/</guid>
-          <description xml:base="https://mainframe.io/blog/2023/lan-party-2023-04/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2023&#x2F;lan-party-2023-04&#x2F;image.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2023/lan-party-2023-04/</link>
+          <guid>https://www.mainframe.io/blog/2023/lan-party-2023-04/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2023/lan-party-2023-04/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2023&#x2F;lan-party-2023-04&#x2F;image.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Es wird wieder Zeit für eine Nacht voller Spaß und Action! Wir laden euch herzlich zu unserer nächsten LAN-Party im
 Mainframe Oldenburg ein.&lt;&#x2F;p&gt;
 &lt;p&gt;Wann? &lt;a href=&quot;#&quot;&gt;Am 14. April 2023 um 18 Uhr&lt;&#x2F;a&gt; geht’s los!&lt;&#x2F;p&gt;
@@ -376,11 +376,11 @@ ergänzt. Regelmäßig reingucken lohnt sich also.&lt;&#x2F;p&gt;
           <title>MCH 2022</title>
           <pubDate>Sun, 07 Aug 2022 17:36:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2022/mch2022/</link>
-          <guid>https://mainframe.io/blog/2022/mch2022/</guid>
-          <description xml:base="https://mainframe.io/blog/2022/mch2022/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2022&#x2F;mch2022&#x2F;MCH2022_Logo.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2022/mch2022/</link>
+          <guid>https://www.mainframe.io/blog/2022/mch2022/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2022/mch2022/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2022&#x2F;mch2022&#x2F;MCH2022_Logo.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Die Mainframe-Crew war wieder campen. Mit sieben Teilnehmern fuhren wir in die Niederlande zur May Contain Hackers,
-kurz &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mch2022.org&#x2F;#&#x2F;&quot;&gt;MCH2022&lt;&#x2F;a&gt;, dem Nachfolger der &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2017&#x2F;sha2017&#x2F;&quot;&gt;SHA2017&lt;&#x2F;a&gt;. Im Gepäck hatten wir neben
+kurz &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mch2022.org&#x2F;#&#x2F;&quot;&gt;MCH2022&lt;&#x2F;a&gt;, dem Nachfolger der &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2017&#x2F;sha2017&#x2F;&quot;&gt;SHA2017&lt;&#x2F;a&gt;. Im Gepäck hatten wir neben
 drei der obligatorischen 3D-Drucker natürlich auch unseren &lt;a href=&quot;#&quot;&gt;Kippenautomaten&lt;&#x2F;a&gt;. Dazu etwas Neues:
 Einen &lt;a href=&quot;#&quot;&gt;Geschirrspüler&lt;&#x2F;a&gt; - auf den wollen wir in Zukunft nie mehr verzichten.&lt;&#x2F;p&gt;
 &lt;p&gt;Der Kippomat stellte sich abermals als eye-catcher heraus, fast rund um die Uhr blieben immer wieder Besucher davor
@@ -396,9 +396,9 @@ bekannt geben.&lt;&#x2F;p&gt;
           <title>Hackathon OL2030</title>
           <pubDate>Thu, 15 Jul 2021 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2021/hackathon-ol2030/</link>
-          <guid>https://mainframe.io/blog/2021/hackathon-ol2030/</guid>
-          <description xml:base="https://mainframe.io/blog/2021/hackathon-ol2030/">&lt;p&gt;Wir machen zusammen mit der Stadt Oldenburg den zweiten Hackathon aus demProjekt Civic Data Lab. Unter dem Motto “Wie
+          <link>https://www.mainframe.io/blog/2021/hackathon-ol2030/</link>
+          <guid>https://www.mainframe.io/blog/2021/hackathon-ol2030/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2021/hackathon-ol2030/">&lt;p&gt;Wir machen zusammen mit der Stadt Oldenburg den zweiten Hackathon aus demProjekt Civic Data Lab. Unter dem Motto “Wie
 wollen wir 2030 zusammenleben?” sollen zunächst beim Vorbereitungstreffen am 31. Juli 2021 Themen gefunden werden,
 anschließend gibt es im Laufe des August Online-Workshops zu den technischen Möglichkeiten im Hackspace und vom 3. bis 5.
 September darf ein Wochenende lang intensiv an Projekten gearbeitet werden, die sich mit dem Leben 2030 auseinandersetzen.&lt;&#x2F;p&gt;
@@ -415,9 +415,9 @@ einfach bei einem Besuch im Hackspace direkt Patrick, muzy oder Lars (larsh404) 
           <title>Chaos Communication Camp 2019</title>
           <pubDate>Fri, 13 Sep 2019 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2019/cccamp2019/</link>
-          <guid>https://mainframe.io/blog/2019/cccamp2019/</guid>
-          <description xml:base="https://mainframe.io/blog/2019/cccamp2019/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2019&#x2F;cccamp2019&#x2F;DSC_0705.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2019/cccamp2019/</link>
+          <guid>https://www.mainframe.io/blog/2019/cccamp2019/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2019/cccamp2019/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2019&#x2F;cccamp2019&#x2F;DSC_0705.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Nach dem CCCamp 2015 und der &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.sha2017.org&quot;&gt;SHA2017&lt;&#x2F;a&gt; sind wieder zum Camping gefahren. Dieses Jahr stand
 das &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;events.ccc.de&#x2F;camp&#x2F;2019&#x2F;&quot;&gt;Chaos Communication Camp 2019&lt;&#x2F;a&gt; an und wir sind mit 15 Personen dort
 gewesen. Sehr schön ist es gewesen, jetzt heißt es wieder 2 Jahre warten auf das nächste Camp.&lt;&#x2F;p&gt;
@@ -427,9 +427,9 @@ gewesen. Sehr schön ist es gewesen, jetzt heißt es wieder 2 Jahre warten auf d
           <title>CoderDojo Oldenburg</title>
           <pubDate>Tue, 19 Mar 2019 20:15:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2019/coderdojo/</link>
-          <guid>https://mainframe.io/blog/2019/coderdojo/</guid>
-          <description xml:base="https://mainframe.io/blog/2019/coderdojo/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2019&#x2F;coderdojo&#x2F;CoderDojoHeader.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2019/coderdojo/</link>
+          <guid>https://www.mainframe.io/blog/2019/coderdojo/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2019/coderdojo/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2019&#x2F;coderdojo&#x2F;CoderDojoHeader.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;CoderDojo ist eine weltweite Bewegung und davon überzeugt, dass Programmieren eine Fähigkeit ist, die in unserer
 modernen Welt immer wichtiger wird. Jeden Tag gibt es neue Entwicklungen und Technologie findet Einzug in immer mehr
 Bereiche unseres Alltags. Wer weiß schon wie die Welt in 10 Jahren aussieht, aber eines ist klar: sie wird mit Code
@@ -494,9 +494,9 @@ Tel.&#x2F;Messenger &lt;a href=&quot;tel:+491776837777&quot;&gt;0177-6837777&lt;
           <title>SHA2017</title>
           <pubDate>Sat, 26 Aug 2017 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2017/sha2017/</link>
-          <guid>https://mainframe.io/blog/2017/sha2017/</guid>
-          <description xml:base="https://mainframe.io/blog/2017/sha2017/">&lt;p&gt;Nachdem unsere Delegation vom &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2015&#x2F;cccamp2015&#x2F;&quot;&gt;CCCamp 2015&lt;&#x2F;a&gt; quasi nur Gutes zu berichten hatte,
+          <link>https://www.mainframe.io/blog/2017/sha2017/</link>
+          <guid>https://www.mainframe.io/blog/2017/sha2017/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2017/sha2017/">&lt;p&gt;Nachdem unsere Delegation vom &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2015&#x2F;cccamp2015&#x2F;&quot;&gt;CCCamp 2015&lt;&#x2F;a&gt; quasi nur Gutes zu berichten hatte,
 sind dieses Mal mit ganzen 12 Personen zur &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.sha2017.org&quot;&gt;SHA2017&lt;&#x2F;a&gt; aufgebrochen.&lt;&#x2F;p&gt;
 &lt;p&gt;Nach den Erfahrungen vom letzten Camp sind wir dieses Mal bereits an Tag -1 angereist, um unser Village aufzubauen (und
 generell beim Aufbau zu helfen). Vor Ort wurde schonmal klar, warum unser Village kurz vor dem Event noch einmal
@@ -522,9 +522,9 @@ dem Gedanken nächstes Jahr zur EMF nach England zu reisen).&lt;&#x2F;p&gt;
           <title>Wir feiern 6 Jahre KtT</title>
           <pubDate>Tue, 11 Jul 2017 21:07:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2017/6-jahre-ktt/</link>
-          <guid>https://mainframe.io/blog/2017/6-jahre-ktt/</guid>
-          <description xml:base="https://mainframe.io/blog/2017/6-jahre-ktt/">&lt;p&gt;Der KtT wird heute (11.07.2017) sechs Jahre alt und das wollen wir am Freitag den 14.07.2017 ein wenig feiern. Es gibt
+          <link>https://www.mainframe.io/blog/2017/6-jahre-ktt/</link>
+          <guid>https://www.mainframe.io/blog/2017/6-jahre-ktt/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2017/6-jahre-ktt/">&lt;p&gt;Der KtT wird heute (11.07.2017) sechs Jahre alt und das wollen wir am Freitag den 14.07.2017 ein wenig feiern. Es gibt
 Essen, Getränke, Bilder und Anekdoten und wie immer sind auch Nicht-Mitglieder willkommen. Beginn ab 18.00 Uhr, Essen
 und Programm gibt es ab 20.00 Uhr.&lt;&#x2F;p&gt;
 &lt;p&gt;Bitte &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pad.kreativitaet-trifft-technik.de&#x2F;p&#x2F;6JahreKtT&quot;&gt;tragt euch im Pad&lt;&#x2F;a&gt; ein, damit wir die Einkäufe passend
@@ -536,9 +536,9 @@ dimensionieren!&lt;&#x2F;p&gt;
           <title>Ferienpassaktion &quot;Multifunktionssensor bauen&quot;</title>
           <pubDate>Sat, 24 Jun 2017 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2017/ferienpass-2017/</link>
-          <guid>https://mainframe.io/blog/2017/ferienpass-2017/</guid>
-          <description xml:base="https://mainframe.io/blog/2017/ferienpass-2017/">&lt;p&gt;Die Ferienpassaktion “Multifunktionssensor bauen” ist auch in diesem Jahr erfolgreich zu Ende gegangen.&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2017/ferienpass-2017/</link>
+          <guid>https://www.mainframe.io/blog/2017/ferienpass-2017/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2017/ferienpass-2017/">&lt;p&gt;Die Ferienpassaktion “Multifunktionssensor bauen” ist auch in diesem Jahr erfolgreich zu Ende gegangen.&lt;&#x2F;p&gt;
 &lt;p&gt;Da wir diesmal im Vergleich zum Vorjahr ein komplexeres Projekt gewählt haben und dies der erste Versuch war, hat es
 diesmal etwas länger gedauert, um alles fertig zu bauen. Nach Ausbesserung einiger üblicher Lötfehler konnten aber
 schließlich alle Teilnehmer einen blinkend funktionierenden Sensor mit nach Hause nehmen.&lt;&#x2F;p&gt;
@@ -553,9 +553,9 @@ finden: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&q
           <title>Worldwide Pinhole Photography Day</title>
           <pubDate>Sun, 30 Apr 2017 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2017/wppd/</link>
-          <guid>https://mainframe.io/blog/2017/wppd/</guid>
-          <description xml:base="https://mainframe.io/blog/2017/wppd/">&lt;p&gt;Seit 2001 rufen die Organisatoren die Menschen überall auf der Welt auf, am jeweils letzten Sonntag des April eines
+          <link>https://www.mainframe.io/blog/2017/wppd/</link>
+          <guid>https://www.mainframe.io/blog/2017/wppd/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2017/wppd/">&lt;p&gt;Seit 2001 rufen die Organisatoren die Menschen überall auf der Welt auf, am jeweils letzten Sonntag des April eines
 jeden Jahres einfach eine Aufnahme mit einer Lochkamera zu machen und diese ohne Kosten in eine virtuelle Galerie
 hochzuladen.&lt;&#x2F;p&gt;
 &lt;p&gt;Für eine Lochkamera-Aufnahme benötigt man nur ein lichtdichtes Behältnis (Schachtel, Dose, …) mit einem kleinen Loch
@@ -569,9 +569,9 @@ Space entwickelt und gescannt.&lt;&#x2F;p&gt;
           <title>33C3</title>
           <pubDate>Sat, 31 Dec 2016 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2016/33c3/</link>
-          <guid>https://mainframe.io/blog/2016/33c3/</guid>
-          <description xml:base="https://mainframe.io/blog/2016/33c3/">&lt;p&gt;Natürlich ist der Mainframe auch in diesem Jahr auf dem Chaos Communication
+          <link>https://www.mainframe.io/blog/2016/33c3/</link>
+          <guid>https://www.mainframe.io/blog/2016/33c3/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2016/33c3/">&lt;p&gt;Natürlich ist der Mainframe auch in diesem Jahr auf dem Chaos Communication
 Congress vertreten. Informationen zu unserer &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;events.ccc.de&#x2F;congress&#x2F;2016&#x2F;wiki&#x2F;Assembly:Mainframe&quot;&gt;Assembly lassen sich direkt im 33C3 Wiki finden&lt;&#x2F;a&gt;.
 Dieses Jahr sind wir voraussichtlich mit über 20 Personen vor Ort, von denen rund die Hälfte bereits am zweiten
 Weihnachtstag anreist. Geplant ist unter anderem einen Workshop für MQTT
@@ -585,12 +585,12 @@ reduzierten Öffnungszeiten des Mainframes zu rechnen.&lt;&#x2F;p&gt;
           <title>co-op3: Dein Projekt für den Kongress</title>
           <pubDate>Thu, 08 Dec 2016 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2016/co-op3/</link>
-          <guid>https://mainframe.io/blog/2016/co-op3/</guid>
-          <description xml:base="https://mainframe.io/blog/2016/co-op3/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;co-op3&#x2F;co-op3-logo.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2016/co-op3/</link>
+          <guid>https://www.mainframe.io/blog/2016/co-op3/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2016/co-op3/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;co-op3&#x2F;co-op3-logo.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Der Hackathon co-op3 fand am Wochenende des 05. + 06. November 2016 in den Räumen des Mainframe statt. Das Motto lautete: Dein Projekt für den &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;events.ccc.de&#x2F;congress&#x2F;2016&#x2F;wiki&#x2F;Main_Page&quot;&gt;Kongress - 33C3&lt;&#x2F;a&gt;Es ging dabei um Projekte, die mit auf den 33C3 gebracht werden können.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;co-op3&#x2F;co-op3-hacking.jpg&quot; alt=&quot;Elektronik auf einem Tisch&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Nach dem Start um 16 Uhr am Samstag traten die Teilnehmer mit ihren Projektideen an. Wie auch bei dem vorherigen Hackathon &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op1&#x2F;&quot;&gt;co-op2&lt;&#x2F;a&gt;&#x2F;&lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op2&#x2F;&quot;&gt;coop2&lt;&#x2F;a&gt; wurde mit einem Soft-Opening begonnen. Die Aktivitäten erstreckten sich über die gesamten Räume des Spaces. Nach einer ersten Vorstellungsrunde wurde sich immer wieder in regelmäßigen Abständen in der Lounge getroffen um sich über den Fortschritt und auch die auftretenden Probleme auf dem Weg auszutauschen - sogenannte “Syncs”. Insgesamt nahmen 10 Leute teil und es gab auch spontane Teilnehmer, die das Event zum Anlass nahmen sich intensiv mit ihren sonstigen Projekten auseinander zu setzen.&lt;&#x2F;p&gt;
+&lt;p&gt;Nach dem Start um 16 Uhr am Samstag traten die Teilnehmer mit ihren Projektideen an. Wie auch bei dem vorherigen Hackathon &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op1&#x2F;&quot;&gt;co-op2&lt;&#x2F;a&gt;&#x2F;&lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op2&#x2F;&quot;&gt;coop2&lt;&#x2F;a&gt; wurde mit einem Soft-Opening begonnen. Die Aktivitäten erstreckten sich über die gesamten Räume des Spaces. Nach einer ersten Vorstellungsrunde wurde sich immer wieder in regelmäßigen Abständen in der Lounge getroffen um sich über den Fortschritt und auch die auftretenden Probleme auf dem Weg auszutauschen - sogenannte “Syncs”. Insgesamt nahmen 10 Leute teil und es gab auch spontane Teilnehmer, die das Event zum Anlass nahmen sich intensiv mit ihren sonstigen Projekten auseinander zu setzen.&lt;&#x2F;p&gt;
 &lt;p&gt;Bei soviel nachdenken und tüfteln durfte Essen natürlich auch nicht fehlen und so gab es am Samstagabend Hot-Dogs zu essen (auch vegetarische, Danke!).&lt;&#x2F;p&gt;
 &lt;p&gt;Gearbeitet wurde unter anderem an den folgenden Projekten:&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -615,9 +615,9 @@ reduzierten Öffnungszeiten des Mainframes zu rechnen.&lt;&#x2F;p&gt;
           <title>Ferienpass 2016 - Binäruhren bauen</title>
           <pubDate>Sat, 09 Jul 2016 19:36:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2016/ferienpass-2016-1/</link>
-          <guid>https://mainframe.io/blog/2016/ferienpass-2016-1/</guid>
-          <description xml:base="https://mainframe.io/blog/2016/ferienpass-2016-1/">&lt;p&gt;Am 02. und 03. Juli haben Jugendliche im Rahmen der Ferienpassaktion eine Binäruhr gelötet.&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2016/ferienpass-2016-1/</link>
+          <guid>https://www.mainframe.io/blog/2016/ferienpass-2016-1/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2016/ferienpass-2016-1/">&lt;p&gt;Am 02. und 03. Juli haben Jugendliche im Rahmen der Ferienpassaktion eine Binäruhr gelötet.&lt;&#x2F;p&gt;
 &lt;p&gt;Nach einem Rundgang durch den Space erläuterten Jan und Peter das Binärsystem, grundlegendes Elektrotechnik-Wissen über
 die Bauteile der Binäruhr sowie einige Grundregeln des Lötens.&lt;&#x2F;p&gt;
 &lt;p&gt;Anschließend ging es an die Lötkolben. Nach einigen Zentimetern Lötzinn, abgeschnittenen Drähten und etwas Korrekturen
@@ -630,9 +630,9 @@ alle Helfer!“&lt;&#x2F;p&gt;
           <title>co-op2: Spacebus mit MQTT</title>
           <pubDate>Wed, 18 May 2016 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2016/co-op2/</link>
-          <guid>https://mainframe.io/blog/2016/co-op2/</guid>
-          <description xml:base="https://mainframe.io/blog/2016/co-op2/">&lt;p&gt;Datum: 14.+15.05.2016
+          <link>https://www.mainframe.io/blog/2016/co-op2/</link>
+          <guid>https://www.mainframe.io/blog/2016/co-op2/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2016/co-op2/">&lt;p&gt;Datum: 14.+15.05.2016
 Beginn: Samstag um 16 Uhr
 Abschluss mit Preisvergabe: Sonntag um 20 Uhr&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;co-op2&#x2F;co-op2-logo-web.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -641,7 +641,7 @@ gedreht, der via &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot
 uns für das Sammeln von Temperatur- und Stromzählerwerten genutzt, jedoch gab es noch größeres Potenzial bei der Nutzung
 durch Sensoren und Aktoren. Ziel der Veranstaltung war es, gemeinsam den Umgang mit MQTT zu erlernen und coole Projekte
 daraus zu bauen, die im Idealfall auch dem Space auch eine Funktionserweiterung bieten.&lt;&#x2F;p&gt;
-&lt;p&gt;Von der &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op1&#x2F;&quot;&gt;co-op1&lt;&#x2F;a&gt; haben wir gelernt, dass die Teilnehmer samstags zu sehr
+&lt;p&gt;Von der &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2016&#x2F;co-op1&#x2F;&quot;&gt;co-op1&lt;&#x2F;a&gt; haben wir gelernt, dass die Teilnehmer samstags zu sehr
 unterschiedlichen Uhrzeiten erscheinen können, und haben deswegen mit einem Soft-Opening begonnen. Zwischen 10 und 20
 Personen waren über das Wochenende im Space zugange und haben an nützlichen und eindrucksvollen Projekten getüftelt.&lt;&#x2F;p&gt;
 &lt;p&gt;Die Projekte waren diesmal eher der Softwaresparte einzuordnen, jedoch wurde hier und dort auch ein ESP als Aktor oder
@@ -683,9 +683,9 @@ schon aufs nächste Mal!&lt;&#x2F;p&gt;
           <title>co-op1: Wartelisten-Projekte</title>
           <pubDate>Mon, 08 Feb 2016 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2016/co-op1/</link>
-          <guid>https://mainframe.io/blog/2016/co-op1/</guid>
-          <description xml:base="https://mainframe.io/blog/2016/co-op1/">&lt;p&gt;Datum: &lt;strong&gt;06.+07.02.2016&lt;&#x2F;strong&gt;
+          <link>https://www.mainframe.io/blog/2016/co-op1/</link>
+          <guid>https://www.mainframe.io/blog/2016/co-op1/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2016/co-op1/">&lt;p&gt;Datum: &lt;strong&gt;06.+07.02.2016&lt;&#x2F;strong&gt;
 Beginn: &lt;strong&gt;Samstag um 16 Uhr&lt;&#x2F;strong&gt;
 Abschluss mit Preisvergabe: &lt;strong&gt;Sonntag um 20 Uhr&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Am 6. und 7. Februar fand im KtT der erste Hackathon im Space 3.0, die sog. co-op, statt.&lt;&#x2F;p&gt;
@@ -730,9 +730,9 @@ Da-Vinci-Katapult bei.&lt;&#x2F;p&gt;
           <title>32C3</title>
           <pubDate>Thu, 31 Dec 2015 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2015/32c3/</link>
-          <guid>https://mainframe.io/blog/2015/32c3/</guid>
-          <description xml:base="https://mainframe.io/blog/2015/32c3/">&lt;p&gt;Nach etwas Stress bei der Frage, wie unser Equipment zum nach Hamburg kommt
+          <link>https://www.mainframe.io/blog/2015/32c3/</link>
+          <guid>https://www.mainframe.io/blog/2015/32c3/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2015/32c3/">&lt;p&gt;Nach etwas Stress bei der Frage, wie unser Equipment zum nach Hamburg kommt
 haben sich am Ende zwei Mitglieder gefunden, die per Auto zum Congress gefahren
 sind und unsere LED-Wand, ein Rollup, ein Banner, 3D-Drucker, sowie Switches,
 Steckdosenleisten, sowie Kleinkram wie Werkzeug und Lötkolben mitgenommen haben.&lt;&#x2F;p&gt;
@@ -769,9 +769,9 @@ Spaces angeschaut.&lt;&#x2F;p&gt;
           <title>Workshops im Edith-Russ-Haus</title>
           <pubDate>Tue, 01 Dec 2015 13:42:01 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2015/workshops-im-edith-russ-haus/</link>
-          <guid>https://mainframe.io/blog/2015/workshops-im-edith-russ-haus/</guid>
-          <description xml:base="https://mainframe.io/blog/2015/workshops-im-edith-russ-haus/">&lt;p&gt;Wir wurden gefragt, ob wir zur
+          <link>https://www.mainframe.io/blog/2015/workshops-im-edith-russ-haus/</link>
+          <guid>https://www.mainframe.io/blog/2015/workshops-im-edith-russ-haus/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2015/workshops-im-edith-russ-haus/">&lt;p&gt;Wir wurden gefragt, ob wir zur
 Ausstellung “&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20151128191752&#x2F;http:&#x2F;&#x2F;www.edith-russ-haus.de&#x2F;ausstellungen&#x2F;ausstellungen&#x2F;aktuell.html&quot;&gt;Autonomy Cube&lt;&#x2F;a&gt;”
 von &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.paglen.com&#x2F;&quot;&gt;Trevor Paglen&lt;&#x2F;a&gt; und Jacob Appelbaum (vom &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.torproject.org&#x2F;&quot;&gt;TOR-Projekt&lt;&#x2F;a&gt;)
 im &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.edith-russ-haus.de&#x2F;&quot;&gt;Edith-Russ-Haus&lt;&#x2F;a&gt; etwas zum Rahmenprogramm beitragen wollen. Dies haben wir in Form
@@ -796,9 +796,9 @@ unter der CC-BY-SA-Lizenz verfügbar.&lt;&#x2F;p&gt;
           <title>Der KtT bei der openNord</title>
           <pubDate>Mon, 16 Nov 2015 19:42:01 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2015/opennord/</link>
-          <guid>https://mainframe.io/blog/2015/opennord/</guid>
-          <description xml:base="https://mainframe.io/blog/2015/opennord/">&lt;p&gt;Die “Linuxinformationstage” sind nun “&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;opennord.de&#x2F;&quot;&gt;openNord&lt;&#x2F;a&gt;”, und der KtT wurde gefragt, ob er dort nicht ein
+          <link>https://www.mainframe.io/blog/2015/opennord/</link>
+          <guid>https://www.mainframe.io/blog/2015/opennord/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2015/opennord/">&lt;p&gt;Die “Linuxinformationstage” sind nun “&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;opennord.de&#x2F;&quot;&gt;openNord&lt;&#x2F;a&gt;”, und der KtT wurde gefragt, ob er dort nicht ein
 paar Vorträge beisteuern und einen Stand zum Ausstellen haben möchte. Natürlich sagen wir da nicht nein!&lt;&#x2F;p&gt;
 &lt;p&gt;Hinter der Umbenennung der Linuxinformationstage zu openNord steckt eine inhaltliche Neuausrichtung. Es geht nicht mehr
 nur explizit um Linux als Alternative für immer unsichere Windows-Rechner, sondern auch um OpenSource im Allgemeinen,
@@ -840,9 +840,9 @@ weiter wachsen wird und ich würde fast wetten, dass der KtT wieder mit von der 
           <title>Gute Orte Stadtrundgang</title>
           <pubDate>Sat, 07 Nov 2015 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2015/guteorte/</link>
-          <guid>https://mainframe.io/blog/2015/guteorte/</guid>
-          <description xml:base="https://mainframe.io/blog/2015/guteorte/">&lt;p&gt;Studierende der &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.uni-oldenburg.de&#x2F;&quot;&gt;Uni Oldenburg&lt;&#x2F;a&gt;organisieren analog zur sog. O(rientierungs)-Woche
+          <link>https://www.mainframe.io/blog/2015/guteorte/</link>
+          <guid>https://www.mainframe.io/blog/2015/guteorte/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2015/guteorte/">&lt;p&gt;Studierende der &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.uni-oldenburg.de&#x2F;&quot;&gt;Uni Oldenburg&lt;&#x2F;a&gt;organisieren analog zur sog. O(rientierungs)-Woche
 momentan eine alternative O-Phase, die neuen und erfahrenen Studierenden neue und lohnenswerte Ecken Oldenburgs
 näherbringen möchte. Unter dem Namen “Gute Orte” (&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;GuteOrte&quot;&gt;Facebook-Veranstaltung&lt;&#x2F;a&gt;) fand dazu
 auch ein kleiner Rundgang durch das Bahnhofsviertel statt. Beginnend am Poly-Haus wurde die Gruppe von
@@ -866,9 +866,9 @@ aufgeklärt und durch die einzelnen Räume geführt.&lt;&#x2F;p&gt;
           <title>Chaos Communication Camp 2015</title>
           <pubDate>Fri, 21 Aug 2015 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2015/cccamp2015/</link>
-          <guid>https://mainframe.io/blog/2015/cccamp2015/</guid>
-          <description xml:base="https://mainframe.io/blog/2015/cccamp2015/">&lt;p&gt;Auch auf dem 4-jährigen Camp des CCCs ist der Mainframe selbstverständlich
+          <link>https://www.mainframe.io/blog/2015/cccamp2015/</link>
+          <guid>https://www.mainframe.io/blog/2015/cccamp2015/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2015/cccamp2015/">&lt;p&gt;Auch auf dem 4-jährigen Camp des CCCs ist der Mainframe selbstverständlich
 anzutreffen. Für den Aufbau des Villages und um dem großen Ansturm nach Tickets
 zu entgehen, sind wir bereits einen Tag früher angereist. Vor Ort angekommen
 wurde festgestellt, dass die meisten Zeltplätze bereits belegt waren. Nachdem
@@ -931,9 +931,9 @@ die z.B. das Versenden von DVB-T Signalen mit dem rad1o erklären.&lt;&#x2F;p&gt
           <title>Ferienpass 2015 - Binäruhren</title>
           <pubDate>Sun, 02 Aug 2015 20:36:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2015/ferienpass/</link>
-          <guid>https://mainframe.io/blog/2015/ferienpass/</guid>
-          <description xml:base="https://mainframe.io/blog/2015/ferienpass/">&lt;p&gt;Am Wochenende des 01. und 02. August haben Schüler im Rahmen der Ferienpassaktion eine Binäruhr gelötet.&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2015/ferienpass/</link>
+          <guid>https://www.mainframe.io/blog/2015/ferienpass/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2015/ferienpass/">&lt;p&gt;Am Wochenende des 01. und 02. August haben Schüler im Rahmen der Ferienpassaktion eine Binäruhr gelötet.&lt;&#x2F;p&gt;
 &lt;p&gt;Nach einem Rundgang durch den Space erläuterten Jan und Peter das Binärsystem, grundlegendes Wissen über die Bauteile
 der Binäruhr sowie einige Grundregeln des Lötens.&lt;&#x2F;p&gt;
 &lt;p&gt;Anschließend ging es an die Lötkolben. Nach einigen Zentimetern Lötzinn, abgeschnittenen Drähten und etwas Korrekturen
@@ -946,9 +946,9 @@ Vielen Dank an alle Helfer!&lt;&#x2F;p&gt;
           <title>31C3</title>
           <pubDate>Wed, 31 Dec 2014 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2014/31c3/</link>
-          <guid>https://mainframe.io/blog/2014/31c3/</guid>
-          <description xml:base="https://mainframe.io/blog/2014/31c3/">&lt;p&gt;Wie nach dem 30C3 schon angekündigt waren wir auch dieses Jahr wieder auf dem
+          <link>https://www.mainframe.io/blog/2014/31c3/</link>
+          <guid>https://www.mainframe.io/blog/2014/31c3/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2014/31c3/">&lt;p&gt;Wie nach dem 30C3 schon angekündigt waren wir auch dieses Jahr wieder auf dem
 Chaos Communication Congress - diesesmal mit über zwanzig Personen. Im
 Gegensatz zum letzten Jahr waren wir dieses Jahr nicht im Hackcenter, sondern
 in der Quiet-Area (und damit etwas abgeschiedener) untergebracht. Dafür gab es
@@ -968,9 +968,9 @@ Spaces angeschaut.&lt;&#x2F;p&gt;
           <title> Linux-Informationstag 2014</title>
           <pubDate>Sun, 02 Nov 2014 01:09:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2014/lit/</link>
-          <guid>https://mainframe.io/blog/2014/lit/</guid>
-          <description xml:base="https://mainframe.io/blog/2014/lit/">&lt;p&gt;Am 17. und 18. Oktober 2014 fand
+          <link>https://www.mainframe.io/blog/2014/lit/</link>
+          <guid>https://www.mainframe.io/blog/2014/lit/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2014/lit/">&lt;p&gt;Am 17. und 18. Oktober 2014 fand
 der 8. &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20141217154617&#x2F;http:&#x2F;&#x2F;lit-oldenburg.de&#x2F;&quot;&gt;Linux-Informationstag&lt;&#x2F;a&gt; statt. Diesmal waren
 auch wir vom Chaostreff Oldenburg mit dabei. Wir haben dort einen WLAN-Accesspoint vorbereitet, mit dessen Hilfe die
 Besucher den Datenverkehr ihrer mobilen Geräte selbst begutachten können.&lt;&#x2F;p&gt;
@@ -990,9 +990,9 @@ der Veranstaltung.&lt;&#x2F;p&gt;
           <title>Fab4Teachers 2014</title>
           <pubDate>Wed, 24 Sep 2014 18:37:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2014/fab4teachers/</link>
-          <guid>https://mainframe.io/blog/2014/fab4teachers/</guid>
-          <description xml:base="https://mainframe.io/blog/2014/fab4teachers/">&lt;p&gt;Nach den großartigen Erfahrungen im letzten Jahr konnten wir unsere Fortbildung für Lehrer “Fab4Teachers” in den
+          <link>https://www.mainframe.io/blog/2014/fab4teachers/</link>
+          <guid>https://www.mainframe.io/blog/2014/fab4teachers/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2014/fab4teachers/">&lt;p&gt;Nach den großartigen Erfahrungen im letzten Jahr konnten wir unsere Fortbildung für Lehrer “Fab4Teachers” in den
 Sommerferien 2014 erneut durchführen und so weitere 12 Lehrkräfte und Schulen mit einem 3D-Drucker ausstatten.&lt;&#x2F;p&gt;
 &lt;p&gt;Mit Unterstützung der Wirtschaftsförderung Oldenburg konnten wir die Metropolregion Nordwest (ehemals Bremen-Oldenburg)
 als Projekt-Förderer gewinnen und vom 5. bis zum 7. September die nächste Generation der von uns speziell für den
@@ -1020,9 +1020,9 @@ Grenzen des Informatikunterrichts hinaus) zu unterstützen.&lt;&#x2F;p&gt;
           <title>Freifeld 2014</title>
           <pubDate>Sun, 31 Aug 2014 19:58:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2014/freifeld/</link>
-          <guid>https://mainframe.io/blog/2014/freifeld/</guid>
-          <description xml:base="https://mainframe.io/blog/2014/freifeld/">&lt;p&gt;Auch dieses Jahr waren wir wieder beim &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.freifeld-festival.de&#x2F;&quot;&gt;FREIFELD-FESTIVAL&lt;&#x2F;a&gt; vertreten. Die Idee war,
+          <link>https://www.mainframe.io/blog/2014/freifeld/</link>
+          <guid>https://www.mainframe.io/blog/2014/freifeld/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2014/freifeld/">&lt;p&gt;Auch dieses Jahr waren wir wieder beim &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.freifeld-festival.de&#x2F;&quot;&gt;FREIFELD-FESTIVAL&lt;&#x2F;a&gt; vertreten. Die Idee war,
 einen Lötworkshop anzubieten. Und so löteten die Festivalbesucher an unserem Stand aus einem Bausatz einen
 elektronischen Würfel zusammen. Jeder Teilnehmer brachte ganz unterschiedliche Erfahrungen bezüglich Elektronik und
 Lötkolben mit und erhielt entsprechende Hilfestellungen. Der mit 8 Jahren jüngste Teilnehmer erklärte seiner Mutter wie
@@ -1036,9 +1036,9 @@ es geht ;-) viele Besucher zeigten großes Interesse am Hackspace und wollen “
           <title>Ferienpass 2014 - Binäruhren</title>
           <pubDate>Tue, 26 Aug 2014 20:36:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2014/ferienpass/</link>
-          <guid>https://mainframe.io/blog/2014/ferienpass/</guid>
-          <description xml:base="https://mainframe.io/blog/2014/ferienpass/">&lt;p&gt;Am Wochenende vom 9.8.2014 hatten wir wie im Vorjahr 7 Technik interessierte Jugendliche bei uns zu Gast, die bei uns
+          <link>https://www.mainframe.io/blog/2014/ferienpass/</link>
+          <guid>https://www.mainframe.io/blog/2014/ferienpass/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2014/ferienpass/">&lt;p&gt;Am Wochenende vom 9.8.2014 hatten wir wie im Vorjahr 7 Technik interessierte Jugendliche bei uns zu Gast, die bei uns
 eine Binäruhr bauen wollten. Den Teilnehmern dieser Aktion wurde nach einer kurzen Einweisung je ein Set für eine
 Binäruhr, die von unserem Mitglied Sebastian Setz entwickelt wurde, ausgehändigt. Danach haben die Jugendlichen unter
 Anleitung begonnen ihre Binäruhren zu bauen nach einigen kleinen Startschwierigkeiten mit den Widerständen konnten am
@@ -1049,9 +1049,9 @@ Sonntag alle 7 Teilnehmer mit einer funktionierenden Binäruhr nach Hause gehen.
           <title>freiGang 2014</title>
           <pubDate>Fri, 08 Aug 2014 20:45:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2014/freigang/</link>
-          <guid>https://mainframe.io/blog/2014/freigang/</guid>
-          <description xml:base="https://mainframe.io/blog/2014/freigang/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2014&#x2F;freigang&#x2F;img01.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2014/freigang/</link>
+          <guid>https://www.mainframe.io/blog/2014/freigang/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2014/freigang/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2014&#x2F;freigang&#x2F;img01.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Auch dieses Jahr waren wir als Verein wieder beim&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.kultursommer-oldenburg.de&#x2F;?id=1--x-613&quot;&gt;freiGang&lt;&#x2F;a&gt; dabei.
 Der freiGang, als “Ort für Anderes”, war auch diesmal wieder die gemütlichere Ecke des Kultursommers.
 Stattgefunden hat er diesmal vom 16. bis zum 20. Juli.&lt;&#x2F;p&gt;
@@ -1080,9 +1080,9 @@ unterstützen und mit den Gästen rumnerden.&lt;&#x2F;p&gt;
           <title>Siebdruckworkshop</title>
           <pubDate>Sat, 21 Jun 2014 00:18:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2014/siebdruckworkshop/</link>
-          <guid>https://mainframe.io/blog/2014/siebdruckworkshop/</guid>
-          <description xml:base="https://mainframe.io/blog/2014/siebdruckworkshop/">&lt;p&gt;Am 21. und 22. Juni fand in der Uni ein Siebdruckworkshop statt. Mithilfe von vorgedruckten oder Hilfslinien auf Papier
+          <link>https://www.mainframe.io/blog/2014/siebdruckworkshop/</link>
+          <guid>https://www.mainframe.io/blog/2014/siebdruckworkshop/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2014/siebdruckworkshop/">&lt;p&gt;Am 21. und 22. Juni fand in der Uni ein Siebdruckworkshop statt. Mithilfe von vorgedruckten oder Hilfslinien auf Papier
 wurden Masken hergestellt. Einige Kursteilnehmer zeigten dabei besondere Fingerfertigkeiten beim Ausschneiden, andere
 hatten die Nacht durchgemacht und versuchten sich an zuvor in der Bibliothek ausgedruckten Motiven. Mit Pinsel oder
 Rakel wurde dann die Farbe erst durch das Sieb und dann durch die Löcher im Papier auf das T-Shirt gedruckt. Eine im
@@ -1098,9 +1098,9 @@ Wiederholung stattfinden.&lt;&#x2F;p&gt;
           <title>Umzug 3.0</title>
           <pubDate>Wed, 23 Apr 2014 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2014/umzug/</link>
-          <guid>https://mainframe.io/blog/2014/umzug/</guid>
-          <description xml:base="https://mainframe.io/blog/2014/umzug/">&lt;h1 id=&quot;projekt-nerdpower&quot;&gt;Projekt “Nerdpower”&lt;&#x2F;h1&gt;
+          <link>https://www.mainframe.io/blog/2014/umzug/</link>
+          <guid>https://www.mainframe.io/blog/2014/umzug/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2014/umzug/">&lt;h1 id=&quot;projekt-nerdpower&quot;&gt;Projekt “Nerdpower”&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2014&#x2F;umzug&#x2F;nerdpower.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Es geht in die zweite Runde: der Transport von Inventar in den neuen Space.
 Planung: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;pad.kreativitaet-trifft-technik.de&#x2F;p&#x2F;Nerdpower&quot;&gt;http:&#x2F;&#x2F;pad.kreativitaet-trifft-technik.de&#x2F;p&#x2F;Nerdpower&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -1114,9 +1114,9 @@ Planung: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&
           <title>30C3</title>
           <pubDate>Tue, 31 Dec 2013 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2013/30c3/</link>
-          <guid>https://mainframe.io/blog/2013/30c3/</guid>
-          <description xml:base="https://mainframe.io/blog/2013/30c3/">&lt;p&gt;Dieses Jahr ist eine ganze Delegation des Oldenburger Hackspaces offiziell beim 30C3 gewesen. Dort haben wir im Hackcenter unsere üblichen Ausstellungsstücke dabei gehabt (3D-Drucker, LED-Cube) und ein Banner aufgestellt.&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2013/30c3/</link>
+          <guid>https://www.mainframe.io/blog/2013/30c3/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2013/30c3/">&lt;p&gt;Dieses Jahr ist eine ganze Delegation des Oldenburger Hackspaces offiziell beim 30C3 gewesen. Dort haben wir im Hackcenter unsere üblichen Ausstellungsstücke dabei gehabt (3D-Drucker, LED-Cube) und ein Banner aufgestellt.&lt;&#x2F;p&gt;
 &lt;p&gt;Ansonsten haben wir einfach die Zeit zusammen mit den anderen Hackern genossen, das Bällebad besucht und uns die Vorträge angehört.&lt;&#x2F;p&gt;
 &lt;p&gt;Resume: 2014 werden wir wieder, dann vermutlich mit einer noch größeren Delegation in Hamburg ankommen.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;30C3&#x2F;building.jpg&quot; alt=&quot;CCH während des 30C3&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -1126,9 +1126,9 @@ Planung: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&
           <title>Lumi Build Night</title>
           <pubDate>Sun, 08 Sep 2013 12:57:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2013/lumi-build-night/</link>
-          <guid>https://mainframe.io/blog/2013/lumi-build-night/</guid>
-          <description xml:base="https://mainframe.io/blog/2013/lumi-build-night/">&lt;p&gt;Dazu wurde uns von &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.instructables.com&#x2F;&quot;&gt;instructables.com&lt;&#x2F;a&gt; eine Zusammenstellung von Lumi-Produkten zur
+          <link>https://www.mainframe.io/blog/2013/lumi-build-night/</link>
+          <guid>https://www.mainframe.io/blog/2013/lumi-build-night/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2013/lumi-build-night/">&lt;p&gt;Dazu wurde uns von &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.instructables.com&#x2F;&quot;&gt;instructables.com&lt;&#x2F;a&gt; eine Zusammenstellung von Lumi-Produkten zur
 Verfügung gestellt.&lt;&#x2F;p&gt;
 &lt;p&gt;Nach einer kurzen Erklärung, wie die Materialien zu bearbeiten sind, wurde Testweise ein Motiv zur Demonstration
 belichtet. Leider eignet der Tintenstrahldrucker nicht sonderlich dazu Folie zu bedrucken, was zu Querstreifen auf dem
@@ -1152,9 +1152,9 @@ Fotos enthalten immer noch überschüssige Farbe, die herausgewaschen wird!&lt;&
           <title>Freifeld 2013</title>
           <pubDate>Thu, 22 Aug 2013 23:53:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2013/freifeld2013/</link>
-          <guid>https://mainframe.io/blog/2013/freifeld2013/</guid>
-          <description xml:base="https://mainframe.io/blog/2013/freifeld2013/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;freifeld2013&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2013/freifeld2013/</link>
+          <guid>https://www.mainframe.io/blog/2013/freifeld2013/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2013/freifeld2013/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;freifeld2013&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Vom 23. bis zum 25. August findet auf dem Gelände der Donnerschweer Kaserne das &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.freifeld-festival.de&#x2F;&quot;&gt;Freifeld-Festival&lt;&#x2F;a&gt; statt. Das ist ein Kulturfestival, auf dem es Ausstellungen, Musik auf Bühnen und in Clubs, Workshops, Vorträgen und noch mehr gibt. Natürlich kann dort auch gezeltet werden.&lt;&#x2F;p&gt;
 &lt;p&gt;Am Freitag und Samstag ist der Mainframe dort vertreten und präsentiert sich. Außerdem werden wir einen Workshop zum Bau eines Salatbaums anbieten.&lt;&#x2F;p&gt;
 &lt;p&gt;Dabei handelt es sich um eine platzsparende Möglichkeit, Salat und andere Pflanzen in der vertikalen anzupflanzen, damit diese auch Platz auf der Terrasse oder dem Balkon finden. Die Workshops finden Freitag von 15 bis 17 Uhr und Samstag von 11 bis 13 Uhr und 15-17 Uhr statt. Wer teilnehmen möchte, sollte sich bitte im &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;pad.kreativitaet-trifft-technik.de&#x2F;p&#x2F;freifeld_anmeldungen&quot;&gt;Pad eintragen&lt;&#x2F;a&gt;, damit wir abschätzen können wie viel Material gebraucht wird. Was genau der Workshop kosten wird, steht leider noch nicht fest. Wir werden es aber hier bekannt geben.&lt;&#x2F;p&gt;
@@ -1166,9 +1166,9 @@ Fotos enthalten immer noch überschüssige Farbe, die herausgewaschen wird!&lt;&
           <title>Ferienpass 2013 - Klackerlaken</title>
           <pubDate>Sun, 21 Jul 2013 21:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2013/ferienpass-2013-2/</link>
-          <guid>https://mainframe.io/blog/2013/ferienpass-2013-2/</guid>
-          <description xml:base="https://mainframe.io/blog/2013/ferienpass-2013-2/">&lt;p&gt;Klackerlaken sind kleine elektronische Plagegeister, die einfach gebaut und dekoriert werden können und sich dann durch
+          <link>https://www.mainframe.io/blog/2013/ferienpass-2013-2/</link>
+          <guid>https://www.mainframe.io/blog/2013/ferienpass-2013-2/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2013/ferienpass-2013-2/">&lt;p&gt;Klackerlaken sind kleine elektronische Plagegeister, die einfach gebaut und dekoriert werden können und sich dann durch
 Summen oder Scheppern fortbewegen. Die selbstgebastelten Gesellen lassen wir dann im Klackerlakenrennen gegeneinander
 antreten.&lt;&#x2F;p&gt;
 &lt;p&gt;14:00 - 17:00 Uhr ab 16:00 Uhr dürfen die Eltern gerne dem Klackerlakenrennen zuschauen.&lt;&#x2F;p&gt;
@@ -1179,9 +1179,9 @@ antreten.&lt;&#x2F;p&gt;
           <title>Sugru Build Night</title>
           <pubDate>Sat, 20 Jul 2013 23:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2013/sugru-build-night/</link>
-          <guid>https://mainframe.io/blog/2013/sugru-build-night/</guid>
-          <description xml:base="https://mainframe.io/blog/2013/sugru-build-night/">&lt;p&gt;In der Buildnight kommen wir zusammen und arbeiten an kleinen Projekten, die man möglichst an einem Nachmittag &#x2F; einer
+          <link>https://www.mainframe.io/blog/2013/sugru-build-night/</link>
+          <guid>https://www.mainframe.io/blog/2013/sugru-build-night/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2013/sugru-build-night/">&lt;p&gt;In der Buildnight kommen wir zusammen und arbeiten an kleinen Projekten, die man möglichst an einem Nachmittag &#x2F; einer
 Nacht umsetzen kann. Dieses Mal werden wir Probepackungen von Sugru haben, einem Silikongummi, mit dem sich viele coole
 Dinge machen lassen.
 Auf &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?feature=player_embedded&amp;amp;v=Jortcsccg_c&quot;&gt;Youtube gibt es ein paar Beispiele zu Sugru&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
@@ -1211,9 +1211,9 @@ Pad: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot
           <title>Ferienpass 2013 - Binär Uhr</title>
           <pubDate>Sun, 14 Jul 2013 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2013/ferienpass-2013-1/</link>
-          <guid>https://mainframe.io/blog/2013/ferienpass-2013-1/</guid>
-          <description xml:base="https://mainframe.io/blog/2013/ferienpass-2013-1/">&lt;p&gt;Hier soll eine Wanduhr gebaut und gelötet werden. Aber keine normale! Die Uhrzeit wird mit LEDs als Binärzahl angezeigt.
+          <link>https://www.mainframe.io/blog/2013/ferienpass-2013-1/</link>
+          <guid>https://www.mainframe.io/blog/2013/ferienpass-2013-1/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2013/ferienpass-2013-1/">&lt;p&gt;Hier soll eine Wanduhr gebaut und gelötet werden. Aber keine normale! Die Uhrzeit wird mit LEDs als Binärzahl angezeigt.
 Vorab wird erklärt, was Binärzahlen sind und wie man mit dem Lötkolben umgeht, Vorkenntnisse sind also nicht
 erforderlich.&lt;&#x2F;p&gt;
 &lt;p&gt;Zweitägiger Kurs jeweils 13:00-18:00 Uhr am 13. und 14. Juli. 8 Teilnehmerinnen und Teilnehmer, 14 - 16 Jahre&lt;&#x2F;p&gt;
@@ -1223,9 +1223,9 @@ erforderlich.&lt;&#x2F;p&gt;
           <title>freiGang 2013</title>
           <pubDate>Fri, 12 Jul 2013 23:53:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2013/freigang2013/</link>
-          <guid>https://mainframe.io/blog/2013/freigang2013/</guid>
-          <description xml:base="https://mainframe.io/blog/2013/freigang2013/">&lt;p&gt;Wir als Verein waren auf dem &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;freigang.oldenburg&quot;&gt;freiGang&lt;&#x2F;a&gt; vertreten. Der fand vom 3. Juli bis
+          <link>https://www.mainframe.io/blog/2013/freigang2013/</link>
+          <guid>https://www.mainframe.io/blog/2013/freigang2013/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2013/freigang2013/">&lt;p&gt;Wir als Verein waren auf dem &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;freigang.oldenburg&quot;&gt;freiGang&lt;&#x2F;a&gt; vertreten. Der fand vom 3. Juli bis
 6. Juli 2013 im Rahmen des &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.kultursommer-oldenburg.de&#x2F;&quot;&gt;Oldenburger Kultursommers&lt;&#x2F;a&gt; statt. Wir haben täglich
 zwei Workshops angeboten, u.a. das Löten eines LED-Cubes, und haben am Stand jeden Tag von 16.00 Uhr bis zum Ende den
 Verein, das Fablab und den Hackspace präsentiert.&lt;&#x2F;p&gt;
@@ -1240,9 +1240,9 @@ Verein, das Fablab und den Hackspace präsentiert.&lt;&#x2F;p&gt;
           <title>Fab4Teachers</title>
           <pubDate>Mon, 24 Jun 2013 02:09:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2013/fab4teachers/</link>
-          <guid>https://mainframe.io/blog/2013/fab4teachers/</guid>
-          <description xml:base="https://mainframe.io/blog/2013/fab4teachers/">&lt;p&gt;Mithilfe von Geldern aus dem Programm „Zukunft und Innovation Niedersachsen“ dem niedersächsischen Ministerium für
+          <link>https://www.mainframe.io/blog/2013/fab4teachers/</link>
+          <guid>https://www.mainframe.io/blog/2013/fab4teachers/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2013/fab4teachers/">&lt;p&gt;Mithilfe von Geldern aus dem Programm „Zukunft und Innovation Niedersachsen“ dem niedersächsischen Ministerium für
 Wirtschaft, Arbeit und Verkehr bieten wir vorbehaltlich der endgültigen Bewilligung der Fördermittel in der Zeit vom29.
 bis 31. Juli und in der Zeit vom 17. bis 18. Oktober in unseren Vereinsräumen, dem FabLab Oldenburg „Fab-O-Lab“, eine
 Fortbildung für Lehrer aus Niedersachsen an.&lt;&#x2F;p&gt;
@@ -1267,9 +1267,9 @@ bestätigt. Dann kann es auch endlich mit dem eigentlichen Workshop losgehen ;)&
           <title>Hackathon</title>
           <pubDate>Sun, 24 Feb 2013 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2013/hackathon/</link>
-          <guid>https://mainframe.io/blog/2013/hackathon/</guid>
-          <description xml:base="https://mainframe.io/blog/2013/hackathon/">&lt;h1 id=&quot;was-ist-ein-hackathon&quot;&gt;Was ist ein Hackathon?&lt;&#x2F;h1&gt;
+          <link>https://www.mainframe.io/blog/2013/hackathon/</link>
+          <guid>https://www.mainframe.io/blog/2013/hackathon/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2013/hackathon/">&lt;h1 id=&quot;was-ist-ein-hackathon&quot;&gt;Was ist ein Hackathon?&lt;&#x2F;h1&gt;
 &lt;p&gt;A hackathon (also known as a hack day, hackfest or codefest) is an event in
 which computer programmers and others in the field of software development […]
 collaborate intensively on software projects. Occasionally, there is a hardware
@@ -1340,9 +1340,9 @@ haben.&lt;&#x2F;p&gt;
           <title>Workshop zum 3D-Drucker und Scannerbau in Bremen</title>
           <pubDate>Wed, 28 Nov 2012 20:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/workshopbremen/</link>
-          <guid>https://mainframe.io/blog/2012/workshopbremen/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/workshopbremen/">&lt;p&gt;Am Dienstag, den 27. November, und am Mittwoch, den 28. November, trafen sich jeweils 6 Einwohner der Städte Groningen,
+          <link>https://www.mainframe.io/blog/2012/workshopbremen/</link>
+          <guid>https://www.mainframe.io/blog/2012/workshopbremen/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/workshopbremen/">&lt;p&gt;Am Dienstag, den 27. November, und am Mittwoch, den 28. November, trafen sich jeweils 6 Einwohner der Städte Groningen,
 Oldenburg und Bremen im &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;brennerei-lab.de&#x2F;&quot;&gt;next generation lab&lt;&#x2F;a&gt; in der alten Brennerei in Bremen, um fünf
 3D-Drucker und fünf 3D-Scanner zusammenzubauen.&lt;&#x2F;p&gt;
 &lt;p&gt;Die Idee für den Workshop wurde auf dem letzten Treffen zur Metropolregion Groningen-Oldenburg-Bremen geboren und mit
@@ -1378,9 +1378,9 @@ zugeschickt haben!), war es die Mühe wert.&lt;&#x2F;p&gt;
           <title>Makertreffen Hamburg</title>
           <pubDate>Sat, 20 Oct 2012 20:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/makertreffen-hamburg/</link>
-          <guid>https://mainframe.io/blog/2012/makertreffen-hamburg/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/makertreffen-hamburg/">&lt;p&gt;Wir sind mit einer kleinen Delegation zum &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20130601204414&#x2F;http:&#x2F;&#x2F;hamburger-makertreffen.de&#x2F;&quot;&gt;Hamburger Makertreffen&lt;&#x2F;a&gt;
+          <link>https://www.mainframe.io/blog/2012/makertreffen-hamburg/</link>
+          <guid>https://www.mainframe.io/blog/2012/makertreffen-hamburg/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/makertreffen-hamburg/">&lt;p&gt;Wir sind mit einer kleinen Delegation zum &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20130601204414&#x2F;http:&#x2F;&#x2F;hamburger-makertreffen.de&#x2F;&quot;&gt;Hamburger Makertreffen&lt;&#x2F;a&gt;
 im &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;blog.attraktor.org&#x2F;&quot;&gt;Attraktor&lt;&#x2F;a&gt; gefahren. Da von den Fahrenden keiner momentan an sehenswerten Projekten
 arbeitet, sind wir nicht als Aussteller, sondern als Gäste dorthin gefahren.&lt;&#x2F;p&gt;
 &lt;p&gt;Pünktlich um 11:00 angekommen, wurden wir direkt mit Gäste-Ausweisen aus dem 3D-Drucker empfangen, und konnten uns
@@ -1400,9 +1400,9 @@ Gesprächspartnern und einem besuchenswerten Makerspace :-)&lt;&#x2F;p&gt;
           <title>Werkmarkt Bremen</title>
           <pubDate>Sun, 14 Oct 2012 18:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/werkmarktbremen/</link>
-          <guid>https://mainframe.io/blog/2012/werkmarktbremen/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/werkmarktbremen/">&lt;p&gt;Am 14. Oktober fand zwischen 11 und 17 Uhr der bereits 16. Werkmarkt an derWaldorfschule in Bremen statt. Unser Verein
+          <link>https://www.mainframe.io/blog/2012/werkmarktbremen/</link>
+          <guid>https://www.mainframe.io/blog/2012/werkmarktbremen/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/werkmarktbremen/">&lt;p&gt;Am 14. Oktober fand zwischen 11 und 17 Uhr der bereits 16. Werkmarkt an derWaldorfschule in Bremen statt. Unser Verein
 war als einer der Aussteller eingeladen. Von Handwerk über Kunst und Technik war den Gästen viel geboten.&lt;&#x2F;p&gt;
 &lt;p&gt;Wir konnten zum reichhaltigen Angebot beitragen, indem wir den Schülern derWaldorfschule Bremen und ihren Eltern unsere
 Exponate zeigten und erklärten.&lt;&#x2F;p&gt;
@@ -1424,9 +1424,9 @@ Nickel und einem unserer Mitglieder an einem kommenden Wochenende stattfinden so
           <title>Fachtreffen Groningen-Oldenburg-Bremen</title>
           <pubDate>Sat, 13 Oct 2012 10:53:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/fachtreffen2012/</link>
-          <guid>https://mainframe.io/blog/2012/fachtreffen2012/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/fachtreffen2012/">&lt;p&gt;Kreativität trifft Technik (KtT) und das Bildungszentrum für Technik und Gestaltung (BZTG) sind ins Bremer Rathaus
+          <link>https://www.mainframe.io/blog/2012/fachtreffen2012/</link>
+          <guid>https://www.mainframe.io/blog/2012/fachtreffen2012/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/fachtreffen2012/">&lt;p&gt;Kreativität trifft Technik (KtT) und das Bildungszentrum für Technik und Gestaltung (BZTG) sind ins Bremer Rathaus
 eingeladen worden, um dort gemeinsame Projekte der Städte Groningen, Oldenburg und Bremen zu den Themenbereichen
 Kreativität, Technik und Wissenschaft zu entwickeln.&lt;&#x2F;p&gt;
 &lt;p&gt;Diese Treffen finden jedes Jahr wechselnd in den Städten Groningen, Oldenburg
@@ -1455,9 +1455,9 @@ umgesetzt werden.&lt;&#x2F;p&gt;
           <title>PhotonikCamp</title>
           <pubDate>Sat, 15 Sep 2012 20:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/photonikcamp/</link>
-          <guid>https://mainframe.io/blog/2012/photonikcamp/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/photonikcamp/">&lt;p&gt;Auf dem diesjährigen &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;hci.rwth-aachen.de&#x2F;PhotonikCamp&quot;&gt;PhotonikCamp&lt;&#x2F;a&gt; (14.+15.9.2012), zu dem
+          <link>https://www.mainframe.io/blog/2012/photonikcamp/</link>
+          <guid>https://www.mainframe.io/blog/2012/photonikcamp/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/photonikcamp/">&lt;p&gt;Auf dem diesjährigen &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;hci.rwth-aachen.de&#x2F;PhotonikCamp&quot;&gt;PhotonikCamp&lt;&#x2F;a&gt; (14.+15.9.2012), zu dem
 die &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;hci.rwth-aachen.de&quot;&gt;Rheinisch westfälische technische Hochschule(RWTH) in Aachen&lt;&#x2F;a&gt; eingeladen hatte, war auch
 Kreativität trifft Technik vertreten.&lt;&#x2F;p&gt;
 &lt;p&gt;Das PhotonicCamp war eine weitere gute Gelegenheit für die Akteure der FabLab und Hackspace Szene in Deutschland, ihre
@@ -1503,9 +1503,9 @@ dieser Art, bei dem sich diese junge Szene erneut treffen kann.&lt;&#x2F;p&gt;
           <title>Ferienpass 2012 - Klackerlaken-Bauen II</title>
           <pubDate>Sun, 26 Aug 2012 19:30:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/ferienpass-2012-3/</link>
-          <guid>https://mainframe.io/blog/2012/ferienpass-2012-3/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/ferienpass-2012-3/">&lt;p&gt;Alle haben ihre Klackerlaken fertig bekommen und sich bei den Rennen und anderen Wettbewerben bewährt.&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2012/ferienpass-2012-3/</link>
+          <guid>https://www.mainframe.io/blog/2012/ferienpass-2012-3/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/ferienpass-2012-3/">&lt;p&gt;Alle haben ihre Klackerlaken fertig bekommen und sich bei den Rennen und anderen Wettbewerben bewährt.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;ferienpass-2012-3&#x2F;0000.jpg&quot; alt=&quot;Danke Firma Endrich&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Vielen Dank nochmal an die Firma &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.endrich.com&#x2F;de&#x2F;&quot;&gt;Endrich&lt;&#x2F;a&gt;,
 die uns freundlicherweise die Motoren für die Ferienpass-Aktionen und die Beteiligung
@@ -1523,9 +1523,9 @@ unter einer freien CC-Lizenz der Allgemeinheit zur Verfügung gestellt hat!&lt;&
           <title>Ferienpass 2012 - LED-Cubes</title>
           <pubDate>Fri, 17 Aug 2012 20:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/ferienpass-2012-2/</link>
-          <guid>https://mainframe.io/blog/2012/ferienpass-2012-2/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/ferienpass-2012-2/">&lt;p&gt;Trotz filigraner Würfel-Konstruktion und anspruchsvoller Platinen ohne Stopplack konnten sechs Teilnehmer glücklich mit
+          <link>https://www.mainframe.io/blog/2012/ferienpass-2012-2/</link>
+          <guid>https://www.mainframe.io/blog/2012/ferienpass-2012-2/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/ferienpass-2012-2/">&lt;p&gt;Trotz filigraner Würfel-Konstruktion und anspruchsvoller Platinen ohne Stopplack konnten sechs Teilnehmer glücklich mit
 ihren fertigen Cubes heim gehen und die anderen mussten nur aus Zeitgründen unterbrechen – nach den Ferien stellen
 sicher auch die beiden ihre Werke fertig!&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;ferienpass-2012-2&#x2F;0000.jpg&quot; alt=&quot;Gruppenfoto&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -1567,9 +1567,9 @@ reinschaut und eigene Ideen mit oder ohne LEDs und in Würfelform oder nicht ums
           <title>Ferienpass 2012 - Klackerlaken-Bauen I</title>
           <pubDate>Sat, 28 Jul 2012 21:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/ferienpass-2012-1/</link>
-          <guid>https://mainframe.io/blog/2012/ferienpass-2012-1/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/ferienpass-2012-1/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;ferienpass-2012-1&#x2F;0000.jpg&quot; alt=&quot;Klackerlaken-Schlachtfeld ;)&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2012/ferienpass-2012-1/</link>
+          <guid>https://www.mainframe.io/blog/2012/ferienpass-2012-1/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/ferienpass-2012-1/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;ferienpass-2012-1&#x2F;0000.jpg&quot; alt=&quot;Klackerlaken-Schlachtfeld ;)&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Nach einer Menge Spaß beim Herumprobieren und Dekorieren gab es noch kleine Wettbewerbe: Wer fährt schneller durch die
 selbstgebaute Rennstrecke, wer dreht schneller oder besonders laut oder leise. Außerdem wurden Räume und Maschinen
 besichtigt, Fahrstuhl gefahren und Verstecken gespielt ;)&lt;&#x2F;p&gt;
@@ -1586,9 +1586,9 @@ zur Verfügung gestellt hat!&lt;&#x2F;p&gt;
           <title>Umzug 2.0 Update</title>
           <pubDate>Fri, 13 Jul 2012 11:15:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/umzug2-2/</link>
-          <guid>https://mainframe.io/blog/2012/umzug2-2/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/umzug2-2/">&lt;p&gt;Langsam nähern sich alle Räume und die Infrastruktur dem gewünschten Zustand,
+          <link>https://www.mainframe.io/blog/2012/umzug2-2/</link>
+          <guid>https://www.mainframe.io/blog/2012/umzug2-2/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/umzug2-2/">&lt;p&gt;Langsam nähern sich alle Räume und die Infrastruktur dem gewünschten Zustand,
 die Umzugsstrapazen sind vergessen und wir leben uns in unserem tollen neuen
 Zuhause ein. Umfangreiche Arbeiten stehen nur noch in der Werkstatt an, in
 allen anderen Räumen fehlen nur noch Kleinigkeiten.&lt;&#x2F;p&gt;
@@ -1630,9 +1630,9 @@ vorbei und entscheidet selbst ;)&lt;&#x2F;p&gt;
           <title>Umzug 2.0</title>
           <pubDate>Tue, 26 Jun 2012 12:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/umzug2/</link>
-          <guid>https://mainframe.io/blog/2012/umzug2/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/umzug2/">&lt;p&gt;Am vergangenen Wochenende ist der Oldenburger Hackspace umgezogen. Von seiner ursprünglichen Heimat, dem „Beta-Space“ im
+          <link>https://www.mainframe.io/blog/2012/umzug2/</link>
+          <guid>https://www.mainframe.io/blog/2012/umzug2/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/umzug2/">&lt;p&gt;Am vergangenen Wochenende ist der Oldenburger Hackspace umgezogen. Von seiner ursprünglichen Heimat, dem „Beta-Space“ im
 quARTier, ging es gute 700 m weiter Richtung Nordwesten, in die Raiffeisenstraße 27. Im ehemaligen Stadtsteueramt – dem
 geografisch nahezu zentralsten Punkt Oldenburgs – haben wir Teile des Erdgeschosses bezogen. Damit stehen der
 Kreativität trifft Technik e.V. nun deutlich modernere und größere Räume zur Verfügung.&lt;&#x2F;p&gt;
@@ -1690,9 +1690,9 @@ gemeinsame Zeit.&lt;&#x2F;p&gt;
           <title>SIGINT 12</title>
           <pubDate>Fri, 25 May 2012 12:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/sigint12/</link>
-          <guid>https://mainframe.io/blog/2012/sigint12/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/sigint12/">&lt;p&gt;Am 19. und 20. Mai 2012 fand in Köln im Rahmen die &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20130208043403&#x2F;sigint.ccc.de&quot;&gt;SIGINT&lt;&#x2F;a&gt;
+          <link>https://www.mainframe.io/blog/2012/sigint12/</link>
+          <guid>https://www.mainframe.io/blog/2012/sigint12/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/sigint12/">&lt;p&gt;Am 19. und 20. Mai 2012 fand in Köln im Rahmen die &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20130208043403&#x2F;sigint.ccc.de&quot;&gt;SIGINT&lt;&#x2F;a&gt;
 2012 des CCC statt. Weil eins unserer
 Mitglieder eine Karte gewonnen hatte und mit @tante ein weiteres dort auch Vorträge
 gehalten hat, wurde kurzerhand entschlossen, eine KtT-Abordnung nach Köln zu schicken.&lt;&#x2F;p&gt;
@@ -1724,9 +1724,9 @@ wir bis dahin alles präsentieren können.&lt;&#x2F;p&gt;
           <title>Der arabische Frühling… und was bei uns angekommen ist</title>
           <pubDate>Wed, 29 Feb 2012 19:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2012/usd2/</link>
-          <guid>https://mainframe.io/blog/2012/usd2/</guid>
-          <description xml:base="https://mainframe.io/blog/2012/usd2/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;USD2&#x2F;urbach.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2012/usd2/</link>
+          <guid>https://www.mainframe.io/blog/2012/usd2/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2012/usd2/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2012&#x2F;USD2&#x2F;urbach.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Den zweiten Vortrag bestreitet für uns der Telecomix Aktivist Stephan Urbach.&lt;&#x2F;p&gt;
 &lt;p&gt;Stephan Urbach, geboren 1980 in Lauterbach, geschieden, lebt und arbeitet in Berlin. Nach einem abgebrochenen
 Lehramtsstudium und einer erfolgreichen Bankkaufmannslehre arbeitete Urbach bei AOL. Seit 2011 tut er das nicht mehr,
@@ -1755,9 +1755,9 @@ Mittwoch den 29. Februar, 2012 - 19:00 bis 22:00&lt;&#x2F;p&gt;
           <title>Wenn der Staat das Internet hackt...</title>
           <pubDate>Mon, 21 Nov 2011 20:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2011/usd1/</link>
-          <guid>https://mainframe.io/blog/2011/usd1/</guid>
-          <description xml:base="https://mainframe.io/blog/2011/usd1/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;USD1&#x2F;freude.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2011/usd1/</link>
+          <guid>https://www.mainframe.io/blog/2011/usd1/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2011/usd1/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;USD1&#x2F;freude.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Für die Auftaktveranstaltung konnten wir Herrn Alvar C.H. Freude gewinnen. Alvar Freude engagiert sich seit rund 15
 Jahren für ein freies und offenes Internet und ist einer der Gründer des Arbeitskreises gegen Internet-Sperren und
 Zensur (AK Zensur), der erfolgreich gegen das Zugangserschwerungsgesetz opponiert hat. Seit Mai 2010 ist Alvar Freude
@@ -1782,9 +1782,9 @@ Montag, 21 November, 2011 - 20:00 bis 22:00&lt;&#x2F;p&gt;
           <title>Alpha 3</title>
           <pubDate>Thu, 13 Oct 2011 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2011/alpha3/</link>
-          <guid>https://mainframe.io/blog/2011/alpha3/</guid>
-          <description xml:base="https://mainframe.io/blog/2011/alpha3/">&lt;p&gt;Die Pinte42 war genau der richtige Ort für unsere dritte Alpha. Die Vorträge
+          <link>https://www.mainframe.io/blog/2011/alpha3/</link>
+          <guid>https://www.mainframe.io/blog/2011/alpha3/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2011/alpha3/">&lt;p&gt;Die Pinte42 war genau der richtige Ort für unsere dritte Alpha. Die Vorträge
 konnten in Ruhe in einem separaten Raum gehalten werden und die Nähe zu den
 Studenten hat noch den einen oder anderen Zufallsgast gebracht ;)&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;alpha3&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -1845,9 +1845,9 @@ viele neue Freunde gewonnen. Die Alpha war ein voller Erfolg!&lt;&#x2F;p&gt;
           <title>Alpha 2</title>
           <pubDate>Tue, 20 Sep 2011 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2011/alpha2/</link>
-          <guid>https://mainframe.io/blog/2011/alpha2/</guid>
-          <description xml:base="https://mainframe.io/blog/2011/alpha2/">&lt;p&gt;Die freundlicherweise von der Kulturetage zur Verfügung gestellte Location war
+          <link>https://www.mainframe.io/blog/2011/alpha2/</link>
+          <guid>https://www.mainframe.io/blog/2011/alpha2/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2011/alpha2/">&lt;p&gt;Die freundlicherweise von der Kulturetage zur Verfügung gestellte Location war
 genau richtig für uns - Dank Unterstützung unserer Pressearbeit durch die
 Wirtschaftsförderung und das Presseamt fanden letzte Woche richtig viele neue
 Gesichter den Weg zu uns und machten unsere zweite bzw. erste öffentliche Alpha
@@ -1894,9 +1894,9 @@ melden!&lt;&#x2F;p&gt;
           <title>Erstes Treffen</title>
           <pubDate>Tue, 14 Jun 2011 19:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2011/init/</link>
-          <guid>https://mainframe.io/blog/2011/init/</guid>
-          <description xml:base="https://mainframe.io/blog/2011/init/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;init&#x2F;marvins_entrance.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://www.mainframe.io/blog/2011/init/</link>
+          <guid>https://www.mainframe.io/blog/2011/init/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2011/init/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;init&#x2F;marvins_entrance.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Vielen Dank an alle, die beim ersten Treffen am 14.06. im &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.marvins.de&#x2F;&quot;&gt;Marvin’s&lt;&#x2F;a&gt; dabei waren - das war ein
 richtig gutes erstes Treffen! Wer nicht dabei war, darf sich mit Recht auf die zukünftigen Meetings freuen ;)&lt;&#x2F;p&gt;
 &lt;p&gt;Gekommen sind um die 26 Leute - also gleich mal fast doppelt so viele, wie erwartet! An dem langen Tisch wurde die Kommunikation so schon schwierig, aber wir haben es wohl ganz gut hinbekommen.&lt;&#x2F;p&gt;

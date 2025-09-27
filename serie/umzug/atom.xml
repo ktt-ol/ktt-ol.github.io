@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Umzug</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://mainframe.io/serie/umzug/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://mainframe.io/"/>
+    <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/serie/umzug/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.mainframe.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-03-22T23:42:00+00:00</updated>
-    <id>https://mainframe.io/serie/umzug/atom.xml</id>
+    <id>https://www.mainframe.io/serie/umzug/atom.xml</id>
     <entry xml:lang="de">
         <title>Umzug 3.0</title>
         <published>2014-04-23T23:42:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2014/umzug/"/>
-        <id>https://mainframe.io/blog/2014/umzug/</id>
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2014/umzug/"/>
+        <id>https://www.mainframe.io/blog/2014/umzug/</id>
         
-        <content type="html" xml:base="https://mainframe.io/blog/2014/umzug/">&lt;h1 id=&quot;projekt-nerdpower&quot;&gt;Projekt “Nerdpower”&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://www.mainframe.io/blog/2014/umzug/">&lt;h1 id=&quot;projekt-nerdpower&quot;&gt;Projekt “Nerdpower”&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2014&#x2F;umzug&#x2F;nerdpower.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Es geht in die zweite Runde: der Transport von Inventar in den neuen Space.
 Planung: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;pad.kreativitaet-trifft-technik.de&#x2F;p&#x2F;Nerdpower&quot;&gt;http:&#x2F;&#x2F;pad.kreativitaet-trifft-technik.de&#x2F;p&#x2F;Nerdpower&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -47,10 +47,10 @@ Planung: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2012/umzug2-2/"/>
-        <id>https://mainframe.io/blog/2012/umzug2-2/</id>
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2012/umzug2-2/"/>
+        <id>https://www.mainframe.io/blog/2012/umzug2-2/</id>
         
-        <content type="html" xml:base="https://mainframe.io/blog/2012/umzug2-2/">&lt;p&gt;Langsam nähern sich alle Räume und die Infrastruktur dem gewünschten Zustand,
+        <content type="html" xml:base="https://www.mainframe.io/blog/2012/umzug2-2/">&lt;p&gt;Langsam nähern sich alle Räume und die Infrastruktur dem gewünschten Zustand,
 die Umzugsstrapazen sind vergessen und wir leben uns in unserem tollen neuen
 Zuhause ein. Umfangreiche Arbeiten stehen nur noch in der Werkstatt an, in
 allen anderen Räumen fehlen nur noch Kleinigkeiten.&lt;&#x2F;p&gt;
@@ -102,10 +102,10 @@ vorbei und entscheidet selbst ;)&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2012/umzug2/"/>
-        <id>https://mainframe.io/blog/2012/umzug2/</id>
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2012/umzug2/"/>
+        <id>https://www.mainframe.io/blog/2012/umzug2/</id>
         
-        <content type="html" xml:base="https://mainframe.io/blog/2012/umzug2/">&lt;p&gt;Am vergangenen Wochenende ist der Oldenburger Hackspace umgezogen. Von seiner ursprünglichen Heimat, dem „Beta-Space“ im
+        <content type="html" xml:base="https://www.mainframe.io/blog/2012/umzug2/">&lt;p&gt;Am vergangenen Wochenende ist der Oldenburger Hackspace umgezogen. Von seiner ursprünglichen Heimat, dem „Beta-Space“ im
 quARTier, ging es gute 700 m weiter Richtung Nordwesten, in die Raiffeisenstraße 27. Im ehemaligen Stadtsteueramt – dem
 geografisch nahezu zentralsten Punkt Oldenburgs – haben wir Teile des Erdgeschosses bezogen. Damit stehen der
 Kreativität trifft Technik e.V. nun deutlich modernere und größere Räume zur Verfügung.&lt;&#x2F;p&gt;
@@ -173,10 +173,10 @@ gemeinsame Zeit.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2011/2011-03/"/>
-        <id>https://mainframe.io/blog/2011/2011-03/</id>
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2011/2011-03/"/>
+        <id>https://www.mainframe.io/blog/2011/2011-03/</id>
         
-        <content type="html" xml:base="https://mainframe.io/blog/2011/2011-03/">&lt;p&gt;Der Verein Kreativität trifft Technik e.V. eröffnet im Oldenburger Bahnhofs- viertel unter dem Namen „Beta-Space“ einen
+        <content type="html" xml:base="https://www.mainframe.io/blog/2011/2011-03/">&lt;p&gt;Der Verein Kreativität trifft Technik e.V. eröffnet im Oldenburger Bahnhofs- viertel unter dem Namen „Beta-Space“ einen
 Treffpunkt für kreative Bastler und Technikbegeisterte. Damit hat Oldenburg nun als erste Stadt im Nord- westen einen
 „Hackspace“. Die Einweihung findet am 28. November 2011 statt und wird von einem viertägigen Rahmenprogramm begleitet.
 Oldenburg. Am kommenden Montag, den 28. November 2011, um 19:00 Uhr lädt der Verein Kreativität trifft Technik e.V. zur

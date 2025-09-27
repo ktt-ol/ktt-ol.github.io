@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Alpha</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://mainframe.io/serie/alpha/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://mainframe.io/"/>
+    <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/serie/alpha/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.mainframe.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-03-22T23:42:00+00:00</updated>
-    <id>https://mainframe.io/serie/alpha/atom.xml</id>
+    <id>https://www.mainframe.io/serie/alpha/atom.xml</id>
     <entry xml:lang="de">
         <title>Alpha 3</title>
         <published>2011-10-13T23:42:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2011/alpha3/"/>
-        <id>https://mainframe.io/blog/2011/alpha3/</id>
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2011/alpha3/"/>
+        <id>https://www.mainframe.io/blog/2011/alpha3/</id>
         
-        <content type="html" xml:base="https://mainframe.io/blog/2011/alpha3/">&lt;p&gt;Die Pinte42 war genau der richtige Ort für unsere dritte Alpha. Die Vorträge
+        <content type="html" xml:base="https://www.mainframe.io/blog/2011/alpha3/">&lt;p&gt;Die Pinte42 war genau der richtige Ort für unsere dritte Alpha. Die Vorträge
 konnten in Ruhe in einem separaten Raum gehalten werden und die Nähe zu den
 Studenten hat noch den einen oder anderen Zufallsgast gebracht ;)&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;alpha3&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -94,10 +94,10 @@ viele neue Freunde gewonnen. Die Alpha war ein voller Erfolg!&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2011/alpha2/"/>
-        <id>https://mainframe.io/blog/2011/alpha2/</id>
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2011/alpha2/"/>
+        <id>https://www.mainframe.io/blog/2011/alpha2/</id>
         
-        <content type="html" xml:base="https://mainframe.io/blog/2011/alpha2/">&lt;p&gt;Die freundlicherweise von der Kulturetage zur Verfügung gestellte Location war
+        <content type="html" xml:base="https://www.mainframe.io/blog/2011/alpha2/">&lt;p&gt;Die freundlicherweise von der Kulturetage zur Verfügung gestellte Location war
 genau richtig für uns - Dank Unterstützung unserer Pressearbeit durch die
 Wirtschaftsförderung und das Presseamt fanden letzte Woche richtig viele neue
 Gesichter den Weg zu uns und machten unsere zweite bzw. erste öffentliche Alpha
@@ -154,10 +154,10 @@ melden!&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2011/init/"/>
-        <id>https://mainframe.io/blog/2011/init/</id>
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2011/init/"/>
+        <id>https://www.mainframe.io/blog/2011/init/</id>
         
-        <content type="html" xml:base="https://mainframe.io/blog/2011/init/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;init&#x2F;marvins_entrance.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://www.mainframe.io/blog/2011/init/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;init&#x2F;marvins_entrance.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Vielen Dank an alle, die beim ersten Treffen am 14.06. im &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.marvins.de&#x2F;&quot;&gt;Marvin’s&lt;&#x2F;a&gt; dabei waren - das war ein
 richtig gutes erstes Treffen! Wer nicht dabei war, darf sich mit Recht auf die zukünftigen Meetings freuen ;)&lt;&#x2F;p&gt;
 &lt;p&gt;Gekommen sind um die 26 Leute - also gleich mal fast doppelt so viele, wie erwartet! An dem langen Tisch wurde die Kommunikation so schon schwierig, aber wir haben es wohl ganz gut hinbekommen.&lt;&#x2F;p&gt;

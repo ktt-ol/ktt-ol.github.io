@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Freifeld</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://mainframe.io/serie/freifeld/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://mainframe.io/"/>
+    <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/serie/freifeld/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.mainframe.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-03-22T23:42:00+00:00</updated>
-    <id>https://mainframe.io/serie/freifeld/atom.xml</id>
+    <id>https://www.mainframe.io/serie/freifeld/atom.xml</id>
     <entry xml:lang="de">
         <title>Freifeld 2014</title>
         <published>2014-08-31T19:58:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2014/freifeld/"/>
-        <id>https://mainframe.io/blog/2014/freifeld/</id>
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2014/freifeld/"/>
+        <id>https://www.mainframe.io/blog/2014/freifeld/</id>
         
-        <content type="html" xml:base="https://mainframe.io/blog/2014/freifeld/">&lt;p&gt;Auch dieses Jahr waren wir wieder beim &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.freifeld-festival.de&#x2F;&quot;&gt;FREIFELD-FESTIVAL&lt;&#x2F;a&gt; vertreten. Die Idee war,
+        <content type="html" xml:base="https://www.mainframe.io/blog/2014/freifeld/">&lt;p&gt;Auch dieses Jahr waren wir wieder beim &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.freifeld-festival.de&#x2F;&quot;&gt;FREIFELD-FESTIVAL&lt;&#x2F;a&gt; vertreten. Die Idee war,
 einen Lötworkshop anzubieten. Und so löteten die Festivalbesucher an unserem Stand aus einem Bausatz einen
 elektronischen Würfel zusammen. Jeder Teilnehmer brachte ganz unterschiedliche Erfahrungen bezüglich Elektronik und
 Lötkolben mit und erhielt entsprechende Hilfestellungen. Der mit 8 Jahren jüngste Teilnehmer erklärte seiner Mutter wie
@@ -47,10 +47,10 @@ es geht ;-) viele Besucher zeigten großes Interesse am Hackspace und wollen “
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2013/freifeld2013/"/>
-        <id>https://mainframe.io/blog/2013/freifeld2013/</id>
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2013/freifeld2013/"/>
+        <id>https://www.mainframe.io/blog/2013/freifeld2013/</id>
         
-        <content type="html" xml:base="https://mainframe.io/blog/2013/freifeld2013/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;freifeld2013&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://www.mainframe.io/blog/2013/freifeld2013/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;freifeld2013&#x2F;img1.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Vom 23. bis zum 25. August findet auf dem Gelände der Donnerschweer Kaserne das &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.freifeld-festival.de&#x2F;&quot;&gt;Freifeld-Festival&lt;&#x2F;a&gt; statt. Das ist ein Kulturfestival, auf dem es Ausstellungen, Musik auf Bühnen und in Clubs, Workshops, Vorträgen und noch mehr gibt. Natürlich kann dort auch gezeltet werden.&lt;&#x2F;p&gt;
 &lt;p&gt;Am Freitag und Samstag ist der Mainframe dort vertreten und präsentiert sich. Außerdem werden wir einen Workshop zum Bau eines Salatbaums anbieten.&lt;&#x2F;p&gt;
 &lt;p&gt;Dabei handelt es sich um eine platzsparende Möglichkeit, Salat und andere Pflanzen in der vertikalen anzupflanzen, damit diese auch Platz auf der Terrasse oder dem Balkon finden. Die Workshops finden Freitag von 15 bis 17 Uhr und Samstag von 11 bis 13 Uhr und 15-17 Uhr statt. Wer teilnehmen möchte, sollte sich bitte im &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;pad.kreativitaet-trifft-technik.de&#x2F;p&#x2F;freifeld_anmeldungen&quot;&gt;Pad eintragen&lt;&#x2F;a&gt;, damit wir abschätzen können wie viel Material gebraucht wird. Was genau der Workshop kosten wird, steht leider noch nicht fest. Wir werden es aber hier bekannt geben.&lt;&#x2F;p&gt;

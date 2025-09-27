@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Hackathon</title>
-      <link>https://mainframe.io/</link>
+      <link>https://www.mainframe.io/</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://mainframe.io/serie/hackathon/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.mainframe.io/serie/hackathon/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Fri, 22 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>Hackathon OL2030</title>
           <pubDate>Thu, 15 Jul 2021 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2021/hackathon-ol2030/</link>
-          <guid>https://mainframe.io/blog/2021/hackathon-ol2030/</guid>
-          <description xml:base="https://mainframe.io/blog/2021/hackathon-ol2030/">&lt;p&gt;Wir machen zusammen mit der Stadt Oldenburg den zweiten Hackathon aus demProjekt Civic Data Lab. Unter dem Motto “Wie
+          <link>https://www.mainframe.io/blog/2021/hackathon-ol2030/</link>
+          <guid>https://www.mainframe.io/blog/2021/hackathon-ol2030/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2021/hackathon-ol2030/">&lt;p&gt;Wir machen zusammen mit der Stadt Oldenburg den zweiten Hackathon aus demProjekt Civic Data Lab. Unter dem Motto “Wie
 wollen wir 2030 zusammenleben?” sollen zunächst beim Vorbereitungstreffen am 31. Juli 2021 Themen gefunden werden,
 anschließend gibt es im Laufe des August Online-Workshops zu den technischen Möglichkeiten im Hackspace und vom 3. bis 5.
 September darf ein Wochenende lang intensiv an Projekten gearbeitet werden, die sich mit dem Leben 2030 auseinandersetzen.&lt;&#x2F;p&gt;
@@ -31,9 +31,9 @@ einfach bei einem Besuch im Hackspace direkt Patrick, muzy oder Lars (larsh404) 
           <title>Hackathon</title>
           <pubDate>Sun, 24 Feb 2013 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2013/hackathon/</link>
-          <guid>https://mainframe.io/blog/2013/hackathon/</guid>
-          <description xml:base="https://mainframe.io/blog/2013/hackathon/">&lt;h1 id=&quot;was-ist-ein-hackathon&quot;&gt;Was ist ein Hackathon?&lt;&#x2F;h1&gt;
+          <link>https://www.mainframe.io/blog/2013/hackathon/</link>
+          <guid>https://www.mainframe.io/blog/2013/hackathon/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2013/hackathon/">&lt;h1 id=&quot;was-ist-ein-hackathon&quot;&gt;Was ist ein Hackathon?&lt;&#x2F;h1&gt;
 &lt;p&gt;A hackathon (also known as a hack day, hackfest or codefest) is an event in
 which computer programmers and others in the field of software development […]
 collaborate intensively on software projects. Occasionally, there is a hardware

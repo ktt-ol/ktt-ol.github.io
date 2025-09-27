@@ -2,21 +2,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Praxisforum Digitalisierung</title>
-      <link>https://mainframe.io/</link>
+      <link>https://www.mainframe.io/</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="https://mainframe.io/serie/praxisforum-digitalisierung/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.mainframe.io/serie/praxisforum-digitalisierung/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Fri, 22 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>Praxisforum Digitalisierung</title>
           <pubDate>Wed, 10 May 2023 23:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>https://mainframe.io/blog/2023/praxisforum-digitalisierung/</link>
-          <guid>https://mainframe.io/blog/2023/praxisforum-digitalisierung/</guid>
-          <description xml:base="https://mainframe.io/blog/2023/praxisforum-digitalisierung/">&lt;p&gt;Zugegeben, eine Veranstaltung mit 180+ Anmeldungen durchzuführen, das kommt auch bei uns nicht alltäglich vor. Zwar
-richten wir häufiger Veranstaltungen wie z.B. das &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;calendar&#x2F;&quot;&gt;CoderDojo&lt;&#x2F;a&gt; oder
-die &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2023&#x2F;lan-party-2023-04-review&#x2F;&quot;&gt;Ersti LAN Party&lt;&#x2F;a&gt; aus, aber diese bewegen sich i.d.R. bei unter
+          <link>https://www.mainframe.io/blog/2023/praxisforum-digitalisierung/</link>
+          <guid>https://www.mainframe.io/blog/2023/praxisforum-digitalisierung/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2023/praxisforum-digitalisierung/">&lt;p&gt;Zugegeben, eine Veranstaltung mit 180+ Anmeldungen durchzuführen, das kommt auch bei uns nicht alltäglich vor. Zwar
+richten wir häufiger Veranstaltungen wie z.B. das &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;calendar&#x2F;&quot;&gt;CoderDojo&lt;&#x2F;a&gt; oder
+die &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2023&#x2F;lan-party-2023-04-review&#x2F;&quot;&gt;Ersti LAN Party&lt;&#x2F;a&gt; aus, aber diese bewegen sich i.d.R. bei unter
 50 Personen. Die 3-4 fache Menge war auch für uns eine besondere Herausforderung und bedarf einer gewissen Vorbereitung
 sowie ordentlicher Planung.&lt;&#x2F;p&gt;
 &lt;p&gt;Wir möchten euch in diesem Blogpost etwas über unsere Ideen, Anstrengungen und Erfahrungen berichten. Fokussiert auf den
@@ -28,7 +28,7 @@ technischen Part der Infrastruktur.&lt;&#x2F;p&gt;
 &lt;li&gt;Ausreichende Kapazität im WAN, LAN, und WLAN.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;Aufmerksame Leser des Blogs werden den letzten Beitrag über
-die &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2023&#x2F;lan-party-2023-04-review&#x2F;&quot;&gt;Ersti LAN Party&lt;&#x2F;a&gt; gelesen haben. Das dort beschriebene Problem
+die &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;blog&#x2F;2023&#x2F;lan-party-2023-04-review&#x2F;&quot;&gt;Ersti LAN Party&lt;&#x2F;a&gt; gelesen haben. Das dort beschriebene Problem
 mit unserem ISP bzw. dessen Modem konnte in der Zwischenzeit erfolgreich behoben werden, womit wir auf eine stabile
 Internetverbindung für das Praxisforum Digitalisierung zugreifen konnten.&lt;&#x2F;p&gt;
 &lt;p&gt;Das übergeordnete Netzdesign auf der physischen Schicht sieht dabei wie folgt aus.&lt;&#x2F;p&gt;
@@ -60,7 +60,7 @@ Point in der Lounge.&lt;&#x2F;p&gt;
 &lt;p&gt;Als Fazit lässt sich sagen, die Vorbereitungen haben sich ausgezahlt. Die Infrastruktur blieb stabil und hat trotz der
 hohen Menge an Clients auf engem Raum gut funktioniert.&lt;&#x2F;p&gt;
 &lt;p&gt;Wenn Ihr mehr davon wissen wollt, kommt gerne einfach vorbei - wir haben i.d.R von 19:00 - 24:00 geöffnet - oder meldet
-euch auf unserer Mailingliste an. Informationen dazu findet ihr jeweils unter: &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;contact&#x2F;&quot;&gt;Kontakt&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+euch auf unserer Mailingliste an. Informationen dazu findet ihr jeweils unter: &lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;contact&#x2F;&quot;&gt;Kontakt&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
       </item>
     </channel>

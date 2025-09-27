@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Eingeloggt!</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://mainframe.io/serie/eingeloggt/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://mainframe.io/"/>
+    <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/serie/eingeloggt/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.mainframe.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-03-22T19:42:00+00:00</updated>
-    <id>https://mainframe.io/serie/eingeloggt/atom.xml</id>
+    <id>https://www.mainframe.io/serie/eingeloggt/atom.xml</id>
     <entry xml:lang="de">
         <title>Eingeloggt! Oldenburg</title>
         <published>2025-03-22T19:42:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2025/eingeloggt/"/>
-        <id>https://mainframe.io/blog/2025/eingeloggt/</id>
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2025/eingeloggt/"/>
+        <id>https://www.mainframe.io/blog/2025/eingeloggt/</id>
         
-        <content type="html" xml:base="https://mainframe.io/blog/2025/eingeloggt/">&lt;p&gt;In Oldenburg findet bereits zum dritten Mal die Eingeloggt!-Woche statt. Vom 23.03. bis 30.03.2025 laden wieder
+        <content type="html" xml:base="https://www.mainframe.io/blog/2025/eingeloggt/">&lt;p&gt;In Oldenburg findet bereits zum dritten Mal die Eingeloggt!-Woche statt. Vom 23.03. bis 30.03.2025 laden wieder
 zahlreiche
 Organisationen in Oldenburg generationenübergreifend zu Workshops, Besichtigungen und Vorträgen rund um das Thema
 Digitalisierung ein.
