@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Build Night</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="'https://mainframe.io/'/serie/build-night/atom.xml"/>
-    <link rel="alternate" type="text/html" href="&apos;https://mainframe.io/&apos;"/>
+    <link rel="self" type="application/atom+xml" href="https://mainframe.io/serie/build-night/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://mainframe.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-03-22T23:42:00+00:00</updated>
-    <id>'https://mainframe.io/'/serie/build-night/atom.xml</id>
+    <id>https://mainframe.io/serie/build-night/atom.xml</id>
     <entry xml:lang="de">
         <title>Lumi Build Night</title>
         <published>2013-09-08T12:57:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2013/lumi-build-night/"/>
-        <id>'https://mainframe.io/'/blog/2013/lumi-build-night/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2013/lumi-build-night/"/>
+        <id>https://mainframe.io/blog/2013/lumi-build-night/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2013/lumi-build-night/">&lt;p&gt;Dazu wurde uns von &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.instructables.com&#x2F;&quot;&gt;instructables.com&lt;&#x2F;a&gt; eine Zusammenstellung von Lumi-Produkten zur
+        <content type="html" xml:base="https://mainframe.io/blog/2013/lumi-build-night/">&lt;p&gt;Dazu wurde uns von &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.instructables.com&#x2F;&quot;&gt;instructables.com&lt;&#x2F;a&gt; eine Zusammenstellung von Lumi-Produkten zur
 Verfügung gestellt.&lt;&#x2F;p&gt;
 &lt;p&gt;Nach einer kurzen Erklärung, wie die Materialien zu bearbeiten sind, wurde Testweise ein Motiv zur Demonstration
 belichtet. Leider eignet der Tintenstrahldrucker nicht sonderlich dazu Folie zu bedrucken, was zu Querstreifen auf dem
@@ -57,10 +57,10 @@ Fotos enthalten immer noch überschüssige Farbe, die herausgewaschen wird!&lt;&
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2013/sugru-build-night/"/>
-        <id>'https://mainframe.io/'/blog/2013/sugru-build-night/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2013/sugru-build-night/"/>
+        <id>https://mainframe.io/blog/2013/sugru-build-night/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2013/sugru-build-night/">&lt;p&gt;In der Buildnight kommen wir zusammen und arbeiten an kleinen Projekten, die man möglichst an einem Nachmittag &#x2F; einer
+        <content type="html" xml:base="https://mainframe.io/blog/2013/sugru-build-night/">&lt;p&gt;In der Buildnight kommen wir zusammen und arbeiten an kleinen Projekten, die man möglichst an einem Nachmittag &#x2F; einer
 Nacht umsetzen kann. Dieses Mal werden wir Probepackungen von Sugru haben, einem Silikongummi, mit dem sich viele coole
 Dinge machen lassen.
 Auf &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?feature=player_embedded&amp;amp;v=Jortcsccg_c&quot;&gt;Youtube gibt es ein paar Beispiele zu Sugru&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;

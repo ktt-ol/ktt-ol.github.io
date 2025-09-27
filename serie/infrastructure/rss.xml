@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Infrastructure</title>
-      <link>&apos;https://mainframe.io/&apos;</link>
+      <link>https://mainframe.io/</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="'https://mainframe.io/'/serie/infrastructure/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://mainframe.io/serie/infrastructure/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sun, 24 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>Hackspace Access Control System</title>
           <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
           <author>sre</author>
-          <link>&apos;https://mainframe.io/&apos;/blog/2016/acs/</link>
-          <guid>&apos;https://mainframe.io/&apos;/blog/2016/acs/</guid>
-          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2016/acs/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;acs&#x2F;hacs-logo.svg&quot; alt=&quot;Hacs logo&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://mainframe.io/blog/2016/acs/</link>
+          <guid>https://mainframe.io/blog/2016/acs/</guid>
+          <description xml:base="https://mainframe.io/blog/2016/acs/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;acs&#x2F;hacs-logo.svg&quot; alt=&quot;Hacs logo&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;While the status-switch is nice, it does not help to actually
 get into a hackspace. For this you need some keys and with
 multiple people having access rights having a single key
@@ -108,9 +108,9 @@ acs-mqtt-fwd and acs-doorctrl respectively.&lt;&#x2F;p&gt;
           <title>3D Logo</title>
           <pubDate>Mon, 28 Jan 2013 23:42:00 +0000</pubDate>
           <author>Ben</author>
-          <link>&apos;https://mainframe.io/&apos;/blog/2013/3d-logo/</link>
-          <guid>&apos;https://mainframe.io/&apos;/blog/2013/3d-logo/</guid>
-          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2013/3d-logo/">&lt;p&gt;Ich habe die Buchstaben einzeln mit dem Styroschneider ausgeschnitten.
+          <link>https://mainframe.io/blog/2013/3d-logo/</link>
+          <guid>https://mainframe.io/blog/2013/3d-logo/</guid>
+          <description xml:base="https://mainframe.io/blog/2013/3d-logo/">&lt;p&gt;Ich habe die Buchstaben einzeln mit dem Styroschneider ausgeschnitten.
 Als nächstes wurden die Buchstaben mit weißem Acrylack auf Wasserbasis zwei mal gestrichen.
 Da ich noch eine Dose KFZ-Lack hatte habe ich die Buchstaben damit lackiert.
 Die Grundierung mit dem Acrylack verhinderte das Zerfressen der Buchstaben durch das Lösungsmittel im KFZ-Lack.
@@ -131,9 +131,9 @@ Klebeband befestigt wurden und hoffentlich halten.&lt;&#x2F;p&gt;
           <title>Spaceschalter</title>
           <pubDate>Mon, 07 May 2012 10:00:00 +0000</pubDate>
           <author>Thorben</author>
-          <link>&apos;https://mainframe.io/&apos;/blog/2012/spaceschalter/</link>
-          <guid>&apos;https://mainframe.io/&apos;/blog/2012/spaceschalter/</guid>
-          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2012/spaceschalter/">&lt;p&gt;Ob unsere Räume gerade geöffnet sind kann schon seit März 2012 auf unserer
+          <link>https://mainframe.io/blog/2012/spaceschalter/</link>
+          <guid>https://mainframe.io/blog/2012/spaceschalter/</guid>
+          <description xml:base="https://mainframe.io/blog/2012/spaceschalter/">&lt;p&gt;Ob unsere Räume gerade geöffnet sind kann schon seit März 2012 auf unserer
 Webseite neben unseren üblichen Öffnungszeiten live eingesehen werden.&lt;&#x2F;p&gt;
 &lt;p&gt;Wer es genauer wissen will sieht unter &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;status.ktt-ol.de&quot;&gt;status.ktt-ol.de&lt;&#x2F;a&gt; sogar, wie lange der
 Space schon offen ist, wieviele Leute aktuell über unseren Freifunk-Knoten im

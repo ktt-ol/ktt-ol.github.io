@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Camp</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="'https://mainframe.io/'/serie/camp/atom.xml"/>
-    <link rel="alternate" type="text/html" href="&apos;https://mainframe.io/&apos;"/>
+    <link rel="self" type="application/atom+xml" href="https://mainframe.io/serie/camp/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://mainframe.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-03-22T23:42:00+00:00</updated>
-    <id>'https://mainframe.io/'/serie/camp/atom.xml</id>
+    <id>https://mainframe.io/serie/camp/atom.xml</id>
     <entry xml:lang="de">
         <title>MCH 2022</title>
         <published>2022-08-07T17:36:00+00:00</published>
@@ -20,12 +20,12 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2022/mch2022/"/>
-        <id>'https://mainframe.io/'/blog/2022/mch2022/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2022/mch2022/"/>
+        <id>https://mainframe.io/blog/2022/mch2022/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2022/mch2022/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2022&#x2F;mch2022&#x2F;MCH2022_Logo.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://mainframe.io/blog/2022/mch2022/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2022&#x2F;mch2022&#x2F;MCH2022_Logo.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Die Mainframe-Crew war wieder campen. Mit sieben Teilnehmern fuhren wir in die Niederlande zur May Contain Hackers,
-kurz &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mch2022.org&#x2F;#&#x2F;&quot;&gt;MCH2022&lt;&#x2F;a&gt;, dem Nachfolger der &lt;a href=&quot;&amp;#x27;https:&#x2F;&#x2F;mainframe.io&#x2F;&amp;#x27;&#x2F;blog&#x2F;2017&#x2F;sha2017&#x2F;&quot;&gt;SHA2017&lt;&#x2F;a&gt;. Im Gepäck hatten wir neben
+kurz &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mch2022.org&#x2F;#&#x2F;&quot;&gt;MCH2022&lt;&#x2F;a&gt;, dem Nachfolger der &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2017&#x2F;sha2017&#x2F;&quot;&gt;SHA2017&lt;&#x2F;a&gt;. Im Gepäck hatten wir neben
 drei der obligatorischen 3D-Drucker natürlich auch unseren &lt;a href=&quot;#&quot;&gt;Kippenautomaten&lt;&#x2F;a&gt;. Dazu etwas Neues:
 Einen &lt;a href=&quot;#&quot;&gt;Geschirrspüler&lt;&#x2F;a&gt; - auf den wollen wir in Zukunft nie mehr verzichten.&lt;&#x2F;p&gt;
 &lt;p&gt;Der Kippomat stellte sich abermals als eye-catcher heraus, fast rund um die Uhr blieben immer wieder Besucher davor
@@ -51,10 +51,10 @@ bekannt geben.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2019/cccamp2019/"/>
-        <id>'https://mainframe.io/'/blog/2019/cccamp2019/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2019/cccamp2019/"/>
+        <id>https://mainframe.io/blog/2019/cccamp2019/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2019/cccamp2019/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2019&#x2F;cccamp2019&#x2F;DSC_0705.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://mainframe.io/blog/2019/cccamp2019/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2019&#x2F;cccamp2019&#x2F;DSC_0705.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Nach dem CCCamp 2015 und der &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.sha2017.org&quot;&gt;SHA2017&lt;&#x2F;a&gt; sind wieder zum Camping gefahren. Dieses Jahr stand
 das &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;events.ccc.de&#x2F;camp&#x2F;2019&#x2F;&quot;&gt;Chaos Communication Camp 2019&lt;&#x2F;a&gt; an und wir sind mit 15 Personen dort
 gewesen. Sehr schön ist es gewesen, jetzt heißt es wieder 2 Jahre warten auf das nächste Camp.&lt;&#x2F;p&gt;
@@ -74,10 +74,10 @@ gewesen. Sehr schön ist es gewesen, jetzt heißt es wieder 2 Jahre warten auf d
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2017/sha2017/"/>
-        <id>'https://mainframe.io/'/blog/2017/sha2017/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2017/sha2017/"/>
+        <id>https://mainframe.io/blog/2017/sha2017/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2017/sha2017/">&lt;p&gt;Nachdem unsere Delegation vom &lt;a href=&quot;&amp;#x27;https:&#x2F;&#x2F;mainframe.io&#x2F;&amp;#x27;&#x2F;blog&#x2F;2015&#x2F;cccamp2015&#x2F;&quot;&gt;CCCamp 2015&lt;&#x2F;a&gt; quasi nur Gutes zu berichten hatte,
+        <content type="html" xml:base="https://mainframe.io/blog/2017/sha2017/">&lt;p&gt;Nachdem unsere Delegation vom &lt;a href=&quot;https:&#x2F;&#x2F;mainframe.io&#x2F;blog&#x2F;2015&#x2F;cccamp2015&#x2F;&quot;&gt;CCCamp 2015&lt;&#x2F;a&gt; quasi nur Gutes zu berichten hatte,
 sind dieses Mal mit ganzen 12 Personen zur &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.sha2017.org&quot;&gt;SHA2017&lt;&#x2F;a&gt; aufgebrochen.&lt;&#x2F;p&gt;
 &lt;p&gt;Nach den Erfahrungen vom letzten Camp sind wir dieses Mal bereits an Tag -1 angereist, um unser Village aufzubauen (und
 generell beim Aufbau zu helfen). Vor Ort wurde schonmal klar, warum unser Village kurz vor dem Event noch einmal
@@ -113,10 +113,10 @@ dem Gedanken nächstes Jahr zur EMF nach England zu reisen).&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2015/cccamp2015/"/>
-        <id>'https://mainframe.io/'/blog/2015/cccamp2015/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2015/cccamp2015/"/>
+        <id>https://mainframe.io/blog/2015/cccamp2015/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2015/cccamp2015/">&lt;p&gt;Auch auf dem 4-jährigen Camp des CCCs ist der Mainframe selbstverständlich
+        <content type="html" xml:base="https://mainframe.io/blog/2015/cccamp2015/">&lt;p&gt;Auch auf dem 4-jährigen Camp des CCCs ist der Mainframe selbstverständlich
 anzutreffen. Für den Aufbau des Villages und um dem großen Ansturm nach Tickets
 zu entgehen, sind wir bereits einen Tag früher angereist. Vor Ort angekommen
 wurde festgestellt, dass die meisten Zeltplätze bereits belegt waren. Nachdem

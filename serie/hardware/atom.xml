@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title>Mainframe - Hardware</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
-    <link rel="self" type="application/atom+xml" href="'https://mainframe.io/'/serie/hardware/atom.xml"/>
-    <link rel="alternate" type="text/html" href="&apos;https://mainframe.io/&apos;"/>
+    <link rel="self" type="application/atom+xml" href="https://mainframe.io/serie/hardware/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://mainframe.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-03-24T23:42:00+00:00</updated>
-    <id>'https://mainframe.io/'/serie/hardware/atom.xml</id>
+    <id>https://mainframe.io/serie/hardware/atom.xml</id>
     <entry xml:lang="de">
         <title>Ladekoffer</title>
         <published>2018-11-09T12:15:00+00:00</published>
@@ -18,10 +18,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2018/ladekoffer/"/>
-        <id>'https://mainframe.io/'/blog/2018/ladekoffer/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2018/ladekoffer/"/>
+        <id>https://mainframe.io/blog/2018/ladekoffer/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2018/ladekoffer/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2018&#x2F;ladekoffer&#x2F;IMG_20181109_193018.jpg_2k.jpg&quot; alt=&quot;Der Ladekoffer&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://mainframe.io/blog/2018/ladekoffer/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2018&#x2F;ladekoffer&#x2F;IMG_20181109_193018.jpg_2k.jpg&quot; alt=&quot;Der Ladekoffer&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Als kleines Nachmittagsprojekt wurde ein Modellbauladegerät in einen alten “Alu-Koffer” eingebaut.
 Da einige Kabel recht kurz waren und dadurch das Laden erschwert wurde, wurden Durchführungen für die Kabel eingebaut.&lt;&#x2F;p&gt;
 &lt;p&gt;Dazu wurde an den notwendigen Stellen mit einem Forstner Bohrer ein Loch in den Koffer gebohrt (22mm).
@@ -62,10 +62,10 @@ Daraus ergibt sich der Vorteil, dass Änderungen gemacht werden können und das 
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2016/i2c-tiny-usb/"/>
-        <id>'https://mainframe.io/'/blog/2016/i2c-tiny-usb/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2016/i2c-tiny-usb/"/>
+        <id>https://mainframe.io/blog/2016/i2c-tiny-usb/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2016/i2c-tiny-usb/">&lt;p&gt;For the access control system and different private and space related projects
+        <content type="html" xml:base="https://mainframe.io/blog/2016/i2c-tiny-usb/">&lt;p&gt;For the access control system and different private and space related projects
 sre regularly uses I²C sensors&#x2F;devices. For testing purposes it helps a lot, if
 those devices can be connected to a notebook. So far he either used a VGA
 adapter (VGA cables contain an I²C signal to transport the display’s DDC
@@ -142,10 +142,10 @@ to develop I²C Linux kernel drivers.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2016/display-grabber/"/>
-        <id>'https://mainframe.io/'/blog/2016/display-grabber/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2016/display-grabber/"/>
+        <id>https://mainframe.io/blog/2016/display-grabber/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2016/display-grabber/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;abus-cfa1000-display-grabber&#x2F;cover.jpg&quot; alt=&quot;Cover&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://mainframe.io/blog/2016/display-grabber/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2016&#x2F;abus-cfa1000-display-grabber&#x2F;cover.jpg&quot; alt=&quot;Cover&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;For our access control system, we needed a motor lock for our main door.
 After having a look how other hackspaces solved the problem, we decided
 to get ourself an ABUS CFA1000. It’s quite popular among Hackspaces,
@@ -298,10 +298,10 @@ them to the host system.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2016/tiny-ws2812-controller/"/>
-        <id>'https://mainframe.io/'/blog/2016/tiny-ws2812-controller/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2016/tiny-ws2812-controller/"/>
+        <id>https://mainframe.io/blog/2016/tiny-ws2812-controller/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2016/tiny-ws2812-controller/">&lt;p&gt;For our access control system we &lt;del&gt;needed&lt;&#x2F;del&gt; wanted a few
+        <content type="html" xml:base="https://mainframe.io/blog/2016/tiny-ws2812-controller/">&lt;p&gt;For our access control system we &lt;del&gt;needed&lt;&#x2F;del&gt; wanted a few
 multi-colored status LEDs. Nowadays that basically means, that one gets a few
 ws2812b LEDs, since they are quite cheap and already provide a serial
 interface. Unfortunately most microcontrollers including the Raspberry Pi have
@@ -430,10 +430,10 @@ control your LEDs using the following interface:&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2014/pcb-printer/"/>
-        <id>'https://mainframe.io/'/blog/2014/pcb-printer/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2014/pcb-printer/"/>
+        <id>https://mainframe.io/blog/2014/pcb-printer/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2014/pcb-printer/">&lt;h2 id=&quot;platinendrucker-pcb-printer-mit-modifiziertem-inkjet-drucker&quot;&gt;Platinendrucker&#x2F;PCB-Printer mit modifiziertem Inkjet-Drucker&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://mainframe.io/blog/2014/pcb-printer/">&lt;h2 id=&quot;platinendrucker-pcb-printer-mit-modifiziertem-inkjet-drucker&quot;&gt;Platinendrucker&#x2F;PCB-Printer mit modifiziertem Inkjet-Drucker&lt;&#x2F;h2&gt;
 &lt;p&gt;Platinen werden üblicherweise aus einer, mit Fotolack und Kupfer beschichteten Trägerplatte, hergestellt.&lt;&#x2F;p&gt;
 &lt;p&gt;Es sind dann folgende Arbeitsschritte nötig:&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -501,10 +501,10 @@ zu empfehlen.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2013/salatbaum/"/>
-        <id>'https://mainframe.io/'/blog/2013/salatbaum/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2013/salatbaum/"/>
+        <id>https://mainframe.io/blog/2013/salatbaum/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2013/salatbaum/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;salatbaum&#x2F;salatbaum.jpg&quot; alt=&quot;Salatbaum&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://mainframe.io/blog/2013/salatbaum/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;salatbaum&#x2F;salatbaum.jpg&quot; alt=&quot;Salatbaum&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Der Salatbaum ist ein Projekt, dass wir als Workshop auf dem
 &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;ffrei.de&quot;&gt;Freifeld-Festival&lt;&#x2F;a&gt; und am Tag der offenen Tür bei uns
 angeboten haben.&lt;&#x2F;p&gt;
@@ -529,10 +529,10 @@ vielleicht sogar ab und zu einen Salat davon zu machen.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2013/siebdruck-dings/"/>
-        <id>'https://mainframe.io/'/blog/2013/siebdruck-dings/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2013/siebdruck-dings/"/>
+        <id>https://mainframe.io/blog/2013/siebdruck-dings/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2013/siebdruck-dings/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;siebdruck-dings&#x2F;siebdruck-dings.jpg&quot; alt=&quot;Siebdruck-Dings&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://mainframe.io/blog/2013/siebdruck-dings/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2013&#x2F;siebdruck-dings&#x2F;siebdruck-dings.jpg&quot; alt=&quot;Siebdruck-Dings&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Dieses “Siebdruck-Dings” nennt man eigentlich “Siebdruck-Maschine”, obwohl es
 eigentlich gar keine Maschine ist. Es handelt sich hierbei im Wesentlichen um
 eine freistehend montierte Holzplatte mit zwei Scharnieren, an denen man einen
@@ -561,10 +561,10 @@ Leute gleichzeitig drucken können.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2013/smartphone-debug-adapter/"/>
-        <id>'https://mainframe.io/'/blog/2013/smartphone-debug-adapter/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2013/smartphone-debug-adapter/"/>
+        <id>https://mainframe.io/blog/2013/smartphone-debug-adapter/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2013/smartphone-debug-adapter/">&lt;p&gt;Dieser Artikel beschreibt den Bau eines Debug-Adapters für das &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nokia_N900&quot;&gt;Nokia
+        <content type="html" xml:base="https://mainframe.io/blog/2013/smartphone-debug-adapter/">&lt;p&gt;Dieser Artikel beschreibt den Bau eines Debug-Adapters für das &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nokia_N900&quot;&gt;Nokia
 N900&lt;&#x2F;a&gt; Smartphone. Dieser ermöglicht
 den Zugriff auf eine die serielle Schnittstelle, so dass Debug-Ausgaben des
 Kernels abgefangen werden können.&lt;&#x2F;p&gt;
@@ -624,10 +624,10 @@ dieser einfach mit dem Debug-Adapter verbunden werden kann.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2012/flying-games-logo/"/>
-        <id>'https://mainframe.io/'/blog/2012/flying-games-logo/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2012/flying-games-logo/"/>
+        <id>https://mainframe.io/blog/2012/flying-games-logo/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2012/flying-games-logo/">&lt;p&gt;Seit dem 1.11.12 bin ich Mitglied, und am 3.11. war ich das erste Mal “so
+        <content type="html" xml:base="https://mainframe.io/blog/2012/flying-games-logo/">&lt;p&gt;Seit dem 1.11.12 bin ich Mitglied, und am 3.11. war ich das erste Mal “so
 richtig” im Hackspace, der jetzt den schönen Namen “Mainframe” trägt. Ich kam
 gerade rechtzeitig zu einem Vortrag der Mainframe-Reihe, über Fourier-Analysen:
 war spannend und gut erklärt, und ich konnte meine Mathe-Kenntnisse an einem
@@ -673,10 +673,10 @@ im Koordinatensystem des Objekts er anfangen sollte. Und los gings! Schließlich
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2012/lauflicht/"/>
-        <id>'https://mainframe.io/'/blog/2012/lauflicht/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2012/lauflicht/"/>
+        <id>https://mainframe.io/blog/2012/lauflicht/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2012/lauflicht/">&lt;p&gt;Manchmal fällt uns ein Projekt auch einfach in den Schoß. So wie dieses
+        <content type="html" xml:base="https://mainframe.io/blog/2012/lauflicht/">&lt;p&gt;Manchmal fällt uns ein Projekt auch einfach in den Schoß. So wie dieses
 Lauflicht aus 192 × 14 LEDs. Das Gerät gehört einem Freund des Vereins, der aber
 gerade wenig Zeit und Muße hat, sich der Herausforderung zu stellen, das gute
 Stück zu programmieren und somit wieder nutzbar zu machen. Denn dummer Weise
@@ -733,10 +733,10 @@ Gegner, die versuchen, unsere High-Scores zu knacken.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2012/terminals/"/>
-        <id>'https://mainframe.io/'/blog/2012/terminals/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2012/terminals/"/>
+        <id>https://mainframe.io/blog/2012/terminals/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2012/terminals/">&lt;p&gt;Wenn man vier mal in der Woche 15-25 kreative und technisch begabte Leute auf
+        <content type="html" xml:base="https://mainframe.io/blog/2012/terminals/">&lt;p&gt;Wenn man vier mal in der Woche 15-25 kreative und technisch begabte Leute auf
 einem Haufen hat, denen man dann auch noch ein wenig Geld oder Hardware in die
 Hand drückt und sagt, “macht mal”, kann eigentlich nur Großes daraus entstehen.&lt;&#x2F;p&gt;
 &lt;p&gt;Vor lauter Basteln haben wir vielleicht etwas vergessen, auch mal
@@ -809,10 +809,10 @@ fordert einen von uns heraus.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2012/styroschneider/"/>
-        <id>'https://mainframe.io/'/blog/2012/styroschneider/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2012/styroschneider/"/>
+        <id>https://mainframe.io/blog/2012/styroschneider/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2012/styroschneider/">&lt;p&gt;Als erstes Projekt, an dem wir im Space arbeiten, soll heute der Styroschneider
+        <content type="html" xml:base="https://mainframe.io/blog/2012/styroschneider/">&lt;p&gt;Als erstes Projekt, an dem wir im Space arbeiten, soll heute der Styroschneider
 vorgestellt werden.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;die-motivation&quot;&gt;Die Motivation&lt;&#x2F;h1&gt;
 &lt;p&gt;Die Idee einen Stryoschneider zu entwickeln hat sich aus einem anderen Projekt
@@ -860,10 +860,10 @@ KtT-Logos geplottet werden. Und so sieht das ganze aus.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="'https://mainframe.io/'/blog/2011/forumslader/"/>
-        <id>'https://mainframe.io/'/blog/2011/forumslader/</id>
+        <link rel="alternate" type="text/html" href="https://mainframe.io/blog/2011/forumslader/"/>
+        <id>https://mainframe.io/blog/2011/forumslader/</id>
         
-        <content type="html" xml:base="&apos;https://mainframe.io/&apos;/blog/2011/forumslader/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;forumslader&#x2F;forumslader.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://mainframe.io/blog/2011/forumslader/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2011&#x2F;forumslader&#x2F;forumslader.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Der &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.forumslader.de&#x2F;&quot;&gt;Forumslader&lt;&#x2F;a&gt; ist ein Ladegerät fürs Fahrrad, dessen Nachbau für private Nutzung
 erlaubt ist. Er ist dazu gedacht, Mobiltelefone oder Navigationsgeräte während des Radfahrens zu betreiben bzw.
 aufzuladen.&lt;&#x2F;p&gt;

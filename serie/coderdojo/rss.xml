@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - CoderDojo</title>
-      <link>&apos;https://mainframe.io/&apos;</link>
+      <link>https://mainframe.io/</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="'https://mainframe.io/'/serie/coderdojo/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://mainframe.io/serie/coderdojo/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Thu, 21 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>CoderDojo Oldenburg</title>
           <pubDate>Tue, 19 Mar 2019 20:15:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>&apos;https://mainframe.io/&apos;/blog/2019/coderdojo/</link>
-          <guid>&apos;https://mainframe.io/&apos;/blog/2019/coderdojo/</guid>
-          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2019/coderdojo/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2019&#x2F;coderdojo&#x2F;CoderDojoHeader.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://mainframe.io/blog/2019/coderdojo/</link>
+          <guid>https://mainframe.io/blog/2019/coderdojo/</guid>
+          <description xml:base="https://mainframe.io/blog/2019/coderdojo/">&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2019&#x2F;coderdojo&#x2F;CoderDojoHeader.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;CoderDojo ist eine weltweite Bewegung und davon überzeugt, dass Programmieren eine Fähigkeit ist, die in unserer
 modernen Welt immer wichtiger wird. Jeden Tag gibt es neue Entwicklungen und Technologie findet Einzug in immer mehr
 Bereiche unseres Alltags. Wer weiß schon wie die Welt in 10 Jahren aussieht, aber eines ist klar: sie wird mit Code

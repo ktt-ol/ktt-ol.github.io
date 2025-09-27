@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Build Night</title>
-      <link>&apos;https://mainframe.io/&apos;</link>
+      <link>https://mainframe.io/</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="'https://mainframe.io/'/serie/build-night/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://mainframe.io/serie/build-night/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Fri, 22 Mar 2024 23:42:00 +0000</lastBuildDate>
       <item>
           <title>Lumi Build Night</title>
           <pubDate>Sun, 08 Sep 2013 12:57:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>&apos;https://mainframe.io/&apos;/blog/2013/lumi-build-night/</link>
-          <guid>&apos;https://mainframe.io/&apos;/blog/2013/lumi-build-night/</guid>
-          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2013/lumi-build-night/">&lt;p&gt;Dazu wurde uns von &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.instructables.com&#x2F;&quot;&gt;instructables.com&lt;&#x2F;a&gt; eine Zusammenstellung von Lumi-Produkten zur
+          <link>https://mainframe.io/blog/2013/lumi-build-night/</link>
+          <guid>https://mainframe.io/blog/2013/lumi-build-night/</guid>
+          <description xml:base="https://mainframe.io/blog/2013/lumi-build-night/">&lt;p&gt;Dazu wurde uns von &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;www.instructables.com&#x2F;&quot;&gt;instructables.com&lt;&#x2F;a&gt; eine Zusammenstellung von Lumi-Produkten zur
 Verfügung gestellt.&lt;&#x2F;p&gt;
 &lt;p&gt;Nach einer kurzen Erklärung, wie die Materialien zu bearbeiten sind, wurde Testweise ein Motiv zur Demonstration
 belichtet. Leider eignet der Tintenstrahldrucker nicht sonderlich dazu Folie zu bedrucken, was zu Querstreifen auf dem
@@ -38,9 +38,9 @@ Fotos enthalten immer noch überschüssige Farbe, die herausgewaschen wird!&lt;&
           <title>Sugru Build Night</title>
           <pubDate>Sat, 20 Jul 2013 23:00:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>&apos;https://mainframe.io/&apos;/blog/2013/sugru-build-night/</link>
-          <guid>&apos;https://mainframe.io/&apos;/blog/2013/sugru-build-night/</guid>
-          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2013/sugru-build-night/">&lt;p&gt;In der Buildnight kommen wir zusammen und arbeiten an kleinen Projekten, die man möglichst an einem Nachmittag &#x2F; einer
+          <link>https://mainframe.io/blog/2013/sugru-build-night/</link>
+          <guid>https://mainframe.io/blog/2013/sugru-build-night/</guid>
+          <description xml:base="https://mainframe.io/blog/2013/sugru-build-night/">&lt;p&gt;In der Buildnight kommen wir zusammen und arbeiten an kleinen Projekten, die man möglichst an einem Nachmittag &#x2F; einer
 Nacht umsetzen kann. Dieses Mal werden wir Probepackungen von Sugru haben, einem Silikongummi, mit dem sich viele coole
 Dinge machen lassen.
 Auf &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?feature=player_embedded&amp;amp;v=Jortcsccg_c&quot;&gt;Youtube gibt es ein paar Beispiele zu Sugru&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;

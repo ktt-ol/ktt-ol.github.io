@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Mainframe - Eingeloggt!</title>
-      <link>&apos;https://mainframe.io/&apos;</link>
+      <link>https://mainframe.io/</link>
       <description>Website des Hackspace Mainframe</description>
       <generator>Zola</generator>
       <language>de</language>
-      <atom:link href="'https://mainframe.io/'/serie/eingeloggt/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://mainframe.io/serie/eingeloggt/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sat, 22 Mar 2025 19:42:00 +0000</lastBuildDate>
       <item>
           <title>Eingeloggt! Oldenburg</title>
           <pubDate>Sat, 22 Mar 2025 19:42:00 +0000</pubDate>
           <author>Markus Framer</author>
-          <link>&apos;https://mainframe.io/&apos;/blog/2025/eingeloggt/</link>
-          <guid>&apos;https://mainframe.io/&apos;/blog/2025/eingeloggt/</guid>
-          <description xml:base="&apos;https://mainframe.io/&apos;/blog/2025/eingeloggt/">&lt;p&gt;In Oldenburg findet bereits zum dritten Mal die Eingeloggt!-Woche statt. Vom 23.03. bis 30.03.2025 laden wieder
+          <link>https://mainframe.io/blog/2025/eingeloggt/</link>
+          <guid>https://mainframe.io/blog/2025/eingeloggt/</guid>
+          <description xml:base="https://mainframe.io/blog/2025/eingeloggt/">&lt;p&gt;In Oldenburg findet bereits zum dritten Mal die Eingeloggt!-Woche statt. Vom 23.03. bis 30.03.2025 laden wieder
 zahlreiche
 Organisationen in Oldenburg generationenübergreifend zu Workshops, Besichtigungen und Vorträgen rund um das Thema
 Digitalisierung ein.
