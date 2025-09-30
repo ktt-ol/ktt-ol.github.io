@@ -5,8 +5,38 @@
     <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/serie/coderdojo/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://www.mainframe.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-03-21T23:42:00+00:00</updated>
+    <updated>2025-09-30T21:55:00+00:00</updated>
     <id>https://www.mainframe.io/serie/coderdojo/atom.xml</id>
+    <entry xml:lang="de">
+        <title>Wir feiern CoderDojo #100</title>
+        <published>2025-09-30T21:55:00+00:00</published>
+        <updated>2025-09-30T21:55:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2025/coderdojo-100/"/>
+        <id>https://www.mainframe.io/blog/2025/coderdojo-100/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/blog/2025/coderdojo-100/">&lt;p&gt;Kaum zu glauben – unser CoderDojo in Oldenburg findet im Oktober zum 100. Mal statt!
+Seit dem ersten Termin im März 2019 haben wir gemeinsam programmiert, gebaut,
+gelötet, genäht und ganz viel gelernt.&lt;&#x2F;p&gt;
+&lt;p&gt;Am 11. Oktober 2025 ab 13:00 ist es nun soweit: Der einhundertste Termin steht an.
+Das wollen wir gemeinsam mit euch im Mainframe feiern – natürlich so wie immer
+mit ganz viel Spaß, spannenden Projekten und ganz bestimmt auch mit Pommes und
+Getränken.&lt;&#x2F;p&gt;
+&lt;p&gt;Wenn du mehr wissen willst oder dich anmelden möchtest, schau dir gerne den
+&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ktt-ol.de&#x2F;aktuelles&#x2F;coderdojo-100&quot;&gt;ausführlichen Post auf der Vereins-Seite&lt;&#x2F;a&gt; an.&lt;&#x2F;p&gt;
+&lt;p&gt;Dort gibt es auch Informationen zum Programm, zur Anmeldung und zu weiteren Highlights.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2025&#x2F;coderdojo-100&#x2F;750-1662.jpg&quot; alt=&quot;Gruppenfoto von CoderDojo 98&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="de">
         <title>CoderDojo Oldenburg</title>
         <published>2019-03-19T20:15:00+00:00</published>
