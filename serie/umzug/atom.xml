@@ -3,7 +3,7 @@
     <title>Mainframe - Umzug</title>
     <subtitle>Website des Hackspace Mainframe</subtitle>
     <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/serie/umzug/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://www.mainframe.io/"/>
+    <link rel="alternate" type="text/html" href="https://www.mainframe.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-03-22T23:42:00+00:00</updated>
     <id>https://www.mainframe.io/serie/umzug/atom.xml</id>
