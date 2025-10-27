@@ -5,8 +5,65 @@
     <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://www.mainframe.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2025-10-24T20:33:06+00:00</updated>
+    <updated>2025-10-26T21:02:20+00:00</updated>
     <id>https://www.mainframe.io/atom.xml</id>
+    <entry xml:lang="de">
+        <title>IFS 1710</title>
+        <published>2025-10-26T21:02:20+00:00</published>
+        <updated>2025-10-26T21:02:20+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/images/ifs/2025/1710/"/>
+        <id>https://www.mainframe.io/images/ifs/2025/1710/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/images/ifs/2025/1710/"></content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>IFS 1711</title>
+        <published>2025-10-26T21:02:20+00:00</published>
+        <updated>2025-10-26T21:02:20+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/images/ifs/2025/1711/"/>
+        <id>https://www.mainframe.io/images/ifs/2025/1711/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/images/ifs/2025/1711/"></content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>IFS 1709</title>
+        <published>2025-10-26T20:34:42+00:00</published>
+        <updated>2025-10-26T20:34:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/images/ifs/2025/1709/"/>
+        <id>https://www.mainframe.io/images/ifs/2025/1709/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/images/ifs/2025/1709/"></content>
+        
+    </entry>
     <entry xml:lang="de">
         <title>IFS 1706</title>
         <published>2025-10-24T20:33:06+00:00</published>
