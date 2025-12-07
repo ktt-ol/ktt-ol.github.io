@@ -7,7 +7,15 @@
       <generator>Zola</generator>
       <language>de</language>
       <atom:link href="https://www.mainframe.io/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 30 Nov 2025 21:55:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 06 Dec 2025 16:57:54 +0000</lastBuildDate>
+      <item>
+          <title>IFS 1723</title>
+          <pubDate>Sat, 06 Dec 2025 16:57:54 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2025/1723/</link>
+          <guid>https://www.mainframe.io/images/ifs/2025/1723/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2025/1723/"></description>
+      </item>
       <item>
           <title>Weihnachts-Editionen CoderDojo und Jugend hackt Lab 🎄</title>
           <pubDate>Sun, 30 Nov 2025 21:55:00 +0000</pubDate>
