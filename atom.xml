@@ -46,6 +46,25 @@
         
     </entry>
     <entry xml:lang="de">
+        <title>IFS 1777</title>
+        <published>2026-03-17T22:15:19+00:00</published>
+        <updated>2026-03-17T22:15:19+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/images/ifs/2026/1777/"/>
+        <id>https://www.mainframe.io/images/ifs/2026/1777/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/images/ifs/2026/1777/"></content>
+        
+    </entry>
+    <entry xml:lang="de">
         <title>IFS 1771</title>
         <published>2026-03-07T22:28:04+00:00</published>
         <updated>2026-03-07T22:28:04+00:00</updated>
