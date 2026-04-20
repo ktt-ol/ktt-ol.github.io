@@ -5,8 +5,46 @@
     <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://www.mainframe.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-04-14T21:43:50+00:00</updated>
+    <updated>2026-04-19T20:55:12+00:00</updated>
     <id>https://www.mainframe.io/atom.xml</id>
+    <entry xml:lang="de">
+        <title>IFS 1798</title>
+        <published>2026-04-19T20:55:12+00:00</published>
+        <updated>2026-04-19T20:55:12+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/images/ifs/2026/1798/"/>
+        <id>https://www.mainframe.io/images/ifs/2026/1798/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/images/ifs/2026/1798/"></content>
+        
+    </entry>
+    <entry xml:lang="de">
+        <title>IFS 1797</title>
+        <published>2026-04-19T19:31:18+00:00</published>
+        <updated>2026-04-19T19:31:18+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/images/ifs/2026/1797/"/>
+        <id>https://www.mainframe.io/images/ifs/2026/1797/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/images/ifs/2026/1797/"></content>
+        
+    </entry>
     <entry xml:lang="de">
         <title>IFS 1793</title>
         <published>2026-04-14T21:43:50+00:00</published>
