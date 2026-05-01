@@ -5,8 +5,27 @@
     <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://www.mainframe.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-04-26T03:54:21+00:00</updated>
+    <updated>2026-04-30T15:51:42+00:00</updated>
     <id>https://www.mainframe.io/atom.xml</id>
+    <entry xml:lang="de">
+        <title>IFS 1801</title>
+        <published>2026-04-30T15:51:42+00:00</published>
+        <updated>2026-04-30T15:51:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/images/ifs/2026/1801/"/>
+        <id>https://www.mainframe.io/images/ifs/2026/1801/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/images/ifs/2026/1801/"></content>
+        
+    </entry>
     <entry xml:lang="de">
         <title>IFS 1799</title>
         <published>2026-04-26T03:54:21+00:00</published>
