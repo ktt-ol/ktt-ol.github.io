@@ -5,8 +5,43 @@
     <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/typ/event/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://www.mainframe.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-04-04T19:43:00+00:00</updated>
+    <updated>2026-06-06T19:43:00+00:00</updated>
     <id>https://www.mainframe.io/typ/event/atom.xml</id>
+    <entry xml:lang="de">
+        <title>Workshop Mikrocontroller und Löten</title>
+        <published>2026-06-06T19:43:00+00:00</published>
+        <updated>2026-06-06T19:43:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2026/workshop-mikrocontroller/"/>
+        <id>https://www.mainframe.io/blog/2026/workshop-mikrocontroller/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/blog/2026/workshop-mikrocontroller/">&lt;p&gt;Wir tauchen ein in die Welt der günstigen Mikrocontroller! Dafür verbinden wir
+einen digitalen Sensor für Lufttemperatur und Luftfeuchte mit dem Internet.&lt;&#x2F;p&gt;
+&lt;p&gt;Der Workshop findet statt:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Am: Sonntag, 14. Juni 2026&lt;&#x2F;li&gt;
+&lt;li&gt;Um: 15:00 - 18:00&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Zu Beginn des Workshops lernt ihr löten und könnt dann die Sensoren mit dem
+Mikrocontroller verbinden.&lt;&#x2F;p&gt;
+&lt;p&gt;Im Anschluss daran geht es an die Software: Wir bespielen den Mikrocontroller
+mit “Tasmota”, einer quelloffenen Firmware für Hausautomation, die es uns
+erlaubt, die Sensordaten über ein Smartphone auszulesen.&lt;&#x2F;p&gt;
+&lt;p&gt;Der Workshop ist geeignet für alle zwischen 14 und 114 mit und ohne
+Vorwissen. Die Materialkosten betragen 7 Euro.&lt;&#x2F;p&gt;
+&lt;p&gt;Wir bitten um eine Anmeldung unter &lt;a href=&quot;mailto:anmeldung@ktt-ol.de&quot;&gt;anmeldung@ktt-ol.de&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2026&#x2F;workshop-mikrocontroller&#x2F;1735.jpg&quot; alt=&quot;Workshop Mikrocontroller&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="de">
         <title>Küchenumbau April 2026</title>
         <published>2026-04-04T19:43:00+00:00</published>
