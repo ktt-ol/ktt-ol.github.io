@@ -7,7 +7,31 @@
       <generator>Zola</generator>
       <language>de</language>
       <atom:link href="https://www.mainframe.io/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 10 Jun 2026 00:38:53 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 13 Jun 2026 18:04:00 +0000</lastBuildDate>
+      <item>
+          <title>IFS 1826</title>
+          <pubDate>Sat, 13 Jun 2026 18:04:00 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1826/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1826/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1826/"></description>
+      </item>
+      <item>
+          <title>IFS 1824</title>
+          <pubDate>Wed, 10 Jun 2026 02:16:13 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1824/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1824/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1824/"></description>
+      </item>
+      <item>
+          <title>IFS 1825</title>
+          <pubDate>Wed, 10 Jun 2026 02:16:13 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1825/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1825/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1825/"></description>
+      </item>
       <item>
           <title>IFS 1821</title>
           <pubDate>Wed, 10 Jun 2026 00:38:53 +0000</pubDate>
@@ -15,6 +39,22 @@
           <link>https://www.mainframe.io/images/ifs/2026/1821/</link>
           <guid>https://www.mainframe.io/images/ifs/2026/1821/</guid>
           <description xml:base="https://www.mainframe.io/images/ifs/2026/1821/"></description>
+      </item>
+      <item>
+          <title>IFS 1822</title>
+          <pubDate>Wed, 10 Jun 2026 00:38:53 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1822/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1822/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1822/"></description>
+      </item>
+      <item>
+          <title>IFS 1823</title>
+          <pubDate>Wed, 10 Jun 2026 00:38:53 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1823/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1823/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1823/"></description>
       </item>
       <item>
           <title>Workshop Mikrocontroller und Löten</title>
