@@ -7,7 +7,23 @@
       <generator>Zola</generator>
       <language>de</language>
       <atom:link href="https://www.mainframe.io/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 20 Jun 2026 19:43:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 21 Jun 2026 22:53:03 +0000</lastBuildDate>
+      <item>
+          <title>IFS 1834</title>
+          <pubDate>Sun, 21 Jun 2026 22:53:03 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1834/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1834/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1834/"></description>
+      </item>
+      <item>
+          <title>IFS 1835</title>
+          <pubDate>Sun, 21 Jun 2026 22:53:03 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1835/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1835/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1835/"></description>
+      </item>
       <item>
           <title>Projekt: Stopfpilze aus dem 3D-Drucker</title>
           <pubDate>Sat, 20 Jun 2026 19:43:00 +0000</pubDate>
