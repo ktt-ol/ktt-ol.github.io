@@ -7,7 +7,15 @@
       <generator>Zola</generator>
       <language>de</language>
       <atom:link href="https://www.mainframe.io/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 17 Jul 2026 03:36:34 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 18 Jul 2026 00:00:27 +0000</lastBuildDate>
+      <item>
+          <title>IFS 1852</title>
+          <pubDate>Sat, 18 Jul 2026 00:00:27 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1852/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1852/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1852/"></description>
+      </item>
       <item>
           <title>IFS 1851</title>
           <pubDate>Fri, 17 Jul 2026 03:36:34 +0000</pubDate>
