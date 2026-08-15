@@ -7,7 +7,120 @@
       <generator>Zola</generator>
       <language>de</language>
       <atom:link href="https://www.mainframe.io/typ/projekt/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 20 Jun 2026 19:42:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 29 Jul 2026 19:42:00 +0000</lastBuildDate>
+      <item>
+          <title>Projekt: Beispiele für Infill im 3D-Druck</title>
+          <pubDate>Wed, 29 Jul 2026 19:42:00 +0000</pubDate>
+          <author>tljuniper</author>
+          <link>https://www.mainframe.io/blog/2026/3d-infill-samples/</link>
+          <guid>https://www.mainframe.io/blog/2026/3d-infill-samples/</guid>
+          <description xml:base="https://www.mainframe.io/blog/2026/3d-infill-samples/">&lt;p&gt;Im 3D-Labor haben wir ein neues Beispiel und Anschauungsobjekt hinzugefügt: Ein Brett mit verschiedenen Infill-Samples.&lt;&#x2F;p&gt;
+&lt;p&gt;Infill ist die Füllstruktur im Inneren eines 3D-gedruckten Teils. In den meisten
+Fällen werden Objekte im 3D-Druck nicht massiv gedruckt, sondern mit einem
+speziellen Muster gefüllt, um Material, Zeit und Gewicht zu sparen. Die Muster
+unterscheiden sich in ihrer Stabilität, Druckgeschwindigkeit und natürlich der
+Optik. Das Konzept kennt man auch von günstigen Möbeln, die nicht aus Massivholz
+bestehen, sondern ebenfalls mit einem Wabenmuster gefüllt sind.&lt;&#x2F;p&gt;
+&lt;p&gt;Es sind im 3D-Druck verschiedenste Infill-Muster möglich – von quadratischen
+Gittern über Spiralen, Bienenwaben oder Dreiecken.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;modell-und-konstruktion&quot;&gt;Modell und Konstruktion&lt;&#x2F;h2&gt;
+&lt;p&gt;Für unser Beispiel-Board haben wir das “Hex infill and surface sample holder wall art” von “The Redcoat”
+auf &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.printables.com&#x2F;model&#x2F;200756-hex-infill-and-surface-sample-holder-wall-art&quot;&gt;printables.com&lt;&#x2F;a&gt; heruntergeladen.
+Da es sich um ein OpenSCAD-Modell handelt, konnten wir die Größe der einzelnen
+Samples anpassen. Wir haben uns dafür entschieden, die Höhe auf 10mm zu erhöhen,
+um mehr vom Infill zu zeigen.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2026&#x2F;infill-samples&#x2F;IMG_1875.jpg&quot; alt=&quot;Infill-Sample Board Close-Up&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Das Board ist als Wandbild konzipiert und besteht aus drei zusammensteckbaren
+Haltern, in die die einzelnen Sechsecke eingesetzt werden können.
+Um alle Teile besser zu befestigen, haben wir eine Rückseite aus 8mm starkem Pappelsperrholz gelasert.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2026&#x2F;infill-samples&#x2F;IMG_1874.jpg&quot; alt=&quot;Infill-Sample Board Seitenansicht&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;&quot;&gt;Liste der Samples nach Farben&lt;&#x2F;h2&gt;
+&lt;p&gt;Hier die vollständige Liste der Samples in unserem Beispiel-Board. Wenn nicht anders angegeben, handelt es sich um 15% Infill.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Orange
+&lt;ul&gt;
+&lt;li&gt;Archimedan Chords&lt;&#x2F;li&gt;
+&lt;li&gt;Lightning (Blitze)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Hellblau
+&lt;ul&gt;
+&lt;li&gt;2D lattice&lt;&#x2F;li&gt;
+&lt;li&gt;Support Cubic&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Transparent Blau
+&lt;ul&gt;
+&lt;li&gt;Hilbert Curve&lt;&#x2F;li&gt;
+&lt;li&gt;Gyroid&lt;&#x2F;li&gt;
+&lt;li&gt;Octagram Spiral&lt;&#x2F;li&gt;
+&lt;li&gt;Cubic&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Pink
+&lt;ul&gt;
+&lt;li&gt;3D Honeycomb&lt;&#x2F;li&gt;
+&lt;li&gt;Rectlinear Aligned&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Braun
+&lt;ul&gt;
+&lt;li&gt;Crosshatch&lt;&#x2F;li&gt;
+&lt;li&gt;Zigzag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Dunkelgrün
+&lt;ul&gt;
+&lt;li&gt;Cross Zag&lt;&#x2F;li&gt;
+&lt;li&gt;Locked Zag&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Hellgrün
+&lt;ul&gt;
+&lt;li&gt;Rectlinear&lt;&#x2F;li&gt;
+&lt;li&gt;Concentric&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Transparent Farblos
+&lt;ul&gt;
+&lt;li&gt;Gyroid 5%&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Dunkellila&#x2F;Beere
+&lt;ul&gt;
+&lt;li&gt;Grid&lt;&#x2F;li&gt;
+&lt;li&gt;Line&lt;&#x2F;li&gt;
+&lt;li&gt;Triangles&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Rot
+&lt;ul&gt;
+&lt;li&gt;Archimedan Chords&lt;&#x2F;li&gt;
+&lt;li&gt;3D Honeycomb&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Gelb
+&lt;ul&gt;
+&lt;li&gt;Honeycomb&lt;&#x2F;li&gt;
+&lt;li&gt;Tri-hexagon&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Weiß
+&lt;ul&gt;
+&lt;li&gt;Lightning 30%&lt;&#x2F;li&gt;
+&lt;li&gt;Honeycomb 5%&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Blau (hier wird die oberste Schicht und nicht der Infill gezeigt)
+&lt;ul&gt;
+&lt;li&gt;Rectlinear (top layer)&lt;&#x2F;li&gt;
+&lt;li&gt;Concentric (top layer)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2026&#x2F;infill-samples&#x2F;IMG_1871.jpg&quot; alt=&quot;Infill-Sample Board&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Projekt: Stopfpilze aus dem 3D-Drucker</title>
           <pubDate>Sat, 20 Jun 2026 19:42:00 +0000</pubDate>
