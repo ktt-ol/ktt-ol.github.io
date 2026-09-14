@@ -5,8 +5,82 @@
     <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/typ/event/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://www.mainframe.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-08-23T19:42:00+00:00</updated>
+    <updated>2026-09-13T19:42:00+00:00</updated>
     <id>https://www.mainframe.io/typ/event/atom.xml</id>
+    <entry xml:lang="de">
+        <title>Türen auf mit der Maus</title>
+        <published>2026-09-13T19:42:00+00:00</published>
+        <updated>2026-09-13T19:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2026/tueren-auf-tag/"/>
+        <id>https://www.mainframe.io/blog/2026/tueren-auf-tag/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/blog/2026/tueren-auf-tag/">&lt;p&gt;Dieses Jahr am &lt;strong&gt;3. Oktober&lt;&#x2F;strong&gt; von &lt;strong&gt;14:00 Uhr bis 19:00 Uhr&lt;&#x2F;strong&gt; sind wir zum ersten Mal bei der &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.wdrmaus.de&#x2F;extras&#x2F;tueren_auf&#x2F;index.php5&quot;&gt;“Türen auf mit der Maus”-Aktion vom WDR&lt;&#x2F;a&gt; dabei.&lt;&#x2F;p&gt;
+&lt;p&gt;Die Aktion findet bundesweit statt und steht dieses Jahr unter dem Motto “Kleine Wunder” – davon haben wir zwischen spannender Technik und kreativen Projekten im Space eine ganze Menge.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ablauf&quot;&gt;Ablauf&lt;&#x2F;h2&gt;
+&lt;p&gt;Wir wollen an diesem Tag vielen neuen Kindern und Erwachsenen einen Einblick in
+unsere Räume geben und zeigen, was hier alles möglich ist.
+Dafür veranstalten wir &lt;strong&gt;Mitmachaktionen&lt;&#x2F;strong&gt; und stündliche &lt;strong&gt;SpaceWalks&lt;&#x2F;strong&gt;.
+Für die Teilnahme ist eine Anmeldung nötig – mehr dazu weiter unten.&lt;&#x2F;p&gt;
+&lt;p&gt;Los geht es um 14:00 Uhr. Das Ende ist für 19:00 Uhr angesetzt, aber wie üblich offen.
+Am Maus-Tag findet allerdings auch ab 14:00 Uhr der Kramermarktsumzug statt, durch
+den einige Straßen in der Innenstadt gesperrt sein werden. Deswegen werden wir
+den Space auch schon deutlich vor 14:00 Uhr öffnen.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vorbereitung-und-planungstreffen&quot;&gt;Vorbereitung und Planungstreffen&lt;&#x2F;h2&gt;
+&lt;p&gt;Am &lt;strong&gt;19. September um 19:00 Uhr&lt;&#x2F;strong&gt; findet (nach dem CoderDojo) ein Planungstreffen statt,
+in dem wir besprechen, was alles zu tun ist und wer Lust hätte, welche
+Mitmachaktion zu übernehmen. Kommt gerne dazu, sammelt Ideen und helft mit!&lt;&#x2F;p&gt;
+&lt;p&gt;Denkbare Mitmachaktionen sind:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Programmieren&lt;&#x2F;strong&gt; im Stil vom CoderDojo, zum Beispiel mit der Scratch-Oberfläche von “Programmieren mit der Maus”&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;E-Werkstatt&lt;&#x2F;strong&gt;: Lötstationen mit kleinen Elektronikprojekten&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Laser&lt;&#x2F;strong&gt;: Übungsboxen und Minecraft-Lampen&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Nähmaschinen&lt;&#x2F;strong&gt;: Anhänger aus Filz&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Strickmaschinen&lt;&#x2F;strong&gt;: Selbst kurbeln oder schieben an einer der Maschinen&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Holzwerkstatt&lt;&#x2F;strong&gt;: Laubsägen und verzieren&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;3D-Druck&lt;&#x2F;strong&gt;: Namensschilder und Fidgets&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Buttonmaschine&lt;&#x2F;strong&gt;: Eigene Motive und Buttons mit Maus, Ente und Elefant&lt;&#x2F;li&gt;
+&lt;li&gt;Ein &lt;strong&gt;Snake-Turnier&lt;&#x2F;strong&gt; auf der großen LED-Matrix&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Rasterelektronenmikroskop&lt;&#x2F;strong&gt;: Demo der Technik und&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Die Vorschläge oben sind optional – wir können auch noch etwas ganz Neues
+hinzufügen, wenn jemand das organisieren will. Was wir konkret anbieten können,
+hängt also davon ab, wer und wie viele Leute zum Helfen dabei sind.&lt;&#x2F;p&gt;
+&lt;p&gt;Falls ihr es nicht zum Treffen schafft, meldet euch gerne in der
+CoderDojo-Gruppe, direkt bei Anna oder Patrick oder schaut ins Planungspad:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;md.mainframe.io&#x2F;TuerenAufTagOrga&quot;&gt;Planungspad&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Zusätzlich dazu treffen wir uns am Vortag der Aktion, am &lt;strong&gt;2. Oktober ab 18:00 Uhr&lt;&#x2F;strong&gt; zum
+&lt;strong&gt;Aufräumen und Putzen&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Wir freuen uns über alle, die in der Planung und am 3. Oktober mithelfen
+können, egal ob ihr schon etwas vorbereitet habt oder spontan dabei seid.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;termine&quot;&gt;Termine&lt;&#x2F;h2&gt;
+&lt;p&gt;Hier einmal die Termine im Überblick:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Planungstreffen: Samstag, 19. September, 19:00 Uhr&lt;&#x2F;li&gt;
+&lt;li&gt;SpaceCleaning: Freitag, 2. Oktober ab 18:00 Uhr&lt;&#x2F;li&gt;
+&lt;li&gt;Türen-Auf-Tag: Samstag, 3. Oktober 14:00 Uhr bis 19:00 Uhr&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;anmeldungen-fur-teilnehmende&quot;&gt;Anmeldungen für Teilnehmende&lt;&#x2F;h2&gt;
+&lt;p&gt;Die Teilnehmenden konnten sich für die Aktion per Mail anmelden – wir haben 70 Plätze eingeplant und waren schon nach zwei Wochen komplett ausgebucht.&lt;&#x2F;p&gt;
+&lt;p&gt;Wer leider keinen Platz bekommen hat oder direkt nach der Aktion weitermachen möchte, kann gerne bei einem unserer CoderDojos vorbeischauen. Die Termine dazu finden sich im Kalender und auf der Code Club-Seite:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mainframe.io&#x2F;calendar&#x2F;&quot;&gt;Space-Kalender&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeclub.org&#x2F;en&#x2F;clubs&#x2F;c74a2d46-8c66-4c54-9f55-4270d6e52c06&quot;&gt;Oldenburg@KtT bei Code Club&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;media&#x2F;blog&#x2F;2026&#x2F;maus-tag&#x2F;260227_RZ_Maus_TamdM-2026_Onlinebanner_1024x576px.jpg&quot; alt=&quot;Türen auf mit der Maus Onlinebanner&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="de">
         <title>15 Jahre KtT &amp; Mainframe: Wir feiern!</title>
         <published>2026-08-23T19:42:00+00:00</published>
