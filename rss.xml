@@ -7,7 +7,39 @@
       <generator>Zola</generator>
       <language>de</language>
       <atom:link href="https://www.mainframe.io/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 03 Oct 2026 17:08:13 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 10 Oct 2026 17:45:28 +0000</lastBuildDate>
+      <item>
+          <title>IFS 1913</title>
+          <pubDate>Sat, 10 Oct 2026 17:45:28 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1913/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1913/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1913/"></description>
+      </item>
+      <item>
+          <title>IFS 1914</title>
+          <pubDate>Sat, 10 Oct 2026 17:45:28 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1914/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1914/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1914/"></description>
+      </item>
+      <item>
+          <title>IFS 1912</title>
+          <pubDate>Sun, 04 Oct 2026 18:37:41 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1912/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1912/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1912/"></description>
+      </item>
+      <item>
+          <title>IFS 1911</title>
+          <pubDate>Sun, 04 Oct 2026 18:37:21 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1911/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1911/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1911/"></description>
+      </item>
       <item>
           <title>IFS 1899</title>
           <pubDate>Sat, 03 Oct 2026 17:08:13 +0000</pubDate>
@@ -47,6 +79,62 @@
           <link>https://www.mainframe.io/images/ifs/2026/1903/</link>
           <guid>https://www.mainframe.io/images/ifs/2026/1903/</guid>
           <description xml:base="https://www.mainframe.io/images/ifs/2026/1903/"></description>
+      </item>
+      <item>
+          <title>IFS 1904</title>
+          <pubDate>Sat, 03 Oct 2026 17:08:13 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1904/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1904/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1904/"></description>
+      </item>
+      <item>
+          <title>IFS 1905</title>
+          <pubDate>Sat, 03 Oct 2026 17:08:13 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1905/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1905/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1905/"></description>
+      </item>
+      <item>
+          <title>IFS 1906</title>
+          <pubDate>Sat, 03 Oct 2026 17:08:13 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1906/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1906/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1906/"></description>
+      </item>
+      <item>
+          <title>IFS 1907</title>
+          <pubDate>Sat, 03 Oct 2026 17:08:13 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1907/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1907/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1907/"></description>
+      </item>
+      <item>
+          <title>IFS 1908</title>
+          <pubDate>Sat, 03 Oct 2026 17:08:13 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1908/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1908/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1908/"></description>
+      </item>
+      <item>
+          <title>IFS 1909</title>
+          <pubDate>Sat, 03 Oct 2026 17:08:13 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1909/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1909/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1909/"></description>
+      </item>
+      <item>
+          <title>IFS 1910</title>
+          <pubDate>Sat, 03 Oct 2026 17:08:13 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1910/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1910/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1910/"></description>
       </item>
       <item>
           <title>IFS 1897</title>
