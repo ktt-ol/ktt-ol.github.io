@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
+    <title>Mainframe - Chaostreff</title>
+    <subtitle>Website des Hackspace Mainframe</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://www.mainframe.io/serie/chaostreff/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.mainframe.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-22T19:42:00+00:00</updated>
+    <id>https://www.mainframe.io/serie/chaostreff/atom.xml</id>
+    <entry xml:lang="de">
+        <title>Chaostreff CTF-Challenge</title>
+        <published>2026-10-22T19:42:00+00:00</published>
+        <updated>2026-10-22T19:42:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Markus Framer
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.mainframe.io/blog/2026/chaostreff-ctf-challenge/"/>
+        <id>https://www.mainframe.io/blog/2026/chaostreff-ctf-challenge/</id>
+        
+        <content type="html" xml:base="https://www.mainframe.io/blog/2026/chaostreff-ctf-challenge/">&lt;p&gt;An vier Tagen hintereinander beteiligen wir uns als Chaostreff gemeinsam an einem
+&lt;strong&gt;Capture the Flag (CTF)&lt;&#x2F;strong&gt; von TryHackMe: &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;tryhackme.com&#x2F;downtime&quot;&gt;Downtime&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Die Challenge dreht sich um die &lt;strong&gt;Verteidigung von IT-Systemen&lt;&#x2F;strong&gt; auf Medium-Level
+und besteht aus vier Teilen:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Digitale Forensik&lt;&#x2F;li&gt;
+&lt;li&gt;Malware-Analyse&lt;&#x2F;li&gt;
+&lt;li&gt;Threat Hunting&lt;&#x2F;li&gt;
+&lt;li&gt;Alert Triage&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Vorkenntnisse in IT-Sicherheit braucht ihr nicht, etwas IT-Affinität reicht. Wir versuchen, jeden Teil
+in einem eigenen Slot zu beginnen, damit ihr auch nur bei einzelnen Teilen
+einsteigen könnt.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Donnerstag, 22. Oktober, 18:00 bis 22:00 Uhr&lt;&#x2F;li&gt;
+&lt;li&gt;Freitag, 23. Oktober, 20:00 bis 23:00 Uhr&lt;&#x2F;li&gt;
+&lt;li&gt;Samstag, 24. Oktober, 15:00 bis 19:42 Uhr&lt;&#x2F;li&gt;
+&lt;li&gt;Sonntag, 25. Oktober, 15:00 bis 19:00 Uhr&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Die AttackBox im Browser dürfte bei vielen gleichzeitigen Teilnehmenden recht
+langsam werden – eine lokale VM (z.B. Kali oder Parrot OS) ist die flüssigere
+Alternative. Bitte &lt;strong&gt;macht vor der Software-Installation ein Backup&lt;&#x2F;strong&gt;.
+Hinweise zur Vorbereitung findet ihr im Pad:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;md.mainframe.io&#x2F;Chaostreff:CTF-Challenge&quot;&gt;Chaostreff CTF-Challenge Pad&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Wir freuen uns auf euch!&lt;&#x2F;p&gt;
+
+&lt;img src=&quot;..&#x2F;..&#x2F;..&#x2F;processed_images&#x2F;ccc-ol-logo.4244ec4dddfbaa6e.png&quot;&#x2F;&gt;
+</content>
+        
+    </entry>
+</feed>
