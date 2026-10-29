@@ -7,7 +7,15 @@
       <generator>Zola</generator>
       <language>de</language>
       <atom:link href="https://www.mainframe.io/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 22 Oct 2026 19:42:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 28 Oct 2026 23:17:27 +0000</lastBuildDate>
+      <item>
+          <title>IFS 1921</title>
+          <pubDate>Wed, 28 Oct 2026 23:17:27 +0000</pubDate>
+          <author>Markus Framer</author>
+          <link>https://www.mainframe.io/images/ifs/2026/1921/</link>
+          <guid>https://www.mainframe.io/images/ifs/2026/1921/</guid>
+          <description xml:base="https://www.mainframe.io/images/ifs/2026/1921/"></description>
+      </item>
       <item>
           <title>Chaostreff CTF-Challenge</title>
           <pubDate>Thu, 22 Oct 2026 19:42:00 +0000</pubDate>
